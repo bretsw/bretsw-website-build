@@ -3,7 +3,7 @@ title = "Alessia's Bulwark"
 
 date = 2015-05-01T00:00:00
 lastmod = 2018-05-18T00:00:00
-draft = true
+draft = false
 
 tags = [""]
 summary = "A bit of fiction to realize truth."
