@@ -5,11 +5,11 @@ date = 2015-05-01T00:00:00
 lastmod = 2018-05-18T00:00:00
 draft = false
 
-tags = [""]
+tags = ["fiction", "real life", "online community"]
 summary = "A bit of fiction to realize truth."
 
 [header]
-image = "headers/getting-started.png"
+image = "bokeh1.jpg"
 caption = ""
 
 [[gallery_item]]
