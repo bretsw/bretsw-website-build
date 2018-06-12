@@ -19,7 +19,7 @@ authors = ["Spencer P. Greenhalgh", "K. Bret Staudt Willet", "Joshua M. Rosenber
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *TechTrends*, ."
+publication = "In *TechTrends*"
 publication_short = "*TechTrends*"
 
 # Abstract and optional shortened version.
