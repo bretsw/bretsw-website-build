@@ -259,9 +259,9 @@ enableGitInfo = false
     link = "https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en"
 
   [[params.social]]
-    icon = "rss"
+    icon = "list-alt"
     icon_pack = "fa"
-    link = "//bretsw.com/feed"
+    link = "//bretsw.com/cv"
 
 
 

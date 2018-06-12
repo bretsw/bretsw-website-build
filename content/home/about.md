@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Educational Technology",
+    "Teacher Education",
     "Participatory Culture",
     "Online Communities"
   ]
@@ -34,6 +35,8 @@ weight = 5
 +++
 
 # Hey there, I'm Bret.
+
+{{% staticref "files/cv.pdf" %}}*Download my CV*{{% /staticref %}}
 
 I am interested in understanding participation as a complex phenomenon in large and busy spaces on the Internet. More specifically, my research focuses on teacher participation in online communities; I am exploring how and why teachers use social media, especially Twitter, for professional purposes. Teachers have used Twitter for purposes such as (a) offering collegial peer support in the face of professional isolation (i.e., the experience of being the sole adult in the classroom or the one subject-matter expert in the building), (b) supplementing professional development for improving classroom practices, and (c) tracking and keeping abreast of updated and changing teaching standards and educational policies. I want to know about both the broad trends of usage as well as the details of the interactions in these online spaces and communities.
 
