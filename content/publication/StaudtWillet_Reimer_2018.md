@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://bretsw.github.io/files/StaudtWillet_Reimer_2018.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

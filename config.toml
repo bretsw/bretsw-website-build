@@ -261,7 +261,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "list-alt"
     icon_pack = "fa"
-    link = "http://bretsw.com/cv/"
+    link = "https://bretsw.github.io/files/cv.pdf"
 
 
 
