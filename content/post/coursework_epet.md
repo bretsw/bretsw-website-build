@@ -1,8 +1,8 @@
 +++
-title = "Coursework: Graduate Certificate in Serious Game Design and Research"
+title = "Coursework: PhD in Educational Psychology and Educational Technology"
 
-date = 2014-04-30T00:00:00
-lastmod = 2014-04-30T00:00:00
+date = 2018-05-01T00:00:00
+lastmod = 2018-05-01T00:00:00
 draft = false
 
 tags = ["coursework", "transcript", "msu"]
@@ -52,22 +52,82 @@ caption = ""
 
 +++
 
-In 2014, I completed a 3-course Graduate Certificate in [Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) through Michigan State University's College of Communication Arts and Sciences. I wanted to offer a bit of my experience in each course.
+I am currently in the midst of completing my coursework for a PhD in [Educational Psychology and Educational Technology](http://education.msu.edu/cepse/epet/) through Michigan State University's College of Education. For now, I want to list each course, and hopefully down the road I'll get chance to write about my experience in each.
 
-## TC 831: Theories of Games and Interaction for Design  
-*Fall 2012*  
-**Instructors:** [Patrick Shaw](https://www.linkedin.com/in/patrick-shaw-5802791/), [Dr. Carrie Heeter](https://comartsci.msu.edu/our-people/carrie-heeter)  
+## CEP 900: Proseminar in Learning, Technology and Culture  
+*Summer 2016*  
+**Instructors:** [Dr. Cary Roseth](http://education.msu.edu/search/FormView.aspx?email=croseth@msu.edu), [Dr. Matthew Koehler](http://www.matt-koehler.com/) 
 
-In TC 831, I learned a broad overview of theories for learning and theories for research-driven serious game design. Learning theories covered included behaviorism, constructivism, multiple intelligences, experiential learning, socially constructed knowledge, distributed cognition, systems thinking, and gamification. I learned game-based learning design principles such as intrinsic and extrinsic motivation, theories of persuasion, scaffolding, feedback and assessment, zone of proximal development, competition and cooperation, pedagogical agents, embodied learning, situated learning, models of fun, and media effects. For the final project of this course I wrote a proposal for a research-driven serious game, complete with a literature review of background research, description of core game mechanics, and development budget. 
+Historical, theoretical, empirical, methodological, and philosophical issues. Research literature on learning, teaching subject matter, and social-cultural contexts.
 
-## TC 841: Understanding Users 
-*Fall 2013*  
-**Instructors:** [Dr. Carrie Heeter](https://comartsci.msu.edu/our-people/carrie-heeter), [Patrick Shaw](https://www.linkedin.com/in/patrick-shaw-5802791/)
+## CEP 901b: Proseminar in Educational Technology  
+*Spring 2017*  
+**Instructor:** [Dr. Christine Greenhow](http://www.cgreenhow.org/)
 
-In TC 841, I learned about designing serious games with players at the center. The course followed the phases of an emergent design process, in which the early Research phase is broad and scattered, the Concept phase begins to narrow focus somewhat, and finally the Design phase produces something specific to test. I practiced implementing user experience (UX) research tools including literature review, competitive analysis, listening tours, strategy workshops, sampling strategies, observation heuristics, user observation methods, surveys, interviews, focus group research, persona creation, and budgeting. I also learned UX design tools such as design briefs, sketching and wireframes, paper prototypes, and usability testing. For the final project of this course I wrote an ethnographic research report covering my use of these many tools and a proposal for a serious game to aid low-income grocery shoppers make healthier food choices. 
+Historical, theoretical, empirical, methodological, and philosophical issues. Research literature on technology in education.
 
-## TC 830: Foundations of Serious Games  
-*Spring 2014*  
-**Instructors:** [Patrick Shaw](https://www.linkedin.com/in/patrick-shaw-5802791/), [Dr. Carrie Heeter](https://comartsci.msu.edu/our-people/carrie-heeter)
+## CEP 916: Intellectual History of Educational Technology  
+*Spring 2018*  
+**Instructor:** [Dr. Rand Spiro](http://cogflextheory.org)
 
-In TC 830, I learned a broad overview of serious-game genres and a deep look at the game design process. Genres of serious games studied included games for health, games for learning, corporate games, persuasive games, newsgames, and military games. I completed short projects working on adaptations of commercial off-the-shelf games, new game concepts, game mechanics, playtesting and iteration, and gamification principles. For the final project of this course I worked with a partner to research, define mechanics, playtest, and pitch a card game to teach college freshmen about making healthy eating choices in their dining hall.
+History of technology and learning in formal and informal settings. Historical, theoretical, empirical, methodological, and philosophical issues in the study of technology in education. Teachers’ use of educational technology.
+
+## CEP 930: Proseminar in Learning Technology and Culture  
+*Summer 2016*  
+**Instructors:** [Dr. Cary Roseth](http://education.msu.edu/search/FormView.aspx?email=croseth@msu.edu), [Dr. Matthew Koehler](http://www.matt-koehler.com/) 
+
+Multiple sources of inquiry. Critical assessment of common assumptions about research. Relationship between data and theory. Objectivity, validity, and causal inference across research traditions. Research ethics. Relationship among researcher, researched, and audience. Question formation.
+
+## CEP 931: Introduction to Qualitative Methods in Educational Research 
+*Summer 2017*  
+**Instructor:** [Dr. Christine Greenhow](http://www.cgreenhow.org/), [Dr. Spencer Greenhalgh](http://www.spencergreenhalgh.com/)
+
+Concepts and assumptions underlying multiple traditions of qualitative research methods in education. Relationship between research questions and qualitative research design. Epistemology, methods, and ethical issues of ethnography, case study research, grounded theory, oral history and discourse analysis. Criteria for appraising and critiquing qualitative research designs, claims, and evidence
+
+## CEP 932: Quantitative Methods in Educational Research I  
+*Fall 2016*  
+**Instructors:** [Dr. Auðbjörg Björnsdóttir](http://stefania.unak.is/stefania/moja-starfsmadurenska.asp?starfsm=audbjorg), [Brooke Quisenberry](https://www.linkedin.com/in/brooke-quisenberry-41b1b4110/)
+
+Techniques in data collection and data analysis used in educational and psychological research. Graphical and tabular representation of data. Concepts of statistical inference in educational contexts.
+
+## CEP 933: Quantitative Methods in Educational Research II  
+*Spring 2018*  
+**Instructors:** [Dr. Auðbjörg Björnsdóttir](http://stefania.unak.is/stefania/moja-starfsmadurenska.asp?starfsm=audbjorg), [Brooke Quisenberry](https://www.linkedin.com/in/brooke-quisenberry-41b1b4110/)
+
+Advanced techniques of data analysis and statistical inference used in educational and psychological research. Multiple regression, analysis of variance, and basic principles of experimental design in educational applications.
+
+## CEP 991b: Theory and Method of Social Networks  
+*Fall 2018*  
+**Instructors:** [Dr. Ken Frank](https://msu.edu/~kenfrank/)
+
+Special topics in educational statistics and research design. Integrate statistical methods that help address the dependencies inherent in social network data and graphical techniques for representing social structure with theory from organizational studies, communications, social psychology, etc.
+
+## CEP 953: Teachers and Technology  
+*Summer 2017*  
+**Instructor:** [Dr. Emily Bouck](https://education.msu.edu/search/Formview.aspx?email=ecb%40msu.edu)
+
+Impact of new technologies on teacher knowledge and practices of teaching. Teachers' use of technology, teacher knowledge, teacher education, and changing roles of teachers.
+
+## CEP 956: Mind, Media, and Learning  
+*Fall 2018*  
+**Instructor:** [Dr. Christine Greenhow](http://www.cgreenhow.org/)
+
+Philosophy, psychology, and sociology of new media. Media effects and learning with media. Issues of gender, identity, culture in technologically mediated environments, including Internet, virtual reality, computer games, simulations, artificial intelligence (AI) systems, and pedagogical agents.
+
+## WRA 891: Culture, Rhetoric, and User Experience Design 
+*Fall 2017*  
+**Instructor:** [Dr. Ben Lauren](http://benlauren.com/)
+
+Theory and research that comprises and informs User Experience Design in the context of writing studies, or what we call Experience Architecture (XA) here at MSU. Explore the interplay between XA theory, research, and practice for a range of applications, paying close attention to the rhetorical and cultural conditions and infrastructures that influence the work of XA.
+
+## CEP 955: Research Design and Methods for Educational Psychology an Educational Technology   
+*Fall 2017*  
+**Instructor:** [Dr. Ralph Putnam](https://education.msu.edu/search/Formview.aspx?email=ralphp%40msu.edu)
+
+Research design and methods for studying learning, development, technology, and culture in educational contexts: classrooms, computer-mediated environments, homes, communities, and workplaces.
+
+## CEP 995: Practicum in Research Design and Data Analysis  
+*Summer 2018*  
+**Instructors:** [Dr. Matthew Koehler](http://www.matt-koehler.com/), [Dr. Christine Greenhow](http://www.cgreenhow.org/)
+
+Supervised research practicum. Design, execution, analysis, presentation, critique, and revision of research projects.
