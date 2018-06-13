@@ -28,6 +28,11 @@ weight = 5
   year = 2015
 
 [[education.courses]]
+  course = "Graduate Certificate in Serious Game Design and Research"
+  institution = "Michigan State University"
+  year = 2014
+
+[[education.courses]]
   course = "BA in Mathematics & Sociology"
   institution = "Bucknell University"
   year = 2003
