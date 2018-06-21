@@ -73,7 +73,7 @@ Throughout my career, I have worked to design tools that make space for learning
 **American Educational Research Association** [AERA](https://www.aera.net/)  
 *Division C* – Learning and Instruction  
 *Division K* – Teaching and Teacher Education  
-*Teaching as an Agent of Change in Teaching & Learning* (TACTL) SIG
+*Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
 
 **Association of Internet Researchers** [AoIR](http://aoir.org/)  
 
