@@ -64,3 +64,19 @@ In total, I worked for InterVarsity from 2003 until 2017, and I was a frequent p
 ## Design Background
 
 Throughout my career, I have worked to design tools that make space for learning and change. I developed three 6-week immersion learning and cross-cultural experiences for students spending summers in three very different urban environments: Addis Ababa, Ethiopia; Manila, Philippines; and Lancaster, Pennsylvania. I created a card game to help graduating students prepare for life after college, a board game to help staff in my region work toward a more collaborative team culture, and an additional half-dozen prototypes for digital educational games.
+
+## Professional Affiliations
+
+Association for Educational Communications & Technology (AECT)  
+*Research & Theory Division*
+
+American Educational Research Association (AERA)  
+*Division C* – Learning and Instruction  
+*Division K* – Teaching and Teacher Education  
+*Teaching as an Agent of Change in Teaching & Learning* (TACTL) SIG
+
+Association of Internet Researchers (AoIR)
+
+Society for Information Technology and Teacher Education (SITE)  
+*Social Media SIG*  
+:fa-trophy Outstanding Paper Award, 2017
