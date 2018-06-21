@@ -40,14 +40,14 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://bretsw.github.io/files/Greenhalgh_StaudtWillet_Rosenberg_Koehler_preprint.pdf"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "http://dx.doi.org/10.1007/s11528-018-0313-6"
+url_source = "https://doi.org/10.1007/s11528-018-0313-6"
 
 # Does the content use math formatting?
 math = false
