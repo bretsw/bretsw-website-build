@@ -78,5 +78,5 @@ Throughout my career, I have worked to design tools that make space for learning
 **Association of Internet Researchers** [AoIR](http://aoir.org/)  
 
 **Society for Information Technology and Teacher Education** [SITE](http://site.aace.org/)  
-<i class="fa fa-trophy"></i> Outstanding Paper Award, 2017  
-*Social Media SIG*
+*Social Media SIG*  
+<i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/177469/), 2017
