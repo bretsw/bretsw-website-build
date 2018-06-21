@@ -67,16 +67,16 @@ Throughout my career, I have worked to design tools that make space for learning
 
 ## Professional Affiliations
 
-Association for Educational Communications & Technology (AECT)  
+[Association for Educational Communications & Technology](https://aect.org/) (AECT)  
 *Research & Theory Division*
 
-American Educational Research Association (AERA)  
+[American Educational Research Association](https://www.aera.net/) (AERA)  
 *Division C* – Learning and Instruction  
 *Division K* – Teaching and Teacher Education  
 *Teaching as an Agent of Change in Teaching & Learning* (TACTL) SIG
 
-Association of Internet Researchers (AoIR)
+[Association of Internet Researchers](http://aoir.org/) (AoIR)
 
-Society for Information Technology and Teacher Education (SITE)  
+[Society for Information Technology and Teacher Education](http://site.aace.org/) (SITE)  
 *Social Media SIG*  
-:fa-trophy Outstanding Paper Award, 2017
+:fa-trophy: Outstanding Paper Award, 2017
