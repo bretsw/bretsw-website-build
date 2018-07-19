@@ -36,7 +36,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`. 
 #   For example, projects = ["frames"]
-projects = []
+projects = ["reths"]
 
 # Links (optional).
 url_pdf = "https://bretsw.github.io/files/Rosenberg_Akcaoglu_StaudtWillet_Greenhalgh_Koehler_2017.pdf"

@@ -36,7 +36,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`. 
 #   For example, projects = ["social_scholarship"]
-projects = []
+projects = ["social_scholarship"]
 
 # Links (optional).
 url_pdf = "https://bretsw.github.io/files/Greenhow_Gleason_Marich_StaudtWillet_2017.pdf"
