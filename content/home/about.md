@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Educational Technology",
     "Teacher Education",
-    "Online Communities"
+    "Online Communities",
+    "Participatory Culture"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -42,9 +43,9 @@ weight = 5
 
 {{% staticref "files/cv.pdf" %}}*Download my CV*{{% /staticref %}}
 
-I am interested in understanding *learning* as a complex phenomenon (involving both acquisition of knowledge and participation in a community) in large and busy spaces on the Internet. More specifically, my research focuses on how teachers learn together in digital spaces; I am exploring how and why teachers use social media, especially Twitter, for professional purposes. Teachers have used Twitter for purposes such as offering collegial peer support in the face of professional isolation (i.e., the experience of being the sole adult in the classroom or the one subject-matter expert in the building), supplementing professional development for improving classroom practices, and tracking and keeping abreast of updated and changing teaching standards and educational policies. I want to know about both the broad trends of usage as well as the details of these online interactions.
+I am interested in understanding *participation* and *learning* as complex phenomena in large and busy spaces on the Internet. More specifically, my research focuses on how teachers learn together in digital spaces; I am exploring how and why teachers use social media, especially Twitter, for professional purposes. Teachers have used Twitter for purposes such as offering collegial peer support in the face of professional isolation (i.e., the experience of being the sole adult in the classroom or the one subject-matter expert in the building), supplementing professional development for improving classroom practices, and tracking and keeping abreast of ever-evolving teaching standards and educational policies. I want to know about both the broad trends of usage as well as the details of these online interactions.
 
-Toward this end, I am a PhD student in the [Educational Psychology & Educational Technology](http://edutech.educ.msu.edu/) doctoral program at Michigan State University. 
+Toward this end, I am a PhD student in the [Educational Psychology & Educational Technology](http://edutech.educ.msu.edu/) doctoral program in the College of Education at Michigan State University. 
  
 I consider my strongest credential to be my ongoing connection with my first online friend, who I met in an AOL chatroom in the early 1990s. Perhaps my best attribute is my ability to search out and stick with sincere people looking for meaningful human connection through the Internet. Through all that I'm doing, I hope to be working toward a more generous and humane Internet, one person at a time.
 
