@@ -13,7 +13,8 @@ weight = 5
     "Educational Technology",
     "Teacher Education",
     "Online Communities",
-    "Participatory Culture"
+    "Participatory Culture",
+    "Computational Social Science"
   ]
 
 # List your qualifications (such as academic degrees).
