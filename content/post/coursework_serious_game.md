@@ -49,7 +49,6 @@ caption = ""
 #    * Indented list item
 # 2. Ordered list item 2
 
-
 +++
 
 In 2014, I completed a 3-course Graduate Certificate in [Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) through Michigan State University's College of Communication Arts and Sciences. Here I offer a bit of my experience in each course.  
