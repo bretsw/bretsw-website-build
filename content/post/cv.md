@@ -56,45 +56,45 @@ caption = ""
 # K. Bret Staudt Willet  
 ### PhD Student, Michigan State University
 
-<i class="fa faEnvelopeO"></i> [Email](mailto:bret@bretsw.com) 
-<i class="fa fa-Twitter"></i> [Twitter](https://twitter.com/bretsw) 
-<i class="fa fa-Github"></i>[Github](https://github.com/bretsw) 
-<i class="fa fa-Linkedin"></i>[LinkedIn](https://www.linkedin.com/in/bretsw/) 
-<i class="fa fa-GraduationCap"></i>[Google Scholar](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en)
+[Email](mailto:bret@bretsw.com) - 
+[Twitter](https://twitter.com/bretsw) - 
+[Github](https://github.com/bretsw) - 
+[LinkedIn](https://www.linkedin.com/in/bretsw/) - 
+[Google Scholar](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en)
 
 **Keywords:** *educational technology, teacher education, computational social science*
 
 # Education
 
 *Michigan State University, College of Education*  
-PhD Educational Psychology & Educational Technology \hfill 2016-present  
-MA Educational Technology \hfill 2012-2015
+PhD Educational Psychology & Educational Technology - 2016-present  
+MA Educational Technology - *2012-2015*
 
 *Bucknell University, College of Arts & Sciences*  
-BA Mathematics & Sociology \hfill 1999-2003
+BA Mathematics & Sociology - 1999-2003
 
 # Further Training
 
-*Doctoral Colloquium* \hfill 2018  
-Association of Internet Researchers (AoIR) \hfill Montreal QC
+*Doctoral Colloquium* - 2018  
+Association of Internet Researchers (AoIR) - Montreal QC
 
-*Methods for Analyzing and Modeling Textual Data* \hfill 2018  
-Summer School Series on Methods for Computational Social Science \hfill Los Angeles CA
+*Methods for Analyzing and Modeling Textual Data* - 2018  
+Summer School Series on Methods for Computational Social Science - Los Angeles CA
 
-*Getting and Cleaning Data* \hfill 2018  
-Certificate – Johns Hopkins University \hfill Coursera.org
+*Getting and Cleaning Data* - 2018  
+Certificate – Johns Hopkins University - Coursera.org
 
-*The Data Scientist’s Toolbox* \hfill 2018  
-Certificate – Johns Hopkins University \hfill Coursera.org
+*The Data Scientist’s Toolbox* - 2018  
+Certificate – Johns Hopkins University - Coursera.org
 
-*R Programming* \hfill 2017  
-Certificate – Johns Hopkins University \hfill Coursera.org
+*R Programming* - 2017  
+Certificate – Johns Hopkins University - Coursera.org
 
-*Serious Game Design and Research* \hfill 2014  
-Graduate Certificate – MSU College of Communication Arts & Sciences \hfill East Lansing MI
+*Serious Game Design and Research* - 2014  
+Graduate Certificate – MSU College of Communication Arts & Sciences - East Lansing MI
 
-*Game Design and Facilitation* \hfill 2012  
-Workshop Certificate – The Thiagi Group at NASAGA \hfill Columbus OH
+*Game Design and Facilitation* - 2012  
+Workshop Certificate – The Thiagi Group at NASAGA - Columbus OH
 
 # Publications
 
@@ -163,75 +163,75 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 # Awards & Funding
 
-*Summer Research Renewable Fellowship* - $6,000/year x 2 years \hfill 2018-2019  
-Michigan State University, College of Education \hfill East Lansing MI
+*Summer Research Renewable Fellowship* - $6,000/year x 2 years - 2018-2019  
+Michigan State University, College of Education - East Lansing MI
 
-*Outstanding Paper Award* \hfill 2017  
-SITE International Conference \hfill Austin TX
+*Outstanding Paper Award* - 2017  
+SITE International Conference - Austin TX
 
-*Best Existing Film* \hfill 2014  
-Code for the Kingdom Hackathon \hfill Austin TX
+*Best Existing Film* - 2014  
+Code for the Kingdom Hackathon - Austin TX
 
-*Presidential Fellowship* - $20,000/year x 3 years \hfill 2000-2003  
-Bucknell University \hfill Lewisburg PA
+*Presidential Fellowship* - $20,000/year x 3 years - 2000-2003  
+Bucknell University - Lewisburg PA
 
 # Service
 
 ## Ad-hoc Journal Article Reviews
 
-Learning, Media and Technology (with Dr. Christine Greenhow, faculty reviewer) \hfill 2016  
+Learning, Media and Technology (with Dr. Christine Greenhow, faculty reviewer) - 2016  
 
 ## Service to Department
 
-Practicum Committee Member, Sarah Galvin, Michigan State University \hfill 2018  
+Practicum Committee Member, Sarah Galvin, Michigan State University - 2018  
 
 ## Service to Profession
 
 Association for Educational Communications & Technology (AECT)  
-*Graduate Student Representative*, Research & Theory Division \hfill 2018-2019
+*Graduate Student Representative*, Research & Theory Division - 2018-2019
 
 American Educational Research Association (AERA)  
-*Session Presider/Chair*, Annual Meeting (New York NY) \hfill 2018
+*Session Presider/Chair*, Annual Meeting (New York NY) - 2018
 
 Society for Information Technology and Teacher Education (SITE)  
-*Graduate Student Intern*, Social Media SIG \hfill 2018-2019  
-*Session Presider/Chair*, International Conference (Washington DC) \hfill 2018
+*Graduate Student Intern*, Social Media SIG - 2018-2019  
+*Session Presider/Chair*, International Conference (Washington DC) - 2018
 
 Passion Talks Conference (Google HQ, Mountain View CA)  
-*Science, Technology, & Innovation Track Chair* \hfill 2017  
-*Conference Executive Committee Member* \hfill 2017  
-*Conference Program Committee Member* \hfill 2017
+*Science, Technology, & Innovation Track Chair* - 2017  
+*Conference Executive Committee Member* - 2017  
+*Conference Program Committee Member* - 2017
 
 Urbana International Conference (St. Louis MO)  
-*Hackathon Core Leadership Team Member* \hfill 2015  
-*Hackathon Mentor Coordinator* \hfill 2015
+*Hackathon Core Leadership Team Member* - 2015  
+*Hackathon Mentor Coordinator* - 2015
 
 North American Simulation and Game Association (NASAGA)  
-*Board Member* \hfill 2013-2015  
-*Conference Committee Member*, Annual Conference (Seattle WA) \hfill 2015  
-*Conference Committee Member*, Annual Conference (Baltimore MD) \hfill 2014
+*Board Member* - 2013-2015  
+*Conference Committee Member*, Annual Conference (Seattle WA) - 2015  
+*Conference Committee Member*, Annual Conference (Baltimore MD) - 2014
 
 ## Consulting
 
-Social Network Analysis, Katie Schenkel, Michigan State University \hfill 2018  
-Content Analysis for Doctoral Dissertation, Colin Terry, Michigan State University \hfill 2018  
+Social Network Analysis, Katie Schenkel, Michigan State University - 2018  
+Content Analysis for Doctoral Dissertation, Colin Terry, Michigan State University - 2018  
 
 # Professional Experience
 
-*Co-Founder* \hfill 2018-present  
-Birch Wayfinders, LLC \hfill Remote  
+*Co-Founder* - 2018-present  
+Birch Wayfinders, LLC - Remote  
 * Consulted with Nautilus Trackers, LLC on building machine learning into a hybrid training model
 
-*Graduate Assistant/Instructor* \hfill 2017-present  
-Michigan State University, College of Education \hfill East Lansing MI  
+*Graduate Assistant/Instructor* - 2017-present  
+Michigan State University, College of Education - East Lansing MI  
 Department of Counseling, Educational Psychology, & Special Education  
 * Taught CEP 416 - Teaching & Learning with Technology (Undergraduate)  
 * Taught CEP 813 - Electronic Assessment for Teaching and Learning (Master’s)  
 * Taught CEP 817 - Learning Technology through Design (Master’s)  
 * Taught CEP 820 - Teaching Students Online (Master’s)
 
-*Founding National Director* – Ministry in Digital Spaces \hfill 2014-2017  
-InterVarsity Christian Fellowship/USA \hfill United States  
+*Founding National Director* – Ministry in Digital Spaces - 2014-2017  
+InterVarsity Christian Fellowship/USA - United States  
 * Grew core staff team from 1 to 12  
 * Oversaw 51 projects related to online community building  
 * Supervised 8 project leads  
@@ -239,8 +239,8 @@ InterVarsity Christian Fellowship/USA \hfill United States
 * Managed annual budget of $500k  
 * Raised over $100k annually from individual donors
 
-*Area Director* \hfill 2009-2014  
-InterVarsity Christian Fellowship/USA \hfill South Central Pennsylvania  
+*Area Director* - 2009-2014  
+InterVarsity Christian Fellowship/USA - South Central Pennsylvania  
 * Supervised 17 different staff  
 * Directed 11 conferences for students from 7 colleges  
 * Delivered more than 100 talks at 13 different colleges and 8 inter-collegiate conferences  
@@ -248,47 +248,47 @@ InterVarsity Christian Fellowship/USA \hfill South Central Pennsylvania
 * Developed and facilitated 30 training seminars for staff and students  
 * Raised over $100k annually from individual donors
 
-*Associate Area Director* \hfill 2009-2014  
-InterVarsity Christian Fellowship/USA \hfill South Central Pennsylvania  
+*Associate Area Director* - 2009-2014  
+InterVarsity Christian Fellowship/USA - South Central Pennsylvania  
 * Supervised 1 staff  
 * Trained 4 interns  
 * Raised over $100k annually from individual donors
 
-*Chapter Planter* – Lebanon Valley College; Millersville University; Penn State Harrisburg \hfill 2007-2009  
-InterVarsity Christian Fellowship/USA \hfill South Central Pennsylvania  
+*Chapter Planter* – Lebanon Valley College; Millersville University; Penn State Harrisburg - 2007-2009  
+InterVarsity Christian Fellowship/USA - South Central Pennsylvania  
 * Started chapters at 3 college campuses
 
-*Director* – Summer Urban Program \hfill 2006; 2009-2012  
-InterVarsity Christian Fellowship/USA \hfill Lancaster PA  
+*Director* – Summer Urban Program - 2006; 2009-2012  
+InterVarsity Christian Fellowship/USA - Lancaster PA  
 * Designed and facilitated five 6-week immersive learning programs for undergraduate students  
 * Received training in Mexico City, Mexico
 
-*Director* – Summer Global Program \hfill 2005  
-InterVarsity Christian Fellowship/USA \hfill Manila, Philippines  
+*Director* – Summer Global Program - 2005  
+InterVarsity Christian Fellowship/USA - Manila, Philippines  
 * Designed and facilitated a 6-week immersive, experiential learning program for undergraduate students  
 * Received training in Addis Ababa, Ethiopia
 
-*Campus Staff Member* – Franklin & Marshall College \hfill 2003-2007  
-InterVarsity Christian Fellowship/USA \hfill Lancaster PA  
+*Campus Staff Member* – Franklin & Marshall College - 2003-2007  
+InterVarsity Christian Fellowship/USA - Lancaster PA  
 * Trained, coached, and supported more than 50 different undergraduate student volunteer leaders  
 * Participated in a National Chapter Building Cohort (2006–2007)  
 * Apprenticed under international students to learn to cook food from Taiwan, China, Thailand, Japan, India, Nigeria, and Ghana  
 * Raised over $50k annually from individual donors
 
-*Research Assistant* – Department of Sociology \hfill 2002-2003  
-Bucknell University, College of Arts & Sciences \hfill Lewisburg PA  
+*Research Assistant* – Department of Sociology - 2002-2003  
+Bucknell University, College of Arts & Sciences - Lewisburg PA  
 * Reviewed literature in social psychology and situational identity
 
-*Research Assistant* – Department of Mathematics \hfill 2000-2002  
-Bucknell University, College of Arts & Sciences \hfill Lewisburg PA  
+*Research Assistant* – Department of Mathematics - 2000-2002  
+Bucknell University, College of Arts & Sciences - Lewisburg PA  
 * Assisted with research in L-functions and Maass form deformations
 
-*Summer Research Experience for Undergraduates* (REU) – Department of Mathematics \hfill 2000  
-Bucknell University, College of Arts & Sciences \hfill Lewisburg PA  
+*Summer Research Experience for Undergraduates* (REU) – Department of Mathematics - 2000  
+Bucknell University, College of Arts & Sciences - Lewisburg PA  
 * Assisted with research in L-functions and Maass form deformations
 
-*Calculus Tutor* – Department of Mathematics \hfill 1999-2000  
-Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
+*Calculus Tutor* – Department of Mathematics - 1999-2000  
+Bucknell University, College of Arts & Sciences - Lewisburg PA
 
 # Professional Affiliations
 
@@ -304,4 +304,3 @@ Association of Internet Researchers (AoIR)
 
 Society for Information Technology and Teacher Education (SITE)  
 *Social Media SIG*
-

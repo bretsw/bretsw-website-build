@@ -40,7 +40,8 @@ weight = 5
 
 # Hey there, I'm Bret.
 
-{{% staticref "files/cv.pdf" %}}*Download my CV*{{% /staticref %}}
+[*Read my CV*](https://bretsw.github.io/post/cv/) 
+{{% staticref "files/cv.pdf" %}}(or download){{% /staticref %}}
 
 I am interested in understanding *participation* and *learning* as complex phenomena in large and busy spaces on the Internet. More specifically, my research focuses on how teachers learn together in digital spaces; I am exploring how and why teachers use social media, especially Twitter, for professional purposes. Teachers have used Twitter for purposes such as offering collegial peer support in the face of professional isolation (i.e., the experience of being the sole adult in the classroom or the one subject-matter expert in the building), supplementing professional development for improving classroom practices, and tracking and keeping abreast of ever-evolving teaching standards and educational policies. I want to know about both the broad trends of usage as well as the details of these online interactions.
 
