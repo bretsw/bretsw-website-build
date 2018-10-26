@@ -55,7 +55,7 @@ I am interested in how social media supports teacher education and teacher profe
 **American Educational Research Association** [AERA](https://www.aera.net/)  
 *Division K* – Teaching and Teacher Education  
 *Computer and Internet Applications in Education* (CIAE) SIG  
-*Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
+*Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
 <i class="fa fa-trophy"></i> [Nominated for Best Paper Award, 2019
 
 **Association of Internet Researchers** [AoIR](http://aoir.org/)  
