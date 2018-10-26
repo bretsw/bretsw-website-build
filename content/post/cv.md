@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2018-09-15T00:00:00
+lastmod = 2018-10-26T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -62,16 +62,17 @@ caption = ""
 [LinkedIn](https://www.linkedin.com/in/bretsw/) - 
 [Google Scholar](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en)
 
-**Keywords:** *educational technology, teacher education, computational social science*
+**Keywords:** *social constructivism, social media, teacher education*
 
 # Education
 
 *Michigan State University, College of Education*  
-PhD Educational Psychology & Educational Technology - 2016-present  
-MA Educational Technology - *2012-2015*
+PhD, Educational Psychology & Educational Technology - 2021  
+MA, Educational Technology - 2015  
+Graduate Certificate, Serious Game Design and Research - 2014
 
 *Bucknell University, College of Arts & Sciences*  
-BA Mathematics & Sociology - 1999-2003
+BA, Mathematics & Sociology - 2003
 
 # Further Training
 
@@ -112,7 +113,13 @@ Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Edu
 
 ## Peer-Reviewed Conference Proceedings
 
-**Staudt Willet**, K. B., & Willet, B. D. (2018, October). *Look who’s talking: Using human coding to establish a machine learning approach to Twitter education chats.* Paper to be presented at AoIR 2018: The 19th Annual Conference of the Association of Internet Researchers. Montreal, Canada: AoIR. Retrieved from http://spir.aoir.org
+Carpenter, J. P., Koehler, M. J., **Staudt Willet**, K. B., & Greenhalgh, S. P. (2019, March). *Spam, spam, spam, spam: Methodological considerations and challenges for studying educators’ Twitter use.* Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2019. Las Vegas, NV.
+
+**Staudt Willet**, K. B. (2019, March). *#Edchat is bigger, but better only for some: Revisiting how and why educators use Twitter.* Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2019. Las Vegas, NV.
+
+**Staudt Willet**, K. B., & Carpenter, J. P. (2019, March). *Educators on the front page of the Internet: Education-related subreddits as learning spaces.* Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2019. Las Vegas, NV.
+
+**Staudt Willet**, K. B., & Willet, B. D. (2018, October). *Look who’s talking: Using human coding to establish a machine learning approach to Twitter education chats.* Paper presented at AoIR 2018: The 19th Annual Conference of the Association of Internet Researchers. Montreal, QB, Canada: AoIR. Retrieved from http://spir.aoir.org
 
 **Staudt Willet**, K. B., & Reimer, P. N. (2018, March). The career you save may be your own: Exploring the mathtwitterblogosphere as a community of practice. In E. Langran & J. Borup (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2018* (pp. 2324-2329). Waynesville, NC: Association for the Advancement of Computing in Education (AACE).
 
@@ -126,14 +133,15 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 ## Peer-Reviewed Conference Presentations
 
-**Staudt Willet**, K. B. (2018, October). Mixed methods social network analysis
-for understanding teacher participation and learning in digital spaces. *Research in Text Mining, Social Network Analysis, Learning Analytics, & Adaptive Learning.* Graduate student panel discussion hosted by the International Council for Educational Media (ICEM), at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
+**Staudt Willet**, K. B. (2019, April). *Is bigger better? Exploring educators’ uses and gratifications in Twitter #Edchat.* Paper to be presented at the American Educational Research Association (AERA) Annual Meeting 2019. Toronto, ON, Canada. 
 
-**Staudt Willet**, K. B. (2018, October). *Cyborg methods: The benefits of mixing human and machine coding.* Paper to be presented at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
+**Staudt Willet**, K. B. (2018, October). Teacher participation in digital spaces: What kinds of learning spaces are on Reddit?. *Research in Text Mining, Social Network Analysis, Learning Analytics, & Adaptive Learning.* Graduate student panel discussion hosted by the International Council for Educational Media (ICEM) at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
 
-**Staudt Willet**, K. B. (2018, October). *Self-promoters, bots, and moderators: Exploring educators’ participatory actions, roles, and culture in Twitter #Edchat.* Paper to be presented at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
+**Staudt Willet**, K. B. (2018, October). *Cyborg methods: The benefits of mixing human and machine coding.* Paper presented at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
 
-**Staudt Willet**, K. B., Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J. (2018, October). *Won’t you be my neighbor? How education stakeholders use hyperlinks to build information neighborhoods on Twitter.* Paper to be presented at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
+**Staudt Willet**, K. B. (2018, October). *Self-promoters, bots, and moderators: Exploring educators’ participatory actions, roles, and culture in Twitter #Edchat.* Paper presented at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
+
+**Staudt Willet**, K. B., Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J. (2018, October). *Won’t you be my neighbor? How education stakeholders use hyperlinks to build information neighborhoods on Twitter.* Paper presented at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., Akcaoglu, M., & Koehler, M. J. (2018, April). *Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning.* Paper presented at the American Educational Research Association (AERA) Annual Meeting 2018. New York, NY. 
 
@@ -163,6 +171,10 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 # Awards & Funding
 
+Nominated for *Best Paper Award* \hfill 2019  
+Technology as an Agent of Change in Teaching in Learning (TACTL) SIG
+AERA Annual Meeting \hfill Toronto ON
+
 *Summer Research Renewable Fellowship* - $6,000/year x 2 years - 2018-2019  
 Michigan State University, College of Education - East Lansing MI
 
@@ -183,7 +195,9 @@ Learning, Media and Technology (with Dr. Christine Greenhow, faculty reviewer) -
 
 ## Service to Department
 
-Practicum Committee Member, Sarah Galvin, Michigan State University - 2018  
+Practicum Committee Member, Sarah Galvin, Michigan State University \hfill 2018  
+Social Network Analysis, Katie Schenkel, Michigan State University \hfill 2018  
+Content Analysis for Doctoral Dissertation, Colin Terry, Michigan State University \hfill 2018 
 
 ## Service to Profession
 
@@ -210,11 +224,6 @@ North American Simulation and Game Association (NASAGA)
 *Board Member* - 2013-2015  
 *Conference Committee Member*, Annual Conference (Seattle WA) - 2015  
 *Conference Committee Member*, Annual Conference (Baltimore MD) - 2014
-
-## Consulting
-
-Social Network Analysis, Katie Schenkel, Michigan State University - 2018  
-Content Analysis for Doctoral Dissertation, Colin Terry, Michigan State University - 2018  
 
 # Professional Experience
 
