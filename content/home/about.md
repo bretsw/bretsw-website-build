@@ -40,7 +40,7 @@ weight = 5
 
 # Hey there, I'm Bret.
 
-[*Read my CV*](https://bretsw.github.io/post/cv/) [or download ]({{< staticref "files/cv.pdf" >}})
+[*Read my CV*](https://bretsw.github.io/post/cv/)
 
 I am currently a third year PhD student in the [Educational Psychology & Educational Technology](http://edutech.educ.msu.edu/) program at Michigan State University. My research focuses on how and why K-20 educators connect with each other through social media; I am especially interested in how these platforms can support social constructivist processes for teacher education and teacher professional development. This work is interdisciplinary and utilizes a variety of methods—both human and computational—including qualitative content analysis, social network analysis, and machine learning. I also hold a [Master's Degree in Educational Technology](http://edutech.educ.msu.edu/programs/masters/) and a [Graduate Certificate in Serious Game Design and Research](https://gamedev.msu.edu/serious-games/) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](https://education.msu.edu/cepse/maet/certificates/online-teaching/), as well as a course to help undergraduate pre-service teachers think critically about using technology for teaching and learning. I still consider my strongest credential to be my ongoing connection with my first online friend, who I met in an AOL chatroom in the early 1990s.
 
