@@ -3,11 +3,12 @@ output:
   pdf_document: default
   html_document: default
 ---
+
 +++
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2018-10-26T00:00:00
+lastmod = 2018-11-20T00:00:00
 draft = false
 
 tags = ["cv", "msu"]

@@ -8,12 +8,12 @@ date = 2018-11-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
+[interests] 
   interests = [
-    "Social Media",
-    "Social Constructivism",
+    "Social Media", 
+    "Social Constructivism", 
     "Teacher Education"
-  ]
+    ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
@@ -39,8 +39,6 @@ weight = 5
 +++
 
 # Hey there, I'm Bret.
-
-
 
 [*Read my CV*](https://bretsw.github.io/post/cv/) (
 {{% staticref "files/cv.pdf" %}}or download{{% /staticref %}})
