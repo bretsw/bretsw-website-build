@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 +++
 title = "CV"
 
@@ -49,9 +54,8 @@ caption = ""
 #    * Indented list item
 # 2. Ordered list item 2
 
-
-
 +++
+
 
 # K. Bret Staudt Willet  
 ### PhD Student, Michigan State University
@@ -62,7 +66,7 @@ caption = ""
 [LinkedIn](https://www.linkedin.com/in/bretsw/) - 
 [Google Scholar](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en)
 
-**Keywords:** *social constructivism, social media, teacher education*
+**Keywords:** *social media, social constructivism, teacher education*
 
 # Education
 
@@ -100,6 +104,8 @@ Workshop Certificate – The Thiagi Group at NASAGA - Columbus OH
 # Publications
 
 ## Peer-Reviewed Journal Articles
+
+Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (under review). Social scholarship revisited: Changing scholarly practices in the age of social media.
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends.* Retrieved from https://doi.org/10.1007/s11528-018-0313-6
 
@@ -171,9 +177,12 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 # Awards & Funding
 
-Nominated for *Best Paper Award* \hfill 2019  
-Technology as an Agent of Change in Teaching in Learning (TACTL) SIG
-AERA Annual Meeting \hfill Toronto ON
+Nominated for *Best Paper Award* - 2019  
+Technology as an Agent of Change in Teaching in Learning (TACTL) SIG  
+AERA Annual Meeting - Toronto ON
+
+*Council of Graduate Students (COGS) Professional Development Award* - $500 - 2018  
+Michigan State University, College of Education - East Lansing MI
 
 *Summer Research Renewable Fellowship* - $6,000/year x 2 years - 2018-2019  
 Michigan State University, College of Education - East Lansing MI

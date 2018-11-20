@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2018-10-26T00:00:00
+date = 2018-11-20T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Social Constructivism",
     "Social Media",
+    "Social Constructivism",
     "Teacher Education"
   ]
 
@@ -45,7 +45,7 @@ weight = 5
 [*Read my CV*](https://bretsw.github.io/post/cv/) (
 {{% staticref "files/cv.pdf" %}}or download{{% /staticref %}})
 
-I am interested in how social media supports teacher education and teacher professional development, especially through social constructivist processes.  My research is interdisciplinary and utilizes a variety of methods—both human and computational—including qualitative content analysis, social network analysis, and machine learning. I am currently a third year PhD student in the [Educational Psychology & Educational Technology](http://edutech.educ.msu.edu/) program at Michigan State University. I also hold a [Master's Degree in Educational Technology](http://edutech.educ.msu.edu/programs/masters/)  and a [Graduate Certificate in Serious Game Design and Research](https://gamedev.msu.edu/serious-games/) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I have taught each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](https://education.msu.edu/cepse/maet/certificates/online-teaching/). I still consider my strongest credential to be my ongoing connection with my first online friend, who I met in an AOL chatroom in the early 1990s. 
+I am currently a third year PhD student in the [Educational Psychology & Educational Technology](http://edutech.educ.msu.edu/) program at Michigan State University. My research focuses on how and why K-20 educators connect with each other through social media; I am especially interested in how these platforms can support social constructivist processes for teacher education and teacher professional development. This work is interdisciplinary and utilizes a variety of methods—both human and computational—including qualitative content analysis, social network analysis, and machine learning. I also hold a [Master's Degree in Educational Technology](http://edutech.educ.msu.edu/programs/masters/) and a [Graduate Certificate in Serious Game Design and Research](https://gamedev.msu.edu/serious-games/) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](https://education.msu.edu/cepse/maet/certificates/online-teaching/), as well as a course to help undergraduate pre-service teachers think critically about using technology for teaching and learning. I still consider my strongest credential to be my ongoing connection with my first online friend, who I met in an AOL chatroom in the early 1990s.
 
 ## Professional Affiliations
 
@@ -56,7 +56,7 @@ I am interested in how social media supports teacher education and teacher profe
 *Division K* – Teaching and Teacher Education  
 *Computer and Internet Applications in Education* (CIAE) SIG  
 *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
-<i class="fa fa-trophy"></i> [Nominated for Best Paper Award, 2019
+<i class="fa fa-trophy"></i> Nominated for Best Paper Award, 2019
 
 **Association of Internet Researchers** [AoIR](http://aoir.org/)  
 <i class="fa fa-graduation-cap"></i> Doctoral Colloquium, 2018
