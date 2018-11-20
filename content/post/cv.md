@@ -205,9 +205,9 @@ Learning, Media and Technology (with Dr. Christine Greenhow, faculty reviewer) -
 
 ## Service to Department
 
-Practicum Committee Member, Sarah Galvin, Michigan State University \hfill 2018  
-Social Network Analysis, Katie Schenkel, Michigan State University \hfill 2018  
-Content Analysis for Doctoral Dissertation, Colin Terry, Michigan State University \hfill 2018 
+Practicum Committee Member, Sarah Galvin, Michigan State University - 2018  
+Social Network Analysis, Katie Schenkel, Michigan State University - 2018  
+Content Analysis for Doctoral Dissertation, Colin Terry, Michigan State University - 2018 
 
 ## Service to Profession
 
