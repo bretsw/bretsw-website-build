@@ -162,6 +162,8 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ## Invited Talks
 
+**Staudt Willet**, K. B. (2018, November). *Bigger is not always better: Revisiting how and why educators use Twitter #Edchat.* Talk for EPET program brownbag seminar at Michigan State University: East Lansing, MI.
+
 **Staudt Willet**, K. B. (2017, November). *Once more unto the practicum, dear friends: Research lessons from studying social interactions on social media.* Talk for EPET program brownbag seminar at Michigan State University: East Lansing, MI. 
 
 **Staudt Willet**, K. B. (2016, August). *How did we get here?* Keynote address at Passion Talks Conference 2016. Fremont, CA.
