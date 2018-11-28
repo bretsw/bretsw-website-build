@@ -61,7 +61,7 @@ caption = ""
 [LinkedIn](https://www.linkedin.com/in/bretsw/) - 
 [Google Scholar](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en)
 
-**Keywords:** *social media, social constructivism, teacher education*
+**Keywords:** *social media, social learning, teacher education*
 
 # Education
 
@@ -201,7 +201,7 @@ Learning, Media and Technology (with Dr. Christine Greenhow, faculty reviewer) -
 
 ## Service to Department
 
-Practicum Committee Member, Sarah Galvin, Michigan State University - 2018  
+Practicum Committee Member, Sarah Galvin, Michigan State University - 2018-2019  
 Social Network Analysis, Katie Schenkel, Michigan State University - 2018  
 Content Analysis for Doctoral Dissertation, Colin Terry, Michigan State University - 2018 
 

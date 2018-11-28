@@ -11,7 +11,7 @@ weight = 5
 [interests] 
   interests = [
     "Social Media", 
-    "Social Constructivism", 
+    "Social Learning", 
     "Teacher Education"
     ]
 
