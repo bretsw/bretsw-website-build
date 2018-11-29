@@ -54,6 +54,11 @@ caption = ""
 
 I am currently in the midst of completing my coursework for a PhD in [Educational Psychology and Educational Technology](http://education.msu.edu/cepse/epet/) through Michigan State University's College of Education. For now, I want to list each course, and hopefully down the road I'll get chance to write about my experience in each.
 
+**Course department guide:**  
+* CEP = *Department of Counseling, Educational Psychology, & Special Education*  
+* TE = *Department of Teacher Education*  
+* WRA = *Department of Writing, Rhetoric, & American Cultures*
+
 ## Theory and History
 
 ### CEP 900: Proseminar in Learning, Technology and Culture  
@@ -82,7 +87,7 @@ History of technology and learning in formal and informal settings. Historical, 
 
 Multiple sources of inquiry. Critical assessment of common assumptions about research. Relationship between data and theory. Objectivity, validity, and causal inference across research traditions. Research ethics. Relationship among researcher, researched, and audience. Question formation.
 
-### CEP 931: Introduction to Qualitative Methods in Educational Research 
+### TE 931: Introduction to Qualitative Methods in Educational Research 
 *Summer 2017*  
 **Instructor:** [Dr. Christine Greenhow](http://www.cgreenhow.org/), [Dr. Spencer Greenhalgh](http://www.spencergreenhalgh.com/)
 
@@ -119,6 +124,12 @@ Impact of new technologies on teacher knowledge and practices of teaching. Teach
 **Instructor:** [Dr. Christine Greenhow](http://www.cgreenhow.org/)
 
 Philosophy, psychology, and sociology of new media. Media effects and learning with media. Issues of gender, identity, culture in technologically mediated environments, including Internet, virtual reality, computer games, simulations, artificial intelligence (AI) systems, and pedagogical agents.
+
+### TE 907: Psychological Study of Teaching  
+*Spring 2019*  
+**Instructor:** [Dr. Ralph Putnam](https://education.msu.edu/search/Formview.aspx?email=ralphp%40msu.edu)  
+
+Research literature on psychological aspects of teachers and teaching. Topics include teacher's decision-making, learning from experience, and developmental changes.
 
 ### WRA 891: Culture, Rhetoric, and User Experience Design 
 *Fall 2017*  
