@@ -261,7 +261,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "list-alt"
     icon_pack = "fa"
-    link = "https://bretsw.github.io/post/cv/"
+    link = "//bretsw.github.io/post/cv/"
+
+  [[params.social]]
+    icon = "id-badge"
+    icon_pack = "fa"
+    link = "//orcid.org/0000-0002-6984-416X"
 
 
 
