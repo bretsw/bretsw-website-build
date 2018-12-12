@@ -105,11 +105,17 @@ Techniques in data collection and data analysis used in educational and psycholo
 
 Advanced techniques of data analysis and statistical inference used in educational and psychological research. Multiple regression, analysis of variance, and basic principles of experimental design in educational applications.
 
-### CEP 991b: Theory and Method of Social Networks  
+### CEP 991b1: Theory and Method of Social Networks  
 *Fall 2018*  
 **Instructors:** [Dr. Ken Frank](https://msu.edu/~kenfrank/)
 
 Special topics in educational statistics and research design. Integrate statistical methods that help address the dependencies inherent in social network data and graphical techniques for representing social structure with theory from organizational studies, communications, social psychology, etc.
+
+### CEP 991b2: Applying Social Network Methods  
+*Spring 2019*  
+**Instructors:** [Dr. Ken Frank](https://msu.edu/~kenfrank/)
+
+Workshop course on the application of social network methods to empirical (or simulated) data. Methods include models of influence through a social network, selection of network partners, and graphical representations and clustering of networks.  
 
 ## Research Area Concentration
 
@@ -146,7 +152,7 @@ Theory and research that comprises and informs User Experience Design in the con
 Research design and methods for studying learning, development, technology, and culture in educational contexts: classrooms, computer-mediated environments, homes, communities, and workplaces.
 
 ### CEP 995: Practicum in Research Design and Data Analysis  
-*Summer 2018*  
+*Fall 2017 - Summer 2018*  
 **Instructors:** [Dr. Matthew Koehler](http://www.matt-koehler.com/), [Dr. Christine Greenhow](http://www.cgreenhow.org/)
 
 Supervised research practicum. Design, execution, analysis, presentation, critique, and revision of research projects.
