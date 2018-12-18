@@ -73,34 +73,33 @@ Graduate Certificate, Serious Game Design and Research - 2014
 *Bucknell University, College of Arts & Sciences*  
 BA, Mathematics & Sociology - 2003
 
-# Further Training
+# Awards & Funding
 
-*Doctoral Colloquium* - 2018  
-Association of Internet Researchers (AoIR) - Montreal QC
+Nominated for *Best Paper Award* - 2019  
+Technology as an Agent of Change in Teaching in Learning (TACTL) SIG  
+AERA Annual Meeting - Toronto ON
 
-*Methods for Analyzing and Modeling Textual Data* - 2018  
-Summer School Series on Methods for Computational Social Science - Los Angeles CA
+*Council of Graduate Students (COGS) Professional Development Award* - $500 - 2018  
+Michigan State University, College of Education - East Lansing MI
 
-*Getting and Cleaning Data* - 2018  
-Certificate – Johns Hopkins University - Coursera.org
+*Summer Research Renewable Fellowship* - $6,000/year x 2 years - 2018-2019  
+Michigan State University, College of Education - East Lansing MI
 
-*The Data Scientist’s Toolbox* - 2018  
-Certificate – Johns Hopkins University - Coursera.org
+*Outstanding Paper Award* - 2017  
+SITE International Conference - Austin TX
 
-*R Programming* - 2017  
-Certificate – Johns Hopkins University - Coursera.org
-
-*Serious Game Design and Research* - 2014  
-Graduate Certificate – MSU College of Communication Arts & Sciences - East Lansing MI
-
-*Game Design and Facilitation* - 2012  
-Workshop Certificate – The Thiagi Group at NASAGA - Columbus OH
+*Presidential Fellowship* - $20,000/year x 3 years - 2000-2003  
+Bucknell University - Lewisburg PA
 
 # Publications
 
 ## Peer-Reviewed Journal Articles
 
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). Religious practices in online spaces: Practices, identities, and networks in Twitter #ldsconf.
+
 Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (under review). Social scholarship revisited: Changing scholarly practices in the age of social media.
+
+**Staudt Willet**, K. B. (under review). Revisiting how and why educators use Twitter: Uses and gratifications in #Edchat.
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends.* Retrieved from https://doi.org/10.1007/s11528-018-0313-6
 
@@ -171,27 +170,6 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 **Staudt Willet**, K. B. (2015, September). *Patterns of online communities.* Webinar presented for Indigitous Sessions. Online.
 
 **Staudt Willet**, K. B. (2014, March). *What games say.* Guest lecture for an undergraduate course in Film & Media at Millersville University: Millersville, PA. 
-
-# Awards & Funding
-
-Nominated for *Best Paper Award* - 2019  
-Technology as an Agent of Change in Teaching in Learning (TACTL) SIG  
-AERA Annual Meeting - Toronto ON
-
-*Council of Graduate Students (COGS) Professional Development Award* - $500 - 2018  
-Michigan State University, College of Education - East Lansing MI
-
-*Summer Research Renewable Fellowship* - $6,000/year x 2 years - 2018-2019  
-Michigan State University, College of Education - East Lansing MI
-
-*Outstanding Paper Award* - 2017  
-SITE International Conference - Austin TX
-
-*Best Existing Film* - 2014  
-Code for the Kingdom Hackathon - Austin TX
-
-*Presidential Fellowship* - $20,000/year x 3 years - 2000-2003  
-Bucknell University - Lewisburg PA
 
 # Service
 
@@ -305,12 +283,36 @@ Bucknell University, College of Arts & Sciences - Lewisburg PA
 *Calculus Tutor* – Department of Mathematics - 1999-2000  
 Bucknell University, College of Arts & Sciences - Lewisburg PA
 
+# Further Training
+
+*Doctoral Colloquium* - 2018  
+Association of Internet Researchers (AoIR) - Montreal QC
+
+*Methods for Analyzing and Modeling Textual Data* - 2018  
+Summer School Series on Methods for Computational Social Science - Los Angeles CA
+
+*Getting and Cleaning Data* - 2018  
+Certificate – Johns Hopkins University - Coursera.org
+
+*The Data Scientist’s Toolbox* - 2018  
+Certificate – Johns Hopkins University - Coursera.org
+
+*R Programming* - 2017  
+Certificate – Johns Hopkins University - Coursera.org
+
+*Serious Game Design and Research* - 2014  
+Graduate Certificate – MSU College of Communication Arts & Sciences - East Lansing MI
+
+*Game Design and Facilitation* - 2012  
+Workshop Certificate – The Thiagi Group at NASAGA - Columbus OH
+
 # Professional Affiliations
 
 Association for Educational Communications & Technology (AECT)  
 *Research & Theory Division*
 
 American Educational Research Association (AERA)  
+*Division C* – Learning and Instruction  
 *Division K* – Teaching and Teacher Education  
 *Computer and Internet Applications in Education* (CIAE) SIG  
 *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
