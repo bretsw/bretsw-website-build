@@ -101,6 +101,8 @@ Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (under review). Social 
 
 **Staudt Willet**, K. B. (under review). Revisiting how and why educators use Twitter: Uses and gratifications in #Edchat.
 
+**Staudt Willet**, K. B., & Carpenter, J. P. (under review). Teachers on Reddit? Exploring professional learning in four education-related subreddits.
+
 Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends.* Retrieved from https://doi.org/10.1007/s11528-018-0313-6
 
 Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Educating social scholars: Examining novice researchers’ practices with social media. *Qwerty – Open and Interdisciplinary Journal of Technology, Culture and Education, 12*(2), 30-45. Retrieved from http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269
