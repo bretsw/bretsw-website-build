@@ -61,7 +61,7 @@ caption = ""
 [LinkedIn](https://www.linkedin.com/in/bretsw/) - 
 [Google Scholar](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en)
 
-**Keywords:** *social media, social learning, teacher education*
+**Keywords:** *networked learning, social media, educational technology*
 
 # Education
 
@@ -97,13 +97,13 @@ Bucknell University - Lewisburg PA
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). Religious practices in online spaces: Practices, identities, and networks in Twitter #ldsconf.
 
-Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (under review). Social scholarship revisited: Changing scholarly practices in the age of social media.
+Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (in revision). Social scholarship revisited: Changing scholarly practices in the age of social media.
 
-**Staudt Willet**, K. B. (under review). Revisiting how and why educators use Twitter: Uses and gratifications in #Edchat.
+**Staudt Willet**, K. B. (in revision). Revisiting how and why educators use Twitter: Uses and gratifications in #Edchat.
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (under review). Teachers on Reddit? Exploring professional learning in four education-related subreddits.
+**Staudt Willet**, K. B., & Carpenter, J. P. (in revision). Teachers on Reddit? Exploring professional learning in four education-related subreddits.
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends.* Retrieved from https://doi.org/10.1007/s11528-018-0313-6
+Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends, 62,* 501-508. doi:10.1007/s11528-018-0313-6
 
 Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Educating social scholars: Examining novice researchers’ practices with social media. *Qwerty – Open and Interdisciplinary Journal of Technology, Culture and Education, 12*(2), 30-45. Retrieved from http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269
 
@@ -114,6 +114,8 @@ Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Edu
 **Staudt Willet**, K. B., Koehler, M.J., & Greenhalgh, S.P. (2017). A tweet by any other frame: Comparing three theoretical frameworks for studying educator interactions on Twitter. In L. Liu & D. Gibson (Eds.), *Research highlights in technology and teacher education 2017* (pp. 63-70). Waynesville, NC: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.learntechlib.org/p/180960/ [Invited reprint of conference presentation in edited book]
 
 ## Peer-Reviewed Conference Proceedings
+
+Moudgalya, S. K., & **Staudt Willet**, K. B. (under review). *Communities and clusters: User interactions in an online discussion forum for computer science education.*
 
 Carpenter, J. P., Koehler, M. J., **Staudt Willet**, K. B., & Greenhalgh, S. P. (2019, March). *Spam, spam, spam, spam: Methodological considerations and challenges for studying educators’ Twitter use.* Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2019. Las Vegas, NV.
 

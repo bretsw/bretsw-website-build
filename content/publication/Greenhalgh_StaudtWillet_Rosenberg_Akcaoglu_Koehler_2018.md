@@ -39,7 +39,7 @@ selected = true
 projects = ["reths"]
 
 # Links (optional).
-url_pdf = "Greenhalgh_StaudtWillet_Rosenberg_Akcaoglu_Koehler_2018.pdf"
+url_pdf = "https://bretsw.github.io/files/Greenhalgh_StaudtWillet_Rosenberg_Akcaoglu_Koehler_2018.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
