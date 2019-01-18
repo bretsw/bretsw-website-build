@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2018-11-20T00:00:00
+date = 2019-01-17T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests] 
   interests = [
+    "Networked Learning",
     "Social Media", 
-    "Social Learning", 
-    "Teacher Education"
+    "Educational Technology"
     ]
 
 # List your qualifications (such as academic degrees).
@@ -51,6 +51,7 @@ I am currently a third year PhD student in the [Educational Psychology & Educati
 *Research & Theory Division*
 
 **American Educational Research Association** [AERA](https://www.aera.net/)  
+*Division C* – Learning and Instruction 
 *Division K* – Teaching and Teacher Education  
 *Computer and Internet Applications in Education* (CIAE) SIG  
 *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
