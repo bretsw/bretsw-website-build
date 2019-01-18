@@ -14,7 +14,7 @@ weight = 3
 [header]
   overlay_color = "#242833"  # An HTML color value.
   overlay_img = "headers/network-visualization-wide.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
@@ -24,4 +24,5 @@ weight = 3
   label = '<i class="fa fa-grav"></i> Contact'
 +++
 
-Welcome to the digital space of Bret Staudt Willet. What might we work on together?
+Welcome to the digital space of Bret Staudt Willet.  
+What might we work on together?
