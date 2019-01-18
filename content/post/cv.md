@@ -79,8 +79,11 @@ Nominated for *Best Paper Award* - 2019
 Technology as an Agent of Change in Teaching in Learning (TACTL) SIG  
 AERA Annual Meeting - Toronto ON
 
-*Council of Graduate Students (COGS) Professional Development Award* - $500 - 2018  
+*Research Practicum/Dissertation Development Fellowship* - $2,000 - 2019  
 Michigan State University, College of Education - East Lansing MI
+
+*Professional Development Award* - $500 - 2018  
+Michigan State University, Council of Graduate Students - East Lansing MI
 
 *Summer Research Renewable Fellowship* - $6,000/year x 2 years - 2018-2019  
 Michigan State University, College of Education - East Lansing MI
