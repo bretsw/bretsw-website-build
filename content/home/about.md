@@ -51,7 +51,7 @@ I am currently a third year PhD student in the [Educational Psychology & Educati
 *Research & Theory Division*
 
 **American Educational Research Association** [AERA](https://www.aera.net/)  
-*Division C* – Learning and Instruction 
+*Division C* – Learning and Instruction  
 *Division K* – Teaching and Teacher Education  
 *Computer and Internet Applications in Education* (CIAE) SIG  
 *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
