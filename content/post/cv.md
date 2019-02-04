@@ -118,9 +118,9 @@ Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Edu
 
 ## Peer-Reviewed Conference Proceedings
 
-Moudgalya, S. K., & **Staudt Willet**, K. B. (under review). *Communities and clusters: User interactions in an online discussion forum for computer science education.*
-
 Carpenter, J. P., Koehler, M. J., **Staudt Willet**, K. B., & Greenhalgh, S. P. (2019, March). *Spam, spam, spam, spam: Methodological considerations and challenges for studying educators’ Twitter use.* Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2019. Las Vegas, NV.
+
+Moudgalya, S. K., & **Staudt Willet**, K. B. (2019, March). *Communities and clusters: User interactions in an online discussion forum for computer science education.* Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2019. Las Vegas, NV.
 
 **Staudt Willet**, K. B. (2019, March). *#Edchat is bigger, but better only for some: Revisiting how and why educators use Twitter.* Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2019. Las Vegas, NV.
 
