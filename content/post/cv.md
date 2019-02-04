@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2019-01-17T00:00:00
+lastmod = 2019-02-04T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -53,7 +53,7 @@ caption = ""
 
 
 # K. Bret Staudt Willet  
-### PhD Student, Michigan State University
+### PhD Candidate, Michigan State University
 
 [Email](mailto:bret@bretsw.com) - 
 [Twitter](https://twitter.com/bretsw) - 
@@ -98,7 +98,7 @@ Bucknell University - Lewisburg PA
 
 ## Peer-Reviewed Journal Articles
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). Religious practices in online spaces: Practices, identities, and networks in Twitter #ldsconf.
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (in revision). Religious practices in online spaces: Practices, identities, and networks in Twitter #ldsconf.
 
 Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (in revision). Social scholarship revisited: Changing scholarly practices in the age of social media.
 
