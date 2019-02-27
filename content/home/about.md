@@ -61,5 +61,5 @@ I am a PhD candidate in the [Educational Psychology & Educational Technology](ht
 
 **Society for Information Technology and Teacher Education** [SITE](http://site.aace.org/)  
 *Social Media SIG*  
-<i class="fa fa-trophy"></i> Outstanding Paper Award, 2019
+<i class="fa fa-trophy"></i> Outstanding Paper Award, 2019  
 <i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/177469/), 2017
