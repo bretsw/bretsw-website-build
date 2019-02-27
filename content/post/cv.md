@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2019-02-04T00:00:00
+lastmod = 2019-02-27T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -75,9 +75,8 @@ BA, Mathematics & Sociology - 2003
 
 # Awards & Funding
 
-Nominated for *Best Paper Award* - 2019  
-Technology as an Agent of Change in Teaching in Learning (TACTL) SIG  
-AERA Annual Meeting - Toronto ON
+*Outstanding Paper Award* - 2019  
+SITE International Conference - Las Vegas NV
 
 *Research Practicum/Dissertation Development Fellowship* - $2,000 - 2019  
 Michigan State University, College of Education - East Lansing MI
@@ -98,9 +97,9 @@ Bucknell University - Lewisburg PA
 
 ## Peer-Reviewed Journal Articles
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (in revision). Religious practices in online spaces: Practices, identities, and networks in Twitter #ldsconf.
+Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (in press). Social scholarship revisited: Changing scholarly practices in the age of social media. *British Journal of Educational Technology.*
 
-Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (in revision). Social scholarship revisited: Changing scholarly practices in the age of social media.
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (in revision). Religious practices in online spaces: Practices, identities, and networks in Twitter #ldsconf.
 
 **Staudt Willet**, K. B. (in revision). Revisiting how and why educators use Twitter: Uses and gratifications in #Edchat.
 
@@ -194,6 +193,7 @@ Content Analysis for Doctoral Dissertation, Colin Terry, Michigan State Universi
 
 Association for Educational Communications & Technology (AECT)  
 *Graduate Student Representative*, Research & Theory Division - 2018-2019
+*Webinar Team Leader*, Graduate Student Association Division - 2018-2019
 
 American Educational Research Association (AERA)  
 *Session Presider/Chair*, Annual Meeting (New York NY) - 2018
@@ -217,10 +217,6 @@ North American Simulation and Game Association (NASAGA)
 *Conference Committee Member*, Annual Conference (Baltimore MD) - 2014
 
 # Professional Experience
-
-*Co-Founder* - 2018-present  
-Birch Wayfinders, LLC - Remote  
-* Consulted with Nautilus Trackers, LLC on building machine learning into a hybrid training model
 
 *Graduate Assistant/Instructor* - 2017-present  
 Michigan State University, College of Education - East Lansing MI  

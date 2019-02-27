@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2019-01-17T00:00:00
+date = 2019-02-27T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -55,11 +55,11 @@ I am a PhD candidate in the [Educational Psychology & Educational Technology](ht
 *Division K* – Teaching and Teacher Education  
 *Computer and Internet Applications in Education* (CIAE) SIG  
 *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
-<i class="fa fa-trophy"></i> Nominated for Best Paper Award, 2019
 
 **Association of Internet Researchers** [AoIR](http://aoir.org/)  
 <i class="fa fa-graduation-cap"></i> Doctoral Colloquium, 2018
 
 **Society for Information Technology and Teacher Education** [SITE](http://site.aace.org/)  
 *Social Media SIG*  
+<i class="fa fa-trophy"></i> Outstanding Paper Award, 2019
 <i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/177469/), 2017
