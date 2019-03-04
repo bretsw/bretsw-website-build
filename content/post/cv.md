@@ -192,7 +192,8 @@ Content Analysis for Doctoral Dissertation, Colin Terry, Michigan State Universi
 ## Service to Profession
 
 Association for Educational Communications & Technology (AECT)  
-*Graduate Student Representative*, Research & Theory Division - 2018-2019
+*Secretary*, Research & Theory Division - 2019-2020  
+*Graduate Student Representative*, Research & Theory Division - 2018-2019  
 *Webinar Team Leader*, Graduate Student Association Division - 2018-2019
 
 American Educational Research Association (AERA)  
@@ -279,7 +280,7 @@ Bucknell University, College of Arts & Sciences - Lewisburg PA
 Bucknell University, College of Arts & Sciences - Lewisburg PA  
 * Assisted with research in L-functions and Maass form deformations
 
-*Summer Research Experience for Undergraduates* (REU) – Department of Mathematics - 2000  
+*Research Intern: Summer Research Experience for Undergraduates* (REU) – Department of Mathematics - 2000  
 Bucknell University, College of Arts & Sciences - Lewisburg PA  
 * Assisted with research in L-functions and Maass form deformations
 
