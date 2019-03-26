@@ -85,7 +85,7 @@ enableGitInfo = false
   #   Uncomment line below to use.
   #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
 
-  # Diplay a logo in navigation bar rather than title (optional).
+  # Display a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
   logo = "icon.png"
 

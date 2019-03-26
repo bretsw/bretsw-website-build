@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2019-02-27T00:00:00
+lastmod = 2019-03-26T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -61,7 +61,7 @@ caption = ""
 [LinkedIn](https://www.linkedin.com/in/bretsw/) - 
 [Google Scholar](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en)
 
-**Keywords:** *networked learning, social media, educational technology*
+**Keywords:** *networked teacher learning, social media, educational technology*
 
 # Education
 
@@ -97,13 +97,15 @@ Bucknell University - Lewisburg PA
 
 ## Peer-Reviewed Journal Articles
 
-Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (in press). Social scholarship revisited: Changing scholarly practices in the age of social media. *British Journal of Educational Technology.*
+**Staudt Willet**, K. B. (in revision). Revisiting how and why educators use Twitter: Tweet types and purposes in #Edchat.
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (in revision). Religious practices in online spaces: Practices, identities, and networks in Twitter #ldsconf.
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). Expressions of Mormon identity and approaches to Mormon practice in the #ldsconf Twitter hashtag.
 
-**Staudt Willet**, K. B. (in revision). Revisiting how and why educators use Twitter: Uses and gratifications in #Edchat.
+Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (under review). Foregrounding technoethics: A contrarian perspective on the teacher educator technology competencies.
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (in revision). Teachers on Reddit? Exploring professional learning in four education-related subreddits.
+**Staudt Willet**, K. B., & Carpenter, J. P. (under review). Teachers on Reddit? Exploring professional learning in four education-related subreddits.
+
+Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (2019). Social scholarship revisited: Changing scholarly practices in the age of social media. *British Journal of Educational Technology.* doi:10.1111/bjet.12772
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends, 62,* 501-508. doi:10.1007/s11528-018-0313-6
 
@@ -181,7 +183,7 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ## Ad-hoc Journal Article Reviews
 
-Learning, Media and Technology (with Dr. Christine Greenhow, faculty reviewer) - 2016  
+*Learning, Media and Technology* (with Dr. Christine Greenhow, faculty reviewer) - 2016  
 
 ## Service to Department
 
@@ -200,6 +202,7 @@ American Educational Research Association (AERA)
 *Session Presider/Chair*, Annual Meeting (New York NY) - 2018
 
 Society for Information Technology and Teacher Education (SITE)  
+*Co-Chair*, Social Media SIG - 2019-2021  
 *Graduate Student Intern*, Social Media SIG - 2018-2019  
 *Session Presider/Chair*, International Conference (Washington DC) - 2018
 
