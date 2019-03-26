@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# First time initialization:
+# $: git submodule add -b master git@github.com:bretsw/bretsw.github.io.git public
+# Type in command line $: chmod +x deploy.sh
+
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # 1. Build the project.

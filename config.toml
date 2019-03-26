@@ -285,7 +285,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "https://bretsw.github.io/post/cv/"
+  url = "#cv"
   weight = 2
 
 [[menu.main]]
