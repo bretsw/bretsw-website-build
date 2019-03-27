@@ -4,9 +4,10 @@
 `git submodule add https://github.com/gcushen/hugo-academic themes/academic`
 
 # To update Academic theme:
-`bash ./update_academic.sh`
-
-`rm -rf public` to completely remove the public directory
+1. `bash ./update_academic.sh`  
+2. Get website working locally, then view - $: `hugo server`
+3. Completely remove the public directory - $: `rm -rf public`
+4. Make submodule linked to Github Pages site - $: `git submodule add -b master git@github.com:bretsw/bretsw.github.io.git public`
 
 
 # [Academic Kickstart](https://sourcethemes.com/academic/)
