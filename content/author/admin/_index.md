@@ -23,7 +23,8 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-   "Networked Teacher Learning",
+   "Networked Learning",
+   "Teacher Learning",
    "Social Media", 
    "Educational Technology"
 ]
@@ -84,16 +85,14 @@ interests = [
   link = "https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en"
 
 [[social]]
-  icon = "cv"
+  icon = "orcid"
   icon_pack = "ai"
-  link = "https://bretsw.github.io/post/cv/"
-
-[[social]]
-  icon = "id-badge"
-  icon_pack = "orcid"
   link = "https://orcid.org/0000-0002-6984-416X"
 
-
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "cv/"
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -127,6 +126,6 @@ I am a PhD candidate in the [Educational Psychology & Educational Technology](ht
 <i class="fa fa-graduation-cap"></i> Doctoral Colloquium, 2018
 
 **Society for Information Technology and Teacher Education** [SITE](http://site.aace.org/)  
-*Social Media SIG*  
 <i class="fa fa-trophy"></i> Outstanding Paper Award, 2019  
-<i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/177469/), 2017
+<i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/177469/), 2017  
+*Social Media SIG* 
