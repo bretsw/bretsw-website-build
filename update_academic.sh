@@ -1,21 +1,5 @@
 #!/usr/bin/env bash
 
-# Display available updates to Academic.
-#cd themes/academic
-#git fetch
-#git log --pretty=oneline --abbrev-commit --decorate HEAD..origin/master
-#cd ../../
-
-# Update Academic.
-#git submodule update --remote --merge
-
-
-
-
-
-
-#!/usr/bin/env bash
-
 # Source Themes Academic: Theme updater
 # Checks for available updates and then asks to install any updates.
 # https://sourcethemes.com/academic/
