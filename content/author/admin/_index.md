@@ -106,7 +106,7 @@ interests = [
 
 # Hey there, I'm Bret.
 
-[*Read my CV*](https://bretsw.com/cv/) or 
+[*Read my CV*](cv/) or 
 {{% staticref "files/cv.pdf" %}}download{{% /staticref %}}
 
 I am a PhD candidate in the [Educational Psychology & Educational Technology](http://edutech.educ.msu.edu/) program at Michigan State University. My research focuses on networked teacher learning—specifically, how social media platforms can support professional learning and induction in the process of K-20 educators becoming teachers. This work is interdisciplinary and utilizes a variety of methods—both human and computational—including qualitative content analysis, social network analysis, and machine learning. I hold a [Master's Degree in Educational Technology](http://edutech.educ.msu.edu/programs/masters/) and a [Graduate Certificate in Serious Game Design and Research](https://gamedev.msu.edu/serious-games/) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](https://education.msu.edu/cepse/maet/certificates/online-teaching/), as well as a course to help undergraduate pre-service teachers think critically about using technology for teaching and learning. I still consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
