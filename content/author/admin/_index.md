@@ -36,7 +36,7 @@ interests = [
 [[education.courses]]
   course = "PhD candidate in Educational Psychology & Educational Technology"
   institution = "Michigan State University"
-  year = 2021 (expected)
+  year = 2021
 
 [[education.courses]]
   course = "MA in Educational Technology"
