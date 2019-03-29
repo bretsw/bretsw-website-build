@@ -119,13 +119,13 @@ Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Edu
 
 ## Peer-Reviewed Conference Proceedings
 
-Carpenter, J. P., Koehler, M. J., **Staudt Willet**, K. B., & Greenhalgh, S. P. (2019, March). *Spam, spam, spam, spam: Methodological considerations and challenges for studying educators’ Twitter use.* Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2019. Las Vegas, NV.
+Carpenter, J. P., Koehler, M. J., **Staudt Willet**, K. B., & Greenhalgh, S. P. (2019, March). *Spam, spam, spam, spam: Methodological considerations and challenges for studying educators’ Twitter use.* Paper presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2019. Las Vegas, NV.
 
-Moudgalya, S. K., & **Staudt Willet**, K. B. (2019, March). *Communities and clusters: User interactions in an online discussion forum for computer science education.* Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2019. Las Vegas, NV.
+Moudgalya, S. K., & **Staudt Willet**, K. B. (2019, March). *Communities and clusters: User interactions in an online discussion forum for computer science education.* Paper presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2019. Las Vegas, NV.
 
-**Staudt Willet**, K. B. (2019, March). *#Edchat is bigger, but better only for some: Revisiting how and why educators use Twitter.* Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2019. Las Vegas, NV.
+**Staudt Willet**, K. B. (2019, March). *#Edchat is bigger, but better only for some: Revisiting how and why educators use Twitter.* Paper presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2019. Las Vegas, NV.
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (2019, March). *Educators on the front page of the Internet: Education-related subreddits as learning spaces.* Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2019. Las Vegas, NV.
+**Staudt Willet**, K. B., & Carpenter, J. P. (2019, March). *Educators on the front page of the Internet: Education-related subreddits as learning spaces.* Paper presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2019. Las Vegas, NV.
 
 **Staudt Willet**, K. B., & Willet, B. D. (2018, October). *Look who’s talking: Using human coding to establish a machine learning approach to Twitter education chats.* Paper presented at AoIR 2018: The 19th Annual Conference of the Association of Internet Researchers. Montreal, QB, Canada: AoIR. Retrieved from http://spir.aoir.org
 
@@ -139,9 +139,23 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017, March). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 1823-1830). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE).
 
+## Peer-Reviewed Conference Workshops
+
+Rosenberg, J. M., **Staudt Willet**, K. B., & Greenhalgh, S. P. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R.* Workshop to be facilitated at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV
+
 ## Peer-Reviewed Conference Presentations
 
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J.(under review). *Twitter hashtags and religious learning: Mormon identity and participatory practice in #ldsconf.*
+
+**Staudt Willet**, K. B., & Bagdy, L. (under review). *How do you do, fellow kids? "New teachers" in Twitter #ntchat.*
+
+**Staudt Willet**, K. B., & Moudgalya, S. K. (under review). *Community, network, or space: Conceptualizing inspired professional learning in an online discussion forum.*
+
+Greenhow, C. M., **Staudt Willet**, K. B., & Marich, H. (2019, July). *Scholarship reconsidered: Examining new scholars’ social media practices.* Paper to be presented at the 10th International Conference on Social Media & Society 2019. Toronto, ON, Canada.
+
 **Staudt Willet**, K. B. (2019, April). *Is bigger better? Exploring educators’ uses and gratifications in Twitter #Edchat.* Paper to be presented at the American Educational Research Association (AERA) Annual Meeting 2019. Toronto, ON, Canada. 
+
+Greenhalgh, S. P., Koehler, M. J., & **Staudt Willet**, K. B. (2019, March). *Every nation, kindred, tongue, and “tweeple”: International use of the #ldsconf Twitter hashtag.* Paper presented at the Decentered Mormonism Conference 2019. Bordeaux, France.
 
 **Staudt Willet**, K. B. (2018, October). Teacher participation in digital spaces: What kinds of learning spaces are on Reddit?. *Research in Text Mining, Social Network Analysis, Learning Analytics, & Adaptive Learning.* Graduate student panel discussion hosted by the International Council for Educational Media (ICEM) at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
 
