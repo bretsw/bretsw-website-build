@@ -85,6 +85,16 @@ interests = [
   link = "https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en"
 
 [[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/K_Bret_Staudt_Willet"
+
+[[social]]
+  icon = "osf"
+  icon_pack = "ai"
+  link = "https://osf.io/gwsna/"
+
+[[social]]
   icon = "orcid"
   icon_pack = "ai"
   link = "https://orcid.org/0000-0002-6984-416X"
