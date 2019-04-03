@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2019-03-26T00:00:00
+lastmod = 2019-04-03T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -61,7 +61,7 @@ caption = ""
 [LinkedIn](https://www.linkedin.com/in/bretsw/) - 
 [Google Scholar](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en)
 
-**Keywords:** *networked teacher learning, social media, educational technology*
+**Keywords:** *networked learning, teacher induction, teacher learning, social media, educational technology*
 
 # Education
 
@@ -201,14 +201,15 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ## Service to Department
 
-Practicum Committee Member, Sarah Galvin, Michigan State University - 2018-2019  
-Social Network Analysis, Katie Schenkel, Michigan State University - 2018  
-Content Analysis for Doctoral Dissertation, Colin Terry, Michigan State University - 2018 
+*Practicum Committee Member*, Sarah Galvin, Michigan State University - 2018-2019  
+*Social Network Analysis*, Katie Schenkel, Michigan State University - 2018  
+*Content Analysis for Doctoral Dissertation*, Colin Terry, Michigan State University - 2018 
 
 ## Service to Profession
 
 Association for Educational Communications & Technology (AECT)  
 *Secretary*, Research & Theory Division - 2019-2020  
+*Conference Proposal Reviewer*, Research & Theory Division - 2019  
 *Graduate Student Representative*, Research & Theory Division - 2018-2019  
 *Webinar Team Leader*, Graduate Student Association Division - 2018-2019
 
@@ -333,7 +334,6 @@ Association for Educational Communications & Technology (AECT)
 *Research & Theory Division*
 
 American Educational Research Association (AERA)  
-*Division C* – Learning and Instruction  
 *Division K* – Teaching and Teacher Education  
 *Computer and Internet Applications in Education* (CIAE) SIG  
 *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG

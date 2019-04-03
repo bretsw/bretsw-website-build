@@ -16,7 +16,7 @@ role = "PhD Candidate"
 organizations = [ { name = "Michigan State University", url = "http://education.msu.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research focuses on networked teacher learning—specifically, how social media platforms can support professional learning and induction in the process of K-20 educators becoming teachers."
+bio = "My research focuses on networked learning—specifically, how social media platforms can support induction and ongoing professional learning for K-20 educators."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -24,8 +24,9 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
    "Networked Learning",
+   "Teacher Induction",
    "Teacher Learning",
-   "Social Media", 
+   "Social Media",
    "Educational Technology"
 ]
 
@@ -119,7 +120,9 @@ interests = [
 [*Read my CV*](cv/) or 
 {{% staticref "files/cv.pdf" %}}download{{% /staticref %}}
 
-I am a PhD candidate in the [Educational Psychology & Educational Technology](http://edutech.educ.msu.edu/) program at Michigan State University. My research focuses on networked teacher learning—specifically, how social media platforms can support professional learning and induction in the process of K-20 educators becoming teachers. This work is interdisciplinary and utilizes a variety of methods—both human and computational—including qualitative content analysis, social network analysis, and machine learning. I hold a [Master's Degree in Educational Technology](http://edutech.educ.msu.edu/programs/masters/) and a [Graduate Certificate in Serious Game Design and Research](https://gamedev.msu.edu/serious-games/) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](https://education.msu.edu/cepse/maet/certificates/online-teaching/), as well as a course to help undergraduate pre-service teachers think critically about using technology for teaching and learning. I still consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
+I am a PhD candidate in the [Educational Psychology & Educational Technology](http://edutech.educ.msu.edu/) program at Michigan State University. My research focuses on networked learning—specifically, how social media platforms can support induction and ongoing professional learning for K-20 educators.
+
+This work is interdisciplinary and utilizes a variety of methods—both human and computational—including qualitative content analysis, social network analysis, and machine learning. I hold a [Master's Degree in Educational Technology](http://edutech.educ.msu.edu/programs/masters/) and a [Graduate Certificate in Serious Game Design and Research](https://gamedev.msu.edu/serious-games/) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](https://education.msu.edu/cepse/maet/certificates/online-teaching/), as well as a course to help undergraduate pre-service teachers think critically about using technology for teaching and learning. I still consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
 
 ## Professional Affiliations
 
@@ -127,7 +130,6 @@ I am a PhD candidate in the [Educational Psychology & Educational Technology](ht
 *Research & Theory Division*
 
 **American Educational Research Association** [AERA](https://www.aera.net/)  
-*Division C* – Learning and Instruction  
 *Division K* – Teaching and Teacher Education  
 *Computer and Internet Applications in Education* (CIAE) SIG  
 *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
