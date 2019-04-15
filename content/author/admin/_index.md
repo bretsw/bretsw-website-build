@@ -131,13 +131,12 @@ This work is interdisciplinary and utilizes a variety of methods—both human an
 
 **American Educational Research Association** [AERA](https://www.aera.net/)  
 *Division K* – Teaching and Teacher Education  
-*Computer and Internet Applications in Education* (CIAE) SIG  
 *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
 
 **Association of Internet Researchers** [AoIR](http://aoir.org/)  
 <i class="fa fa-graduation-cap"></i> Doctoral Colloquium, 2018
 
 **Society for Information Technology and Teacher Education** [SITE](http://site.aace.org/)  
-<i class="fa fa-trophy"></i> Outstanding Paper Award, 2019  
+<i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/208040/), 2019  
 <i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/177469/), 2017  
 *Social Media SIG* 
