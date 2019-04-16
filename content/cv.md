@@ -97,13 +97,13 @@ Bucknell University - Lewisburg PA
 
 ## Peer-Reviewed Journal Articles
 
-**Staudt Willet**, K. B. (in revision). Revisiting how and why educators use Twitter: Tweet types and purposes in #Edchat.
-
 Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). Expressions of Mormon identity and approaches to Mormon practice in the #ldsconf Twitter hashtag.
 
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (under review). Foregrounding technoethics: A contrarian perspective on the teacher educator technology competencies.
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (under review). Teachers on Reddit? Exploring professional learning in four education-related subreddits.
+
+**Staudt Willet**, K. B. (in press). Revisiting how and why educators use Twitter: Tweet types and purposes in #Edchat. *Journal of Research on Technology in Education*.
 
 Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (2019). Social scholarship revisited: Changing scholarly practices in the age of social media. *British Journal of Educational Technology, 50*, 987-1004. Retrieved from https://doi.org/10.1111/bjet.12772
 
