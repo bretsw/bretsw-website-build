@@ -7,36 +7,42 @@ authors = ["Joshua M. Rosenberg", "Mete Akcaoglu", "K. Bret Staudt Willet", "Spe
 
 # Publication type.
 # Legend:
-#  0: Uncategorized
-#  1: Peer-Reviewed Journal Article
-#  2: Book Chapter
-#  3: Peer-Reviewed Conference Proceeding
-#  4: Peer-Reviewed Conference Presentation
-#  5: Invited Talk
-#  6: Manuscript
-#  7: Report
-#  8: Book
-publication_types = ["3"]
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017*"
-publication_short = "*SITE 2017*"
+publication_short = "In *SITE 2017*"
 
-# Abstract and optional shortened version.
+# Abstract.
 abstract = "Communication in online settings can occur at the same time (synchronously) or at different times (asynchronously). A new form of online learning in which teachers communicate both at the same time and at different times is through social media platforms such as Twitter. In this descriptive, exploratory study, we set out to explore differences between synchronous and asynchronous interactions through a State Educational Twitter Hashtag (SETH) for educators in Michigan in the United States of America. We collected more than 8,000 tweets and coded for whether the tweet was during either part of a once-per-week synchronous “chat” or all other times of the week. We compared #miched between the two modes and then determined differences in terms of interactions and sentiment. Our analysis is discussed in light of findings from research on synchronous and asynchronous learning."
-abstract_short = ""
 
-# Featured image thumbnail (optional)
-image_preview = ""
+# Summary. An optional shortened abstract.
+summary = ""
 
-# Is this a selected publication? (true/false)
-selected = true
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Is this a featured publication? (true/false)
+featured = true
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Twitter", "mode", "synchronous", "timing"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`. 
-#   For example, projects = ["frames"]
-projects = ["reths"]
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects = []
 
 # Links (optional).
 url_pdf = "https://bretsw.github.io/files/Rosenberg_Akcaoglu_StaudtWillet_Greenhalgh_Koehler_2017.pdf"
@@ -49,17 +55,24 @@ url_video = ""
 url_poster = ""
 url_source = "https://www.learntechlib.org/p/177856/"
 
-# Does the content use math formatting?
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# links = [{name = "Custom Link", url = "http://example.org"}]
+
+# Does this page contain LaTeX math? (true/false)
 math = false
 
-# Does the content use source code highlighting?
-highlight = false
-
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+ 
+  # Caption (optional)
+  caption = ""  # Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
+
 
 # More detail can easily be written below the break using *Markdown* and $\rm \LaTeX$ math code.
 

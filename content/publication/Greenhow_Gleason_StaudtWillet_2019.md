@@ -1,9 +1,9 @@
 +++
-title = "Tweet, and We Shall Find: Using Digital Methods to Locate Participants in Educational Hashtags"
-date = 2018-06-01T00:00:00
+title = "Social Scholarship Revisited: Changing Scholarly Practices in the Age of Social Media"
+date = 2019-03-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Spencer P. Greenhalgh", "K. Bret Staudt Willet", "Joshua M. Rosenberg", "Matthew J. Koehler"]
+authors = ["Christine M. Greenhow", "Benjamin Gleason", "K. Bret Staudt Willet"]
 
 # Publication type.
 # Legend:
@@ -17,24 +17,24 @@ authors = ["Spencer P. Greenhalgh", "K. Bret Staudt Willet", "Joshua M. Rosenber
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *TechTrends*"
-publication_short = "In *TechTrends*"
+publication = "In *British Journal of Educational Technology*"
+publication_short = ""
 
 # Abstract.
-abstract = "Although researchers have discovered a great deal about *who* uses Twitter for educational purposes, *what* they post about, *when* they post and *why* they participate, there has so far been little work to explore *where* participants in educational Twitter contexts are located. In this paper, we establish a methodological foundation that can support the exploration of geographical issues in educational Twitter research. We surveyed 46 participants in one educational Twitter hashtag, #michED, to determine where they lived; we then compared these responses to results from three digital methods for geolocating Twitter users (human coding, machine coding and GPS coding) to explore these methods’ affordances and constraints. Human coding of Twitter profiles allowed us to analyze more participants with higher levels of accuracy but also has disadvantages compared to other digital—and traditional—methods. We discuss the additional insights obtained through geolocating #michED participants as well as considerations for using geolocation and other digital methods in educational research."
+abstract = "This conceptual exploration revisits a key question from earlier work (Greenhow & Gleason, 2014): What is scholarship reconsidered in the age of social media? *Social scholarship* is a framework that expanded Boyer's (1990) conceptualization of scholarship to consider how social media affect discovery and research, teaching and learning, integration, and application. This paper critically reflects on how social scholarship continues to evolve in light of changing understandings in the field of educational technology and the role social media play in the academy. We provide recent examples of social scholarship such as altmetrics, interdisciplinary projects, crowdsourced educational technology syllabi and reconsideration of the needs of research participants. Moreover, we share concrete examples of how scholars might enact social scholarship, with what benefits and challenges, and surface new concerns regarding openness, equity, access, literacy, privacy and ethical considerations. Our paper concludes with recommendations for preparing scholars to enact social scholarship while mitigating the challenges it poses."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1007/s11528-018-0313-6"
+doi = "10.1111/bjet.12772"
 
 # Is this a featured publication? (true/false)
 featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Twitter", "geolocation", "methods"]
+tags = ["social scholarship", "higher ed", "Twitter"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -53,7 +53,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://link.springer.com/article/10.1007%2Fs11528-018-0313-6"
+url_source = "https://onlinelibrary.wiley.com/doi/abs/10.1111/bjet.12772"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -72,6 +72,7 @@ math = false
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
 
 # More detail can easily be written below the break using *Markdown* and $\rm \LaTeX$ math code.
 
