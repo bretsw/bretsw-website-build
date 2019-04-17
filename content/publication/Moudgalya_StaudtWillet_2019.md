@@ -47,7 +47,7 @@ projects = []
 # Links (optional).
 url_pdf = "https://bretsw.github.io/files/Moudgalya_StaudtWillet_2019.pdf"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/bretsw/stackexchange-csed"
 url_dataset = ""
 url_project = ""
 url_slides = ""

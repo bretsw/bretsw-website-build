@@ -47,8 +47,8 @@ projects = []
 # Links (optional).
 url_pdf = "https://bretsw.github.io/files/StaudtWillet_Carpenter_2019.pdf"
 url_preprint = ""
-url_code = ""
-url_dataset = ""
+url_code = "https://github.com/bretsw/reddit-edu"
+url_dataset = "https://osf.io/wxg6d/"
 url_project = ""
 url_slides = ""
 url_video = ""
