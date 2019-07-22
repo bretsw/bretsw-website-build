@@ -24,8 +24,8 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
    "Networked Learning",
-   "Teacher Induction",
-   "Teacher Learning",
+   "Information Science",
+   "Teacher Education",
    "Social Media",
    "Educational Technology"
 ]
@@ -120,9 +120,13 @@ interests = [
 [*Read my CV*](cv/) or 
 {{% staticref "files/cv.pdf" %}}download{{% /staticref %}}
 
-I am a PhD candidate in the [Educational Psychology & Educational Technology](http://edutech.educ.msu.edu/) program at Michigan State University. My research focuses on networked learning—specifically, how social media platforms can support induction and ongoing professional learning for K-20 educators.
+I am a PhD candidate in the [Educational Psychology & Educational Technology](http://edutech.educ.msu.edu/) program at Michigan State University. My research focuses on networked learning at the intersection of information science and teacher education. Specifically, I have been exploring how social media platforms support induction and ongoing professional learning for K-20 educators. My work has been published in *Journal of Research on Technology in Education*, *British Journal of Educational Technology*, and *Policy Insights from the Behavioral and Brain Sciences*, among others, and I have won two Best-Paper Awards from the Society for Information Technology and Teacher Education.
 
-This work is interdisciplinary and utilizes a variety of methods—both human and computational—including qualitative content analysis, social network analysis, and machine learning. I hold a [Master's Degree in Educational Technology](http://edutech.educ.msu.edu/programs/masters/) and a [Graduate Certificate in Serious Game Design and Research](https://gamedev.msu.edu/serious-games/) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](https://education.msu.edu/cepse/maet/certificates/online-teaching/), as well as a course to help undergraduate pre-service teachers think critically about using technology for teaching and learning. I still consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
+My research is interdisciplinary and utilizes a variety of methods—both qualitative and quantitative, human and computational—including qualitative content analysis, social network analysis, and machine learning. 
+
+I hold a [Master's Degree in Educational Technology](http://edutech.educ.msu.edu/programs/masters/) and a [Graduate Certificate in Serious Game Design and Research](https://gamedev.msu.edu/serious-games/) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](https://education.msu.edu/cepse/maet/certificates/online-teaching/), as well as a course to help undergraduate pre-service teachers think critically about using technology for teaching and learning. 
+
+I still consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
 
 ## Professional Affiliations
 

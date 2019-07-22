@@ -61,7 +61,7 @@ caption = ""
 [LinkedIn](https://www.linkedin.com/in/bretsw/) - 
 [Google Scholar](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en)
 
-**Keywords:** *networked learning, teacher induction, teacher learning, social media, educational technology*
+**Keywords:** *networked learning, information science, teacher education, social media, educational technology*
 
 # Education
 
@@ -97,21 +97,31 @@ Bucknell University - Lewisburg PA
 
 ## Peer-Reviewed Journal Articles
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). Expressions of Mormon identity and approaches to Mormon practice in the #ldsconf Twitter hashtag.
+Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (under review). Spam and educators’ Twitter use: Methodological considerations and challenges.
 
-Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (under review). Foregrounding technoethics: A contrarian perspective on the teacher educator technology competencies.
+Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (under review). It's about time! Comparing synchronous and asynchronous activity in a teacher-focused Twitter hashtag.
+
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). Expressions of Mormon identity and approaches to Mormon practice in the #ldsconf Twitter hashtag.
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (under review). Teachers on Reddit? Exploring professional learning in four education-related subreddits.
 
-**Staudt Willet**, K. B. (in press). Revisiting how and why educators use Twitter: Tweet types and purposes in #Edchat. *Journal of Research on Technology in Education*.
+Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in revision). Foregrounding technoethics: A contrarian perspective on the teacher educator technology competencies.
 
-Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (2019). Social scholarship revisited: Changing scholarly practices in the age of social media. *British Journal of Educational Technology, 50*, 987-1004. Retrieved from https://doi.org/10.1111/bjet.12772
+Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in press). What should be the role of social media in education? *Policy Insights from the Behavioral and Brain Sciences.*
+
+Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (2019). Social scholarship revisited: Changing scholarly practices in the age of social media. *British Journal of Educational Technology, 50*, 987-1004. https://doi.org/10.1111/bjet.12772
+
+**Staudt Willet**, K. B. (2019). Revisiting how and why educators use Twitter: Tweet types and purposes in #Edchat. *Journal of Research on Technology in Education, 51*, 273-289. https://doi.org/10.1080/15391523.2019.1611507
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends, 62*, 501-508. Retrieved from https://doi.org/10.1007/s11528-018-0313-6
 
 Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Educating social scholars: Examining novice researchers’ practices with social media. *Qwerty – Open and Interdisciplinary Journal of Technology, Culture and Education, 12*(2), 30-45. Retrieved from http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269
 
 ## Book Chapters
+
+Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (under review). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke & M. H. Mallette (Eds.), *Handbook of literacy research methodologies* (3rd ed.). New York, NY: Guilford Press. 
+
+**Staudt Willet**, K. B., & Carpenter, J.P. (2019). Educators on the front page of the Internet: Teacher learning in four subreddits. In M. Ochoa & D. Gibson (Eds.), *Research highlights in technology and teacher education 2019* (pp. XX-YY). Waynesville, NC: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.learntechlib.org/ [Invited reprint of conference presentation in an edited book]
 
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2018). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In T. J. Bastiaens & G. Marks (Eds.), *Education and Information Technology Annual 2018: A Selection of AACE Award Papers* (pp. 67-74). Association for the Advancement of Computing in Education (AACE). Retrieved from http://learntechlib.org/p/182952/ [Invited reprint of conference presentation in edited book]
 
@@ -145,13 +155,19 @@ Rosenberg, J. M., **Staudt Willet**, K. B., & Greenhalgh, S. P. (2019, October).
 
 ## Peer-Reviewed Conference Presentations
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J.(under review). *Twitter hashtags and religious learning: Mormon identity and participatory practice in #ldsconf.*
+Rosenberg, J. M., Rutherford, T., & **Staudt Willet**, K. B. (under review). *Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19*. Paper proposed for the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
 
-**Staudt Willet**, K. B., & Bagdy, L. (under review). *How do you do, fellow kids? "New teachers" in Twitter #ntchat.*
+**Staudt Willet**, K. B. (under review). *Can you hear me now? Teachers’ versus researchers’ measures of the Twitter #Edchat affinity space*. Paper proposed for the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
 
-**Staudt Willet**, K. B., & Moudgalya, S. K. (under review). *Community, network, or space: Conceptualizing inspired professional learning in an online discussion forum.*
+**Staudt Willet**, K. B., Heath, M. K., & Krutka, D. G. (under review).*The need for technoethics in teacher education: A critical analysis of literature*. Paper proposed for the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
 
-Greenhow, C. M., **Staudt Willet**, K. B., & Marich, H. (2019, July). *Scholarship reconsidered: Examining new scholars’ social media practices.* Paper to be presented at the 10th International Conference on Social Media & Society 2019. Toronto, ON, Canada.
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J.(2019, October). *Twitter hashtags and religious learning: Mormon identity and participatory practice in #ldsconf.* Paper to be presented at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
+
+**Staudt Willet**, K. B., & Bagdy, L. (2019, October). *How do you do, fellow kids? "New teachers" in Twitter #ntchat.* Paper to be presented at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
+
+**Staudt Willet**, K. B., & Moudgalya, S. K. (2019, October). *Community, network, or space: Conceptualizing inspired professional learning in an online discussion forum.* Paper to be presented at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
+
+Greenhow, C. M., **Staudt Willet**, K. B., & Marich, H. (2019, July). *Scholarship reconsidered: Examining new scholars’ social media practices.* Paper presented at the 10th International Conference on Social Media & Society 2019. Toronto, ON, Canada.
 
 **Staudt Willet**, K. B. (2019, April). *Is bigger better? Exploring educators’ uses and gratifications in Twitter #Edchat.* Paper presented at the American Educational Research Association (AERA) Annual Meeting 2019. Toronto, ON, Canada. 
 
@@ -195,8 +211,9 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 # Service
 
-## Ad-hoc Journal Article Reviews
+## Journal Article Reviews
 
+*Internet and Higher Education* - 2019  
 *Learning, Media and Technology* (with Dr. Christine Greenhow, faculty reviewer) - 2016  
 
 ## Service to Department
@@ -219,7 +236,7 @@ American Educational Research Association (AERA)
 Society for Information Technology and Teacher Education (SITE)  
 *Co-Chair*, Social Media SIG - 2019-2021  
 *Graduate Student Intern*, Social Media SIG - 2018-2019  
-*Session Presider/Chair*, International Conference (Washington DC) - 2018
+*Session Presider/Chair* - 2018-2019
 
 Passion Talks Conference (Google HQ, Mountain View CA)  
 *Science, Technology, & Innovation Track Chair* - 2017  
@@ -244,6 +261,11 @@ Department of Counseling, Educational Psychology, & Special Education
 * Taught CEP 813 - Electronic Assessment for Teaching and Learning (Master’s)  
 * Taught CEP 817 - Learning Technology through Design (Master’s)  
 * Taught CEP 820 - Teaching Students Online (Master’s)
+
+*Course Writer* \hfill 2019  
+Concordia University, College of Education \hfill Portland, OR  
+Educational Technology and Learning Design program  
+* Wrote EDET 509 - The Evolving Landscape of Educational Technology (Master's)
 
 *Founding National Director* – Ministry in Digital Spaces - 2014-2017  
 InterVarsity Christian Fellowship/USA - United States  
