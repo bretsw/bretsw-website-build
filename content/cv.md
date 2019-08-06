@@ -81,14 +81,23 @@ SITE International Conference - Las Vegas NV
 *Research Practicum/Dissertation Development Fellowship* - $2,000 - 2019  
 Michigan State University, College of Education - East Lansing MI
 
+*Student Research Conference Travel Fellowship* - $1,050 - 2019  
+Michigan State University, Dept. of Counseling, Educational Psychology, & Special Ed. - East Lansing MI
+
+*Summer Research Renewable Fellowship* - $12,000 - 2018-2019  
+Michigan State University, College of Education - East Lansing MI
+
 *Professional Development Award* - $500 - 2018  
 Michigan State University, Council of Graduate Students - East Lansing MI
 
-*Summer Research Renewable Fellowship* - $6,000/year x 2 years - 2018-2019  
-Michigan State University, College of Education - East Lansing MI
+*Student Research Conference Travel Fellowship* - $795 - 2018  
+Michigan State University, Dept. of Counseling, Educational Psychology, & Special Ed. - East Lansing MI
 
 *Outstanding Paper Award* - 2017  
 SITE International Conference - Austin TX
+
+*Student Research Conference Travel Fellowship* - $930 - 2017  
+Michigan State University, Dept. of Counseling, Educational Psychology, & Special Ed. - East Lansing MI
 
 *Presidential Fellowship* - $20,000/year x 3 years - 2000-2003  
 Bucknell University - Lewisburg PA
@@ -151,9 +160,11 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 ## Peer-Reviewed Conference Workshops
 
-Rosenberg, J. M., **Staudt Willet**, K. B., & Greenhalgh, S. P. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R.* Workshop to be facilitated at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV
+**Staudt Willet**, K. B., & Greenhalgh, S. P., & Rosenberg, J. M. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R.* Workshop to be facilitated at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
 
 ## Peer-Reviewed Conference Presentations
+
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). *Approaches to Mormon identity and practice in the #ldsconf Twitter space*. Paper proposed for the Latter-day Saints and Media Symposium 2019. Cedar City, UT.
 
 Rosenberg, J. M., Rutherford, T., & **Staudt Willet**, K. B. (under review). *Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19*. Paper proposed for the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
 
@@ -207,7 +218,7 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 **Staudt Willet**, K. B. (2015, September). *Patterns of online communities.* Webinar presented for Indigitous Sessions. Online.
 
-**Staudt Willet**, K. B. (2014, March). *What games say.* Guest lecture for an undergraduate course in Film & Media at Millersville University: Millersville, PA. 
+**Staudt Willet**, K. B. (2014, March). *What games say.* Guest lecture for an undergraduate course in Film, Media, & Teacher Education. Millersville University: Millersville, PA. 
 
 # Service
 
@@ -262,8 +273,8 @@ Department of Counseling, Educational Psychology, & Special Education
 * Taught CEP 817 - Learning Technology through Design (Master’s)  
 * Taught CEP 820 - Teaching Students Online (Master’s)
 
-*Course Writer* \hfill 2019  
-Concordia University, College of Education \hfill Portland, OR  
+*Course Writer* - 2019  
+Concordia University, College of Education - Portland, OR  
 Educational Technology and Learning Design program  
 * Wrote EDET 509 - The Evolving Landscape of Educational Technology (Master's)
 
