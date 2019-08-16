@@ -66,7 +66,11 @@ caption = ""
 # Education
 
 *Michigan State University, College of Education*  
-PhD, Educational Psychology & Educational Technology - 2021  
+PhD, Educational Psychology & Educational Technology - 2021 (expected) 
+    + Dissertation: *Bridge between worlds: Early-career educators navigating induction with Twitter*
+    + Committee: Matthew Koehler, Christine Greenhow
+    + Proposal defense: September 2019 (expected)
+    + Advanced to candidacy: February 3, 2019
 MA, Educational Technology - 2015  
 Graduate Certificate, Serious Game Design and Research - 2014
 
@@ -225,6 +229,7 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 ## Journal Article Reviews
 
 *Internet and Higher Education* - 2019  
+*American Journal of Education* (with Dr. Jeffrey Carpenter, faculty reviewer) - 2019
 *Learning, Media and Technology* (with Dr. Christine Greenhow, faculty reviewer) - 2016  
 
 ## Service to Department
