@@ -2,7 +2,7 @@
 title = "Coursework: PhD in Educational Psychology and Educational Technology"
 
 date = 2018-05-01T00:00:00
-lastmod = 2018-05-01T00:00:00
+lastmod = 2019-05-01T00:00:00
 draft = false
 
 tags = ["coursework", "transcript", "msu"]
@@ -110,12 +110,6 @@ Advanced techniques of data analysis and statistical inference used in education
 **Instructors:** [Dr. Ken Frank](https://msu.edu/~kenfrank/)
 
 Special topics in educational statistics and research design. Integrate statistical methods that help address the dependencies inherent in social network data and graphical techniques for representing social structure with theory from organizational studies, communications, social psychology, etc.
-
-### CEP 991b2: Applying Social Network Methods  
-*Spring 2019*  
-**Instructors:** [Dr. Ken Frank](https://msu.edu/~kenfrank/)
-
-Workshop course on the application of social network methods to empirical (or simulated) data. Methods include models of influence through a social network, selection of network partners, and graphical representations and clustering of networks.  
 
 ## Research Area Concentration
 
