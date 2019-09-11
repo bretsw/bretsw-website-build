@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2019-04-03T00:00:00
+lastmod = 2019-09-11T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -68,10 +68,10 @@ caption = ""
 *Michigan State University, College of Education*  
 PhD, Educational Psychology & Educational Technology - 2021 (expected)
 
-    + Dissertation: *Into the edu-verse: Early-career educators navigating induction challenges with social media*
-    + Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam
-    + Proposal defense: September 2019 (expected)
-    + Advanced to candidacy: February 3, 2019
+    * Dissertation: *Into the edu-verse: Early-career educators navigating induction challenges with social media*
+    * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam
+    * Proposal defense: September 2019 (expected)
+    * Advanced to candidacy: February 3, 2019
 
 MA, Educational Technology - 2015  
 Graduate Certificate, Serious Game Design and Research - 2014
@@ -114,13 +114,13 @@ Bucknell University - Lewisburg PA
 
 Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (under review). Spam and educators’ Twitter use: Methodological considerations and challenges.
 
-Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (under review). It's about time! Comparing synchronous and asynchronous activity in a teacher-focused Twitter hashtag.
-
 Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). Expressions of Mormon identity and approaches to Mormon practice in the #ldsconf Twitter hashtag.
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (under review). Teachers on Reddit? Exploring professional learning in four education-related subreddits.
+Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (in revision). It's about time! Comparing synchronous and asynchronous activity in a teacher-focused Twitter hashtag.
 
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in revision). Foregrounding technoethics: A contrarian perspective on the teacher educator technology competencies.
+
+**Staudt Willet**, K. B., & Carpenter, J. P. (in revision). Teachers on Reddit? Exploring contributions and interaction in four education-related subreddits.
 
 Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in press). What should be the role of social media in education? *Policy Insights from the Behavioral and Brain Sciences.*
 
@@ -216,20 +216,27 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ## Invited Talks
 
-**Staudt Willet**, K. B. (2018, November). *Bigger is not always better: Revisiting how and why educators use Twitter #Edchat.* Talk for EPET program brownbag seminar at Michigan State University: East Lansing, MI.
+**Staudt Willet**, K. B. (2019, November). *Twitter kludge and conversation: Educators seeking coherence through hashtags and threads.* Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI.
 
-**Staudt Willet**, K. B. (2017, November). *Once more unto the practicum, dear friends: Research lessons from studying social interactions on social media.* Talk for EPET program brownbag seminar at Michigan State University: East Lansing, MI. 
+**Staudt Willet**, K. B. (2019, September). *Insights for academic publishing.* Guest lecture for an EPET doctoral course, CEP 956: Mind, Media and Learning. Michigan State University: East Lansing, MI.
+
+**Staudt Willet**, K. B. (2018, November). *Bigger is not always better: Revisiting how and why educators use Twitter #Edchat.* Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI.
+
+**Staudt Willet**, K. B. (2018, October). *Experiences from the practicum.* Guest panelist for an EPET doctoral course, CEP 955: Research Design and Methods for Educational Psychology an Educational Technology. Michigan State University: East Lansing, MI.
+
+**Staudt Willet**, K. B. (2017, November). *Once more unto the practicum, dear friends: Research lessons from studying social interactions on social media.* Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI. 
 
 **Staudt Willet**, K. B. (2016, August). *How did we get here?* Keynote address at Passion Talks Conference 2016. Fremont, CA.
 
 **Staudt Willet**, K. B. (2015, September). *Patterns of online communities.* Webinar presented for Indigitous Sessions. Online.
 
-**Staudt Willet**, K. B. (2014, March). *What games say.* Guest lecture for an undergraduate course in Film, Media, & Teacher Education. Millersville University: Millersville, PA. 
+**Staudt Willet**, K. B. (2014, March). *What games say.* Guest lecture for an undergraduate course in Film, Media, & Teacher Education. Millersville University: Millersville, PA.
 
 # Service
 
 ## Journal Article Reviews
 
+*Computers and Education* - 2019  
 *Internet and Higher Education* - 2019  
 *American Journal of Education* (with Dr. Jeffrey Carpenter, faculty reviewer) - 2019
 *Learning, Media and Technology* (with Dr. Christine Greenhow, faculty reviewer) - 2016  
