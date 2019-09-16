@@ -66,11 +66,10 @@ caption = ""
 # Education
 
 *Michigan State University, College of Education*  
-PhD, Educational Psychology & Educational Technology - 2021 (expected)
-
-    * Dissertation: *Into the edu-verse: Early-career educators navigating induction challenges with social media*
-    * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam
-    * Proposal defense: September 2019 (expected)
+PhD, Educational Psychology & Educational Technology - 2021 (expected)  
+    * Dissertation: *Into the edu-verse: Early-career educators navigating induction challenges with social media*  
+    * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam  
+    * Proposal defense: September 2019 (expected)  
     * Advanced to candidacy: February 3, 2019
 
 MA, Educational Technology - 2015  
