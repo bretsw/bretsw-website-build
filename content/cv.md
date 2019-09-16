@@ -236,7 +236,7 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 ## Journal Article Reviews
 
 *Internet and Higher Education* - 2019  
-*American Journal of Education* (with Dr. Jeffrey Carpenter, faculty reviewer) - 2019
+*American Journal of Education* (with Dr. Jeffrey Carpenter, faculty reviewer) - 2019  
 *Learning, Media and Technology* (with Dr. Christine Greenhow, faculty reviewer) - 2016  
 
 ## Service to Department
