@@ -123,19 +123,19 @@ Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in revision). Foregroun
 
 Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in press). What should be the role of social media in education? *Policy Insights from the Behavioral and Brain Sciences.*
 
-Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (2019). Social scholarship revisited: Changing scholarly practices in the age of social media. *British Journal of Educational Technology, 50*, 987-1004. https://doi.org/10.1111/bjet.12772
+Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (2019). Social scholarship revisited: Changing scholarly practices in the age of social media. *British Journal of Educational Technology, 50*, 987-1004. https://doi.org/10.1111/bjet.12772/
 
-**Staudt Willet**, K. B. (2019). Revisiting how and why educators use Twitter: Tweet types and purposes in #Edchat. *Journal of Research on Technology in Education, 51*, 273-289. https://doi.org/10.1080/15391523.2019.1611507
+**Staudt Willet**, K. B. (2019). Revisiting how and why educators use Twitter: Tweet types and purposes in #Edchat. *Journal of Research on Technology in Education, 51*, 273-289. https://doi.org/10.1080/15391523.2019.1611507/
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends, 62*, 501-508. Retrieved from https://doi.org/10.1007/s11528-018-0313-6
+Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends, 62*, 501-508. https://doi.org/10.1007/s11528-018-0313-6/
 
-Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Educating social scholars: Examining novice researchers’ practices with social media. *Qwerty – Open and Interdisciplinary Journal of Technology, Culture and Education, 12*(2), 30-45. Retrieved from http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269
+Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Educating social scholars: Examining novice researchers’ practices with social media. *Qwerty – Open and Interdisciplinary Journal of Technology, Culture and Education, 12*(2), 30-45. Retrieved from http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269/
 
 ## Book Chapters
 
 Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (under review). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke & M. H. Mallette (Eds.), *Handbook of literacy research methodologies* (3rd ed.). New York, NY: Guilford Press. 
 
-**Staudt Willet**, K. B., & Carpenter, J.P. (2019). Educators on the front page of the Internet: Teacher learning in four subreddits. In M. Ochoa & D. Gibson (Eds.), *Research highlights in technology and teacher education 2019* (pp. XX-YY). Waynesville, NC: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.learntechlib.org/ [Invited reprint of conference presentation in an edited book]
+**Staudt Willet**, K. B., & Carpenter, J. P. (2019). Educators on the front page of the Internet: Teacher learning in four subreddits. In D. C. Gibson & M. N. Ochoa (Eds.), *Research highlights in technology and teacher education 2019* (pp. 169-178). Waynesville, NC: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/210591/ [Invited reprint of conference presentation in an edited book]
 
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2018). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In T. J. Bastiaens & G. Marks (Eds.), *Education and Information Technology Annual 2018: A Selection of AACE Award Papers* (pp. 67-74). Association for the Advancement of Computing in Education (AACE). Retrieved from http://learntechlib.org/p/182952/ [Invited reprint of conference presentation in edited book]
 
@@ -151,7 +151,7 @@ Moudgalya, S. K., & **Staudt Willet**, K. B. (2019, March). Communities and clus
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (2019, March). Educators on the front page of the Internet: Education-related subreddits as learning spaces. In K. Graziano (Ed.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2019* (pp. 2787-2795). Las Vegas, NV: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/208040/
 
-**Staudt Willet**, K. B., & Willet, B. D. (2018, October). *Look who’s talking: Using human coding to establish a machine learning approach to Twitter education chats.* Paper presented at AoIR 2018: The 19th Annual Conference of the Association of Internet Researchers. Montreal, QB, Canada: AoIR. Retrieved from http://spir.aoir.org
+**Staudt Willet**, K. B., & Willet, B. D. (2018, October). *Look who’s talking: Using human coding to establish a machine learning approach to Twitter education chats.* Paper presented at AoIR 2018: The 19th Annual Conference of the Association of Internet Researchers. Montreal, QB, Canada: AoIR. Retrieved from http://spir.aoir.org/
 
 **Staudt Willet**, K. B., & Reimer, P. N. (2018, March). The career you save may be your own: Exploring the mathtwitterblogosphere as a community of practice. In E. Langran & J. Borup (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2018* (pp. 2324-2329). Washington, DC: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/182845/
 
