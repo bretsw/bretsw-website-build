@@ -67,9 +67,9 @@ caption = ""
 
 *Michigan State University, College of Education*  
 PhD, Educational Psychology & Educational Technology - 2021 (expected)  
-    * Dissertation: *Into the edu-verse: Early-career educators navigating induction challenges with social media*  
+    * Dissertation: *Into the edu-verse: Early-career educators seeking induction support on social media*  
     * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam  
-    * Proposal defense: September 2019 (expected)  
+    * Proposal defense: October 2019 (expected)  
     * Advanced to candidacy: February 3, 2019
 
 MA, Educational Technology - 2015  
@@ -121,7 +121,7 @@ Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in revision). Foregroun
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (in revision). Teachers on Reddit? Exploring contributions and interaction in four education-related subreddits.
 
-Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in press). What should be the role of social media in education? *Policy Insights from the Behavioral and Brain Sciences.*
+Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2019). What should be the role of social media in education? *Policy Insights from the Behavioral and Brain Sciences, 6*(2), 178-185. https://doi.org/10.1177/2372732219865290
 
 Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (2019). Social scholarship revisited: Changing scholarly practices in the age of social media. *British Journal of Educational Technology, 50*, 987-1004. https://doi.org/10.1111/bjet.12772/
 
@@ -132,6 +132,8 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Educating social scholars: Examining novice researchers’ practices with social media. *Qwerty – Open and Interdisciplinary Journal of Technology, Culture and Education, 12*(2), 30-45. Retrieved from http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269/
 
 ## Book Chapters
+
+Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (under review). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology*. Routledge.
 
 Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (under review). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke & M. H. Mallette (Eds.), *Handbook of literacy research methodologies* (3rd ed.). New York, NY: Guilford Press. 
 
@@ -221,7 +223,7 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 **Staudt Willet**, K. B. (2018, November). *Bigger is not always better: Revisiting how and why educators use Twitter #Edchat.* Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI.
 
-**Staudt Willet**, K. B. (2018, October). *Experiences from the practicum.* Guest panelist for an EPET doctoral course, CEP 955: Research Design and Methods for Educational Psychology an Educational Technology. Michigan State University: East Lansing, MI.
+**Staudt Willet**, K. B. (2018, October). *Experiences from the practicum.* Guest panelist for an EPET doctoral course, CEP 955: Research Design and Methods for Educational Psychology and Educational Technology. Michigan State University: East Lansing, MI.
 
 **Staudt Willet**, K. B. (2017, November). *Once more unto the practicum, dear friends: Research lessons from studying social interactions on social media.* Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI. 
 
