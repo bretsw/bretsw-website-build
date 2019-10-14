@@ -68,8 +68,8 @@ caption = ""
 *Michigan State University, College of Education*  
 PhD, Educational Psychology & Educational Technology - 2021 (expected)  
     * Dissertation: *Into the edu-verse: Early-career educators seeking induction support on social media*  
-    * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam  
-    * Proposal defense: October 2019 (expected)  
+    * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond  
+    * Proposal defense: November 2019 (expected)  
     * Advanced to candidacy: February 3, 2019
 
 MA, Educational Technology - 2015  
@@ -113,15 +113,15 @@ Bucknell University - Lewisburg PA
 
 Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (under review). Spam and educators’ Twitter use: Methodological considerations and challenges.
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). Expressions of Mormon identity and approaches to Mormon practice in the #ldsconf Twitter hashtag.
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). Approaches to Mormon identity and practice in the #ldsconf Twitter hashtag.
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (in revision). It's about time! Comparing synchronous and asynchronous activity in a teacher-focused Twitter hashtag.
 
-Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in revision). Foregrounding technoethics: A contrarian perspective on the teacher educator technology competencies.
+Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in revision). Toward critical technoethics: Foregrounding problems of progress, power, and participation in technology and teacher education.
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (in revision). Teachers on Reddit? Exploring contributions and interaction in four education-related subreddits.
 
-Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2019). What should be the role of social media in education? *Policy Insights from the Behavioral and Brain Sciences, 6*(2), 178-185. https://doi.org/10.1177/2372732219865290
+Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2019). What should be the role of social media in education? *Policy Insights from the Behavioral and Brain Sciences, 6*(2), 178-185. https://doi.org/10.1177/2372732219865290/
 
 Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (2019). Social scholarship revisited: Changing scholarly practices in the age of social media. *British Journal of Educational Technology, 50*, 987-1004. https://doi.org/10.1111/bjet.12772/
 
@@ -135,7 +135,7 @@ Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Edu
 
 Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (under review). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology*. Routledge.
 
-Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (under review). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke & M. H. Mallette (Eds.), *Handbook of literacy research methodologies* (3rd ed.). New York, NY: Guilford Press. 
+Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in revision). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke & M. H. Mallette (Eds.), *Handbook of literacy research methodologies* (3rd ed.). New York, NY: Guilford Press. 
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (2019). Educators on the front page of the Internet: Teacher learning in four subreddits. In D. C. Gibson & M. N. Ochoa (Eds.), *Research highlights in technology and teacher education 2019* (pp. 169-178). Waynesville, NC: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/210591/ [Invited reprint of conference presentation in an edited book]
 
