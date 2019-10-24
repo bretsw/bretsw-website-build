@@ -1,9 +1,9 @@
 +++
-title = "Revisiting How and Why Educators Use Twitter: Tweet Types and Purposes in #Edchat"
-date = 2019-04-01T00:00:00
+title = "What Should Be the Role of Social Media in Education?"
+date = 2019-08-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["K. Bret Staudt Willet"]
+authors = ["Christine Greenhow", "Sarah M. Galvin", "K. Bret Staudt Willet"]
 
 # Publication type.
 # Legend:
@@ -17,17 +17,17 @@ authors = ["K. Bret Staudt Willet"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Research on Technology in Education*"
+publication = "In *Policy Insights from the Behavioral and Brain Sciences*"
 publication_short = ""
 
 # Abstract.
-abstract = "This study revisits Carpenter and Krutka’s (2014) survey of how and why educators use Twitter, through exploring one of Twitter’s oldest education hashtags: #Edchat. From October 1, 2017 to June 5, 2018, more than 1.2 million unique #Edchat tweets were collected from approximately 200,000 different tweeters. Machine coding was used to answer, “What types of tweets did users contribute to #Edchat?,” and human coding to answer, “What purposes are observable in these tweets?” The results showed that #Edchat has been used effectively for exploring ideas but under-utilized for sharing emotions—with mixed results for capitalizing on the advantages of Twitter’s online environment. Further research is required to explore combating teacher isolation and experiencing a sense of camaraderie. Taking into account these results, practitioners should be clear regarding their goals for Twitter education hashtag use when considering #Edchat, and researchers studying different education hashtags should keep in mind various tweet types, modes, and purposes."
+abstract = "Social media provide new opportunities for when, how, where, and with whom people learn—venue unimaginable 15 years ago. Today’s students and educators have adopted social media for various purposes both within education and outside of it. This review of the published research on social media in education focuses on the affordances for student learning, teacher professional development, educational research practices, and communication of scholarship. The article concludes with implications for education policy."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1080/15391523.2019.1611507"
+doi = "10.1177/2372732219865290"
 
 # Is this a featured publication? (true/false)
 featured = true
