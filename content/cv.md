@@ -111,15 +111,15 @@ Bucknell University - Lewisburg PA
 
 ## Peer-Reviewed Journal Articles
 
-Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (under review). Spam and educators’ Twitter use: Methodological considerations and challenges.
-
 Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). Approaches to Mormon identity and practice in the #ldsconf Twitter hashtag.
+
+**Staudt Willet**, K. B., & Carpenter, J. P. (under review). Teachers on Reddit? Exploring contributions and interaction in four education-related subreddits.
+
+Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (in revision). Spam and educators’ Twitter use: Methodological considerations and challenges.
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (in revision). It's about time! Comparing synchronous and asynchronous activity in a teacher-focused Twitter hashtag.
 
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in revision). Toward critical technoethics: Foregrounding problems of progress, power, and participation in technology and teacher education.
-
-**Staudt Willet**, K. B., & Carpenter, J. P. (in revision). Teachers on Reddit? Exploring contributions and interaction in four education-related subreddits.
 
 Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2019). What should be the role of social media in education? *Policy Insights from the Behavioral and Brain Sciences, 6*(2), 178-185. https://doi.org/10.1177/2372732219865290/
 
@@ -167,11 +167,9 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 ## Peer-Reviewed Conference Workshops
 
-**Staudt Willet**, K. B., & Greenhalgh, S. P., & Rosenberg, J. M. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R.* Workshop to be facilitated at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
+**Staudt Willet**, K. B., & Greenhalgh, S. P., & Rosenberg, J. M. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R.* Workshop facilitated at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
 
 ## Peer-Reviewed Conference Presentations
-
-Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). *Approaches to Mormon identity and practice in the #ldsconf Twitter space*. Paper proposed for the Latter-day Saints and Media Symposium 2019. Cedar City, UT.
 
 Rosenberg, J. M., Rutherford, T., & **Staudt Willet**, K. B. (under review). *Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19*. Paper proposed for the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
 
@@ -179,11 +177,11 @@ Rosenberg, J. M., Rutherford, T., & **Staudt Willet**, K. B. (under review). *Wh
 
 **Staudt Willet**, K. B., Heath, M. K., & Krutka, D. G. (under review).*The need for technoethics in teacher education: A critical analysis of literature*. Paper proposed for the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J.(2019, October). *Twitter hashtags and religious learning: Mormon identity and participatory practice in #ldsconf.* Paper to be presented at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J.(2019, October). *Twitter hashtags and religious learning: Mormon identity and participatory practice in #ldsconf.* Paper presented at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
 
-**Staudt Willet**, K. B., & Bagdy, L. (2019, October). *How do you do, fellow kids? "New teachers" in Twitter #ntchat.* Paper to be presented at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
+**Staudt Willet**, K. B., & Bagdy, L. (2019, October). *How do you do, fellow kids? "New teachers" in Twitter #ntchat.* Paper presented at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
 
-**Staudt Willet**, K. B., & Moudgalya, S. K. (2019, October). *Community, network, or space: Conceptualizing inspired professional learning in an online discussion forum.* Paper to be presented at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
+**Staudt Willet**, K. B., & Moudgalya, S. K. (2019, October). *Community, network, or space: Conceptualizing inspired professional learning in an online discussion forum.* Paper presented at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
 
 Greenhow, C. M., **Staudt Willet**, K. B., & Marich, H. (2019, July). *Scholarship reconsidered: Examining new scholars’ social media practices.* Paper presented at the 10th International Conference on Social Media & Society 2019. Toronto, ON, Canada.
 
