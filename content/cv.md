@@ -119,7 +119,7 @@ Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. 
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (in revision). It's about time! Comparing synchronous and asynchronous activity in a teacher-focused Twitter hashtag.
 
-Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in revision). Toward critical technoethics: Foregrounding problems of progress, power, and participation in technology and teacher education.
+Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in revision). Technology is not neutral: Foregrounding critical technoethics in technology and teacher education.
 
 Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2019). What should be the role of social media in education? *Policy Insights from the Behavioral and Brain Sciences, 6*(2), 178-185. https://doi.org/10.1177/2372732219865290/
 
