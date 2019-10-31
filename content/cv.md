@@ -145,6 +145,10 @@ Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in revision). Research 
 
 ## Peer-Reviewed Conference Proceedings
 
+**Staudt Willet**, K. B. (under review). *Early-career educators’ experiences with social media during induction*. Paper proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
+
+**Staudt Willet**, K. B., & Carpenter, J. P. (under review). *For the longest time: Continuity and change in one teaching-related subreddit*. Paper proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
+
 Carpenter, J. P., Koehler, M. J., **Staudt Willet**, K. B., & Greenhalgh, S. P. (2019, March). Spam, spam, spam, spam: Methodological considerations and challenges for studying educators’ Twitter use. In K. Graziano (Ed.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2019* (pp. 2702-2711). Las Vegas, NV: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/208033/
 
 Moudgalya, S. K., & **Staudt Willet**, K. B. (2019, March). Communities and clusters: User interactions in an online discussion forum for computer science education. In K. Graziano (Ed.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2019* (pp. 2291-2298). Las Vegas, NV: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/207968/
@@ -171,11 +175,11 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 ## Peer-Reviewed Conference Presentations
 
-Rosenberg, J. M., Rutherford, T., & **Staudt Willet**, K. B. (under review). *Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19*. Paper proposed for the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
+Rosenberg, J. M., Rutherford, T., & **Staudt Willet**, K. B. (2020, April). *Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19*. Paper to be presented at the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
 
-**Staudt Willet**, K. B. (under review). *Can you hear me now? Teachers’ versus researchers’ measures of the Twitter #Edchat affinity space*. Paper proposed for the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
+**Staudt Willet**, K. B. (2020, April). *Can you hear me now? Teachers’ versus researchers’ measures of the Twitter #Edchat affinity space*. Paper to be presented at the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
 
-**Staudt Willet**, K. B., Heath, M. K., & Krutka, D. G. (under review).*The need for technoethics in teacher education: A critical analysis of literature*. Paper proposed for the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
+**Staudt Willet**, K. B., Heath, M. K., & Krutka, D. G. (2020, April).*The need for technoethics in teacher education: A critical analysis of literature*. Paper to be presented at the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J.(2019, October). *Twitter hashtags and religious learning: Mormon identity and participatory practice in #ldsconf.* Paper presented at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
 
