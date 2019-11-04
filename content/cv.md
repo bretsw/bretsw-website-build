@@ -119,7 +119,7 @@ Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. 
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (in revision). It's about time! Comparing synchronous and asynchronous activity in a teacher-focused Twitter hashtag.
 
-Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in revision). Technology is not neutral: Foregrounding critical technoethics in technology and teacher education.
+Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in press). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. *Journal of Technology and Teacher Education*.
 
 Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2019). What should be the role of social media in education? *Policy Insights from the Behavioral and Brain Sciences, 6*(2), 178-185. https://doi.org/10.1177/2372732219865290/
 
@@ -144,6 +144,8 @@ Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in revision). Research 
 **Staudt Willet**, K. B., Koehler, M.J., & Greenhalgh, S.P. (2017). A tweet by any other frame: Comparing three theoretical frameworks for studying educator interactions on Twitter. In L. Liu & D. Gibson (Eds.), *Research highlights in technology and teacher education 2017* (pp. 63-70). Waynesville, NC: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.learntechlib.org/p/180960/ [Invited reprint of conference presentation in edited book]
 
 ## Peer-Reviewed Conference Proceedings
+
+Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (under review). *Technology is not neutral: Foregrounding critical technoethics in technology and teacher education*. Paper proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA.
 
 **Staudt Willet**, K. B. (under review). *Early-career educators’ experiences with social media during induction*. Paper proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
 
