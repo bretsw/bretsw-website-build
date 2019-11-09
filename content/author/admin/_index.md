@@ -120,9 +120,11 @@ interests = [
 [*Read my CV*](cv/) or 
 {{% staticref "files/cv.pdf" %}}download{{% /staticref %}}
 
-I am a PhD candidate in the [Educational Psychology & Educational Technology](http://edutech.educ.msu.edu/) program at Michigan State University. My research focuses on networked learning at the intersection of information science and teacher education. Specifically, I have been exploring how social media platforms support induction and ongoing professional learning for K-20 educators. My work has been published in *Journal of Research on Technology in Education*, *British Journal of Educational Technology*, and *Policy Insights from the Behavioral and Brain Sciences*, among others, and I have won two Best-Paper Awards from the Society for Information Technology and Teacher Education.
+I am a PhD candidate in the [Educational Psychology & Educational Technology](http://edutech.educ.msu.edu/) program at Michigan State University. My research focuses on networked learning at the intersection of information science and teacher education. Specifically, I have been exploring how social media platforms support induction and ongoing professional learning for K-20 educators. My work has been published in *Journal of Technology and Teacher Education*, *Journal of Research on Technology in Education*, *British Journal of Educational Technology*, and *Policy Insights from the Behavioral and Brain Sciences*, among others, and I have won two Best-Paper Awards from the Society for Information Technology and Teacher Education.
 
 My research is interdisciplinary and utilizes a variety of methods—both qualitative and quantitative, human and computational—including qualitative content analysis, social network analysis, and machine learning. 
+
+I am currently the Co-chair of SITE's Social Media SIG and Secretary of AECT's Research & Theory Division. 
 
 I hold a [Master's Degree in Educational Technology](http://edutech.educ.msu.edu/programs/masters/) and a [Graduate Certificate in Serious Game Design and Research](https://gamedev.msu.edu/serious-games/) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](https://education.msu.edu/cepse/maet/certificates/online-teaching/), as well as a course to help undergraduate pre-service teachers think critically about using technology for teaching and learning. 
 
@@ -131,7 +133,7 @@ I still consider my strongest credential to be my ongoing friendship with my ver
 ## Professional Affiliations
 
 **Association for Educational Communications & Technology** [AECT](https://aect.org/)  
-*Research & Theory Division*
+*Research & Theory Division* (Secretary, 2019-2020)
 
 **American Educational Research Association** [AERA](https://www.aera.net/)  
 *Division K* – Teaching and Teacher Education  
@@ -143,4 +145,4 @@ I still consider my strongest credential to be my ongoing friendship with my ver
 **Society for Information Technology and Teacher Education** [SITE](http://site.aace.org/)  
 <i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/208040/), 2019  
 <i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/177469/), 2017  
-*Social Media SIG* 
+*Social Media SIG* (Co-chair, 2019-2021)
