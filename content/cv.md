@@ -145,9 +145,9 @@ Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in revision). Research 
 
 ## Peer-Reviewed Conference Proceedings
 
-Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (under review). *Technology is not neutral: Foregrounding critical technoethics in technology and teacher education*. Paper proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA.
-
 **Staudt Willet**, K. B. (under review). *Early-career educators’ experiences with social media during induction*. Paper proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
+
+**Staudt Willet**, K. B. (under review). *The hashtag-thread mashup: How educators talk to each other in Twitter #Edchat*. Paper proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA.
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (under review). *For the longest time: Continuity and change in one teaching-related subreddit*. Paper proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
 
@@ -172,6 +172,8 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017, March). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 1823-1830). Austin, TX: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/177469/
 
 ## Peer-Reviewed Conference Workshops
+
+Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (under review). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action*. Workshop proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA.
 
 **Staudt Willet**, K. B., & Greenhalgh, S. P., & Rosenberg, J. M. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R.* Workshop facilitated at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
 
