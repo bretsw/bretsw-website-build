@@ -223,7 +223,7 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ## Invited Talks
 
-**Staudt Willet**, K. B. (2019, November). *Twitter kludge and conversation: Educators seeking coherence through hashtags and threads.* Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI.
+**Staudt Willet**, K. B. (2019, November). *Content, conversation, & context: How educators talk to each other in Twitter #Edchat*. Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI.
 
 **Staudt Willet**, K. B. (2019, September). *Insights for academic publishing.* Guest lecture for an EPET doctoral course, CEP 956: Mind, Media and Learning. Michigan State University: East Lansing, MI.
 
