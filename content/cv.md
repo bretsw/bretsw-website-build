@@ -387,6 +387,7 @@ Association for Educational Communications & Technology (AECT)
 *Research & Theory Division*
 
 American Educational Research Association (AERA)  
+*Division C* – Learning & Instruction  
 *Division K* – Teaching and Teacher Education  
 *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
 
