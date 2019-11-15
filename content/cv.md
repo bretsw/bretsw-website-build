@@ -69,7 +69,7 @@ caption = ""
 PhD, Educational Psychology & Educational Technology - 2021 (expected)  
     * Dissertation: *Into the edu-verse: Early-career educators seeking induction support on social media*  
     * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond  
-    * Proposal defense: November 2019 (expected)  
+    * Proposal defense: November 26, 2019 (scheduled)  
     * Advanced to candidacy: February 3, 2019
 
 MA, Educational Technology - 2015  
@@ -111,13 +111,13 @@ Bucknell University - Lewisburg PA
 
 ## Peer-Reviewed Journal Articles
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). Approaches to Mormon identity and practice in the #ldsconf Twitter hashtag.
-
 **Staudt Willet**, K. B., & Carpenter, J. P. (under review). Teachers on Reddit? Exploring contributions and interaction in four education-related subreddits.
 
 Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (in revision). Spam and educators’ Twitter use: Methodological considerations and challenges.
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (in revision). It's about time! Comparing synchronous and asynchronous activity in a teacher-focused Twitter hashtag.
+
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (in press). Approaches to Mormon identity and practice in the #ldsconf Twitter hashtag. *Journal of Media and Religion*.
 
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in press). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. *Journal of Technology and Teacher Education*.
 
