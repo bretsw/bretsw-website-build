@@ -69,7 +69,7 @@ caption = ""
 PhD, Educational Psychology & Educational Technology - 2021 (expected)  
     * Dissertation: *Into the edu-verse: Early-career educators seeking induction support on social media*  
     * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond  
-    * Proposal defense: November 26, 2019 (scheduled)  
+    * Defended proposal: November 26, 2019 (scheduled) [View slides](https://bretsw.github.io/dissertation-proposal/)  
     * Advanced to candidacy: February 3, 2019
 
 MA, Educational Technology - 2015  
@@ -113,11 +113,11 @@ Bucknell University - Lewisburg PA
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (under review). Teachers on Reddit? Exploring contributions and interaction in four education-related subreddits.
 
-Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (in revision). Spam and educators’ Twitter use: Methodological considerations and challenges.
-
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (in revision). It's about time! Comparing synchronous and asynchronous activity in a teacher-focused Twitter hashtag.
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (in press). Approaches to Mormon identity and practice in the #ldsconf Twitter hashtag. *Journal of Media and Religion*.
+Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (in press). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends*.
+
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (in press). Approaches to Mormon identity and practice in the #ldsconf Twitter space. *Journal of Media and Religion*.
 
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in press). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. *Journal of Technology and Teacher Education*.
 
@@ -222,6 +222,8 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 **Willet**, K. B. (2001, February). *The shortest closed path on an arithmetic surface.* Paper presented at Moravian College Student Mathematics Conference 2001. Bethlehem, PA.
 
 ## Invited Talks
+
+**Staudt Willet**, K. B., & Bork, W. (2019, December). *Electronic assessment*. Talk for Master of Arts in Educational Technology (MAET) instructor huddle at Michigan State University: East Lansing, MI.
 
 **Staudt Willet**, K. B. (2019, November). *Content, conversation, & context: How educators talk to each other in Twitter #Edchat*. Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI.
 
@@ -390,8 +392,6 @@ American Educational Research Association (AERA)
 *Division C* – Learning & Instruction  
 *Division K* – Teaching and Teacher Education  
 *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
-
-Association of Internet Researchers (AoIR)
 
 Society for Information Technology and Teacher Education (SITE)  
 *Social Media SIG*
