@@ -5,7 +5,7 @@ date = 2015-04-30T00:00:00
 lastmod = 2015-04-30T00:00:00
 draft = false
 
-tags = ["fiction", "real life", "online community"]
+tags = ["MAET", "fiction", "real life", "online community"]
 summary = "A bit of fiction to realize truth."
 
 [header]

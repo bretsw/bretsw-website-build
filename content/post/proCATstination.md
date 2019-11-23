@@ -1,12 +1,12 @@
 +++
-title = "Online Communities"
+title = "proCATstination"
 
-date = 2014-09-19T00:00:00
-lastmod = 2014-12-07T00:00:00
+date = 2016-07-01T00:00:00
+lastmod = 2016-07-01T00:00:00
 draft = false
 
-tags = ["MAET", "video", "storytelling"]
-summary = "A digital storytelling series on online communities for MAET coursework."
+tags = ["EPET", "video", "motivation", "humor"]
+summary = "A video reflection on motivation and behaviorism for EPET PhD coursework."
 
 [header]
 image = ""
@@ -51,22 +51,4 @@ caption = ""
 
 +++
 
-### Perceiving Community
-
-{{< youtube wXNKNYnMgBg >}}
-
-### Patterning Community
-
-{{< youtube g57hDiMocIs >}}
-
-### Embodying Community
-
-{{< youtube Z1HaCtWY2Vg >}}
-
-### Modeling Community
-
-{{< youtube OCrLqAwSzNw >}}
-
-### Synthesizing Community
-
-{{< youtube JdWKrM6qUio >}}
+{{< youtube Q4GTXzJD7mI >}}

@@ -5,7 +5,7 @@ date = 2016-07-30T00:00:00
 lastmod = 2016-07-30T00:00:00
 draft = false
 
-tags = []
+tags = ["EPET", "video"]
 summary = "First summary of my research interests at the start of my PhD program."
 
 [header]

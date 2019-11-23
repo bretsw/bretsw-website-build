@@ -1,12 +1,12 @@
 +++
-title = "Online Communities"
+title = "Testing"
 
-date = 2014-09-19T00:00:00
-lastmod = 2014-12-07T00:00:00
+date = 2015-04-19T00:00:00
+lastmod = 2015-04-19T00:00:00
 draft = false
 
-tags = ["MAET", "video", "storytelling"]
-summary = "A digital storytelling series on online communities for MAET coursework."
+tags = ["MAET", "video", "storytelling", "testing", "assessment"]
+summary = "A digital storytelling series on what we know through testing for MAET coursework."
 
 [header]
 image = ""
@@ -51,22 +51,4 @@ caption = ""
 
 +++
 
-### Perceiving Community
-
-{{< youtube wXNKNYnMgBg >}}
-
-### Patterning Community
-
-{{< youtube g57hDiMocIs >}}
-
-### Embodying Community
-
-{{< youtube Z1HaCtWY2Vg >}}
-
-### Modeling Community
-
-{{< youtube OCrLqAwSzNw >}}
-
-### Synthesizing Community
-
-{{< youtube JdWKrM6qUio >}}
+{{< youtube kXGaWgGyEuQ >}}

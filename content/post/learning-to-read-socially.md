@@ -1,12 +1,12 @@
 +++
-title = "Online Communities"
+title = "Learning to Read Socially"
 
-date = 2014-09-19T00:00:00
-lastmod = 2014-12-07T00:00:00
+date = 2013-06-09T00:00:00
+lastmod = 2013-06-09T00:00:00
 draft = false
 
-tags = ["MAET", "video", "storytelling"]
-summary = "A digital storytelling series on online communities for MAET coursework."
+tags = ["MAET", "video", "storytelling", "race", "ethnicity", "culture"]
+summary = "A digital storytelling video reflecting on discussions of race and ethnicity in America."
 
 [header]
 image = ""
@@ -51,22 +51,4 @@ caption = ""
 
 +++
 
-### Perceiving Community
-
-{{< youtube wXNKNYnMgBg >}}
-
-### Patterning Community
-
-{{< youtube g57hDiMocIs >}}
-
-### Embodying Community
-
-{{< youtube Z1HaCtWY2Vg >}}
-
-### Modeling Community
-
-{{< youtube OCrLqAwSzNw >}}
-
-### Synthesizing Community
-
-{{< youtube JdWKrM6qUio >}}
+{{< youtube 4ub5juWV3FI >}}

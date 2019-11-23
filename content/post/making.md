@@ -1,12 +1,12 @@
 +++
-title = "Online Communities"
+title = "Making"
 
-date = 2014-09-19T00:00:00
-lastmod = 2014-12-07T00:00:00
+date = 2015-07-12T00:00:00
+lastmod = 2015-08-18T00:00:00
 draft = false
 
-tags = ["MAET", "video", "storytelling"]
-summary = "A digital storytelling series on online communities for MAET coursework."
+tags = ["MAET", "video", "storytelling", "makerspaces"]
+summary = "A digital storytelling series on making and makerspaces for MAET coursework."
 
 [header]
 image = ""
@@ -51,22 +51,14 @@ caption = ""
 
 +++
 
-### Perceiving Community
+### Makerspaces
 
-{{< youtube wXNKNYnMgBg >}}
+{{< youtube FXd4JynwWDs >}}
 
-### Patterning Community
+### Repurposing
 
-{{< youtube g57hDiMocIs >}}
+{{< youtube Ezf8NR3dwxc >}}
 
-### Embodying Community
+### Maker Movement Assessment 
 
-{{< youtube Z1HaCtWY2Vg >}}
-
-### Modeling Community
-
-{{< youtube OCrLqAwSzNw >}}
-
-### Synthesizing Community
-
-{{< youtube JdWKrM6qUio >}}
+{{< youtube pbiw4lUcf58 >}}
