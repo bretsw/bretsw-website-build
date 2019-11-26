@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2019-11-20T00:00:00
+lastmod = 2019-11-26T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -69,7 +69,7 @@ caption = ""
 PhD, Educational Psychology & Educational Technology - 2021 (expected)  
     * Dissertation: *Into the edu-verse: Early-career educators seeking induction support on social media*  
     * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond  
-    * Defended proposal: November 26, 2019 (scheduled) [View slides](https://bretsw.github.io/dissertation-proposal/)  
+    * Defended proposal: November 26, 2019 [View slides](https://bretsw.github.io/dissertation-proposal/)  
     * Advanced to candidacy: February 3, 2019
 
 MA, Educational Technology - 2015  
@@ -115,7 +115,7 @@ Bucknell University - Lewisburg PA
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (in revision). It's about time! Comparing synchronous and asynchronous activity in a teacher-focused Twitter hashtag.
 
-Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (in press). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends*.
+Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (in press). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends*. https://doi.org/10.1007/s11528-019-00466-3
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (in press). Approaches to Mormon identity and practice in the #ldsconf Twitter space. *Journal of Media and Religion*.
 
@@ -133,7 +133,7 @@ Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Edu
 
 ## Book Chapters
 
-Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (under review). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology*. Routledge.
+Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (in revision). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology*. Routledge.
 
 Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in revision). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke & M. H. Mallette (Eds.), *Handbook of literacy research methodologies* (3rd ed.). New York, NY: Guilford Press. 
 
@@ -306,7 +306,6 @@ InterVarsity Christian Fellowship/USA - United States
 * Oversaw 51 projects related to online community building  
 * Supervised 8 project leads  
 * Hosted and directed 5 think tank gatherings (Atlanta, Austin, San Francisco)  
-* Managed annual budget of $500k  
 * Raised over $100k annually from individual donors
 
 *Area Director* - 2009-2014  
