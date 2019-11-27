@@ -1,0 +1,20 @@
+# Theme metadata
+name = "bretsw_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#3498db"
+primary_light = "#80bfe9"
+primary_dark = "#2772a4"
+
+# Menu
+menu_primary = "#e9f4fb"
+menu_text = "#143952"
+menu_text_active = "#3498db"
+menu_title = "#0d2637"
+
+# Home sections
+home_section_odd = "#f2f8fd"
+home_section_even = "#fcfdfe"
