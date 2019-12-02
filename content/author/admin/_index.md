@@ -118,7 +118,7 @@ interests = [
 # Hey there, I'm Bret.
 
 [*Read my CV*](cv/) or 
-{{% staticref "files/cv.pdf" %}}download{{% /staticref %}}
+{{% staticref "files/cv.pdf" %}}download a PDF{{% /staticref %}}
 
 I am a PhD candidate in the [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) program at Michigan State University. My research focuses on networked learning at the intersection of information science and teacher education. Specifically, I have been exploring how social media platforms support induction and ongoing professional learning for K-20 educators. My work has been published in *Journal of Technology and Teacher Education*, *Journal of Research on Technology in Education*, *British Journal of Educational Technology*, and *Policy Insights from the Behavioral and Brain Sciences*, among others, and I have won two Best-Paper Awards from the Society for Information Technology and Teacher Education.
 

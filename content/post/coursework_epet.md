@@ -52,7 +52,7 @@ caption = ""
 
 +++
 
-I am currently in the midst of completing my coursework for a PhD in [Educational Psychology and Educational Technology](http://education.msu.edu/cepse/epet/) through Michigan State University's College of Education. For now, I want to list each course, and hopefully down the road I'll get chance to write about my experience in each.
+I have completed the coursework for my Ph.D. in [Educational Psychology and Educational Technology](http://education.msu.edu/cepse/epet/) through Michigan State University's College of Education.
 
 **Course department guide:**  
 * CEP = *Department of Counseling, Educational Psychology, & Special Education*  
