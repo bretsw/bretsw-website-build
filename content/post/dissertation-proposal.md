@@ -5,7 +5,7 @@ date = 2019-11-26T00:00:00
 lastmod = 2019-11-26T00:00:00
 draft = false
 
-tags = ["coursework", "transcript", "msu"]
+tags = ["dissertation", "msu"]
 summary = ""
 
 [header]
@@ -53,9 +53,10 @@ caption = ""
 
 ## Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media
 
-On November 26, 2019, I successfully defended my dissertation proposal for my PhD in [Educational Psychology and Educational Technology](http://education.msu.edu/cepse/epet/) through Michigan State University's College of Education. [You can view my slides here](https://bretsw.github.io/dissertation-proposal/#1).
+On November 26, 2019, I successfully defended my dissertation proposal for my PhD in [Educational Psychology and Educational Technology](http://education.msu.edu/cepse/epet/) through Michigan State University's College of Education. [You can view my slides here](https://bretsw.github.io/dissertation-proposal/).
 
 I asked my committee for advice on sustaining a project as large as the dissertation, and they offered some great wisdom. I thought I should share:
+
 - Set the dissertation as your job. 
   - The dissertation gets first priority and best energy.
   - Touch the dissertation every day. It takes a lot of mental energy to get back into it after being away for a while.
