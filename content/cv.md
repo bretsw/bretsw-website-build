@@ -111,15 +111,15 @@ Bucknell University - Lewisburg PA
 
 ## Peer-Reviewed Journal Articles
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (under review). Teachers on Reddit? Exploring contributions and interaction in four education-related subreddits.
+**Staudt Willet**, K. B., & Carpenter, J. P. (in revision). Teachers on Reddit? Exploring contributions and interaction in four education-related subreddits.
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (in revision). It's about time! Comparing synchronous and asynchronous activity in a teacher-focused Twitter hashtag.
-
-Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (in press). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends*. https://doi.org/10.1007/s11528-019-00466-3
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (in press). Approaches to Mormon identity and practice in the #ldsconf Twitter space. *Journal of Media and Religion*.
 
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in press). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. *Journal of Technology and Teacher Education*.
+
+Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2019). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends*. https://doi.org/10.1007/s11528-019-00466-3
 
 Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2019). What should be the role of social media in education? *Policy Insights from the Behavioral and Brain Sciences, 6*(2), 178-185. https://doi.org/10.1177/2372732219865290
 

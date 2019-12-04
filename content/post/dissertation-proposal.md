@@ -9,7 +9,7 @@ tags = ["dissertation", "msu"]
 summary = ""
 
 [header]
-image = "proposal-slide.png"
+image = ""
 caption = ""
 
 [[gallery_item]]
@@ -53,9 +53,16 @@ caption = ""
 
 ## Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media
 
-On November 26, 2019, I successfully defended my dissertation proposal for my PhD in [Educational Psychology and Educational Technology](http://education.msu.edu/cepse/epet/) through Michigan State University's College of Education. [You can view my slides here](https://bretsw.github.io/dissertation-proposal/).
+On November 26, 2019, I successfully defended my dissertation proposal for my PhD in [Educational Psychology and Educational Technology](http://education.msu.edu/cepse/epet/) through Michigan State University's College of Education. You can scroll through my slides below (use the arrow keys) or view them [here](https://bretsw.github.io/dissertation-proposal/).
 
-I asked my committee for advice on sustaining a project as large as the dissertation, and they offered some great wisdom. I thought I should share:
+<iframe id="Into the Edu-verse slide deck"
+    title="Into the Edu-verse slide deck"
+    width="720"
+    height="405"
+    src="https://bretsw.github.io/dissertation-proposal/">
+</iframe>
+
+At the end of the defense, I asked my committee for advice on sustaining a project as large as the dissertation, and they offered some great wisdom. I thought I should share:
 
 - Set the dissertation as your job. 
   - The dissertation gets first priority and best energy.
