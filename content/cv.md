@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2019-11-26T00:00:00
+lastmod = 2019-12-03T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
