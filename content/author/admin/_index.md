@@ -124,6 +124,8 @@ I am a PhD candidate in the [Educational Psychology & Educational Technology](ht
 
 My research is interdisciplinary and utilizes a variety of methods—both qualitative and quantitative, human and computational—including qualitative content analysis, social network analysis, and machine learning. 
 
+Through a mixed-methods dissertation (interviews first and then a survey), I am seeking to understand the challenges faced by early-career educators during their transition from educator preparation programs into professional employment contexts (i.e., their induction period). This study explores what supports for professional learning early-career educators seek during induction, if any; from whom; and how, if at all, they use social media with the intention of seeking supports and connections. 
+
 I am currently the Co-chair of SITE's Social Media SIG and Secretary of AECT's Research & Theory Division. 
 
 I hold a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/) and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](http://education.msu.edu/academics/graduate-specializations-certificates/#online-teaching-learning), as well as a course to help undergraduate pre-service teachers think critically about using technology for teaching and learning. 
