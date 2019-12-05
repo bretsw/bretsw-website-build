@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2019-12-03T00:00:00
+lastmod = 2019-12-05T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -79,6 +79,9 @@ Graduate Certificate, Serious Game Design and Research - 2014
 BA, Mathematics & Sociology - 2003
 
 # Awards & Funding
+
+*Disciplinary Leadership Award* - $2,000 - 2019  
+Michigan State University, Council of Graduate Students - East Lansing MI
 
 *Outstanding Paper Award* - 2019  
 SITE International Conference - Las Vegas NV
