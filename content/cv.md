@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2019-12-05T00:00:00
+lastmod = 2019-12-06T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -118,11 +118,11 @@ Bucknell University - Lewisburg PA
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (in revision). It's about time! Comparing synchronous and asynchronous activity in a teacher-focused Twitter hashtag.
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (in press). Approaches to Mormon identity and practice in the #ldsconf Twitter space. *Journal of Media and Religion*.
-
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in press). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. *Journal of Technology and Teacher Education*.
 
 Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2019). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends*. https://doi.org/10.1007/s11528-019-00466-3
+
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (2019). Approaches to Mormon identity and practice in the #ldsconf Twitter hashtag. *Journal of Media and Religion, 18*(4), 122-133. https://doi.org/10.1080/15348423.2019.1696121
 
 Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2019). What should be the role of social media in education? *Policy Insights from the Behavioral and Brain Sciences, 6*(2), 178-185. https://doi.org/10.1177/2372732219865290
 
