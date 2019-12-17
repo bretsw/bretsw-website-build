@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2019-12-16T00:00:00
+lastmod = 2019-12-17T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -148,11 +148,13 @@ Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in revision). Research 
 
 ## Peer-Reviewed Conference Proceedings
 
-**Staudt Willet**, K. B. (under review). *Early-career educators’ experiences with social media during induction*. Paper proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
+Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (2020, April). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA.
 
-**Staudt Willet**, K. B. (under review). *The hashtag-thread mashup: How educators talk to each other in Twitter #Edchat*. Paper proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA.
+**Staudt Willet**, K. B. (2020, April). *Early-career educators’ experiences with social media during induction*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (under review). *For the longest time: Continuity and change in one teaching-related subreddit*. Paper proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
+**Staudt Willet**, K. B. (2020, April). *The hashtag-thread mashup: How educators talk to each other in Twitter #Edchat*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA.
+
+**Staudt Willet**, K. B., & Carpenter, J. P. (2020, April). *For the longest time: Continuity and change in one teaching-related subreddit*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
 
 Carpenter, J. P., Koehler, M. J., **Staudt Willet**, K. B., & Greenhalgh, S. P. (2019, March). Spam, spam, spam, spam: Methodological considerations and challenges for studying educators’ Twitter use. In K. Graziano (Ed.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2019* (pp. 2702-2711). Las Vegas, NV: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/208033/
 
@@ -175,8 +177,6 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017, March). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 1823-1830). Austin, TX: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/177469/
 
 ## Peer-Reviewed Conference Workshops
-
-Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (under review). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action*. Workshop proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA.
 
 **Staudt Willet**, K. B., & Greenhalgh, S. P., & Rosenberg, J. M. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R.* Workshop facilitated at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
 
