@@ -53,7 +53,9 @@ caption = ""
 
 ## Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media
 
-On November 26, 2019, I successfully defended my dissertation proposal for my PhD in [Educational Psychology and Educational Technology](http://education.msu.edu/cepse/epet/) through Michigan State University's College of Education. You can scroll through my slides below (use the arrow keys) or view them [here](https://bretsw.github.io/dissertation-proposal/).
+On November 26, 2019, I successfully defended my dissertation proposal for my PhD in [Educational Psychology and Educational Technology](http://education.msu.edu/cepse/epet/) through Michigan State University's College of Education. I have shared the full text of my proposal here: https://bretsw.github.io/dissertation-proposal-text/
+
+You can scroll through my presentation slides for the defense below (use the arrow keys) or view them [here](https://bretsw.github.io/dissertation-proposal/).
 
 <iframe id="Into the Edu-verse slide deck"
     title="Into the Edu-verse slide deck"
