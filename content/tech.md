@@ -55,7 +55,7 @@ caption = ""
 * Microsoft Word (paid) for final APA-style formatting for journal articles
 * [R Markdown](https://rmarkdown.rstudio.com/) for writing reports
 * [LaTeX](https://www.latex-project.org/) and [BibTeX](http://www.bibtex.org/) for writing particular documents (e.g., CV)
-* [Zotera](https://www.zotero.org/) for reference management
+* [Zotero](https://www.zotero.org/) for reference management
 * [Evernote](https://evernote.com/) for taking notes
 
 ## Coding and data analysis
@@ -63,11 +63,15 @@ caption = ""
 * [R](https://www.r-project.org/) for my main programming language
 * [R Studio](https://rstudio.com/) for my programming environment
 * [git](https://git-scm.com/) for version control
+* [Tidyverse](https://www.tidyverse.org/) R packages for most data shaping and visualization
+* [igraph](https://igraph.org/) R package for social network analysis
+* [Gephi](https://gephi.org/) for prettier network visualizations
 
 ## Sharing research
 
 * [GitHub](https://github.com/) for sharing code
 * [Open Science Framework](https://osf.io/) for sharing data
+* [xaringan](https://github.com/yihui/xaringan/wiki) R package for creating presentation slides
 
 ## Keeping track
 
