@@ -36,8 +36,6 @@ caption = ""
 
 +++
 
-# Technology I Use
-
 ## Web
 
 * The [Hugo](https://gohugo.io/) static website generator

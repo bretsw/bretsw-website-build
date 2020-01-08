@@ -53,7 +53,8 @@ caption = ""
 
 
 # K. Bret Staudt Willet  
-### PhD Candidate, Michigan State University
+
+**PhD Candidate, Michigan State University**
 
 [Email](mailto:bret@bretsw.com) - 
 [Twitter](https://twitter.com/bretsw) - 
@@ -63,7 +64,7 @@ caption = ""
 
 **Keywords:** *networked learning, information science, teacher education, social media, educational technology*
 
-# Education
+## Education
 
 *Michigan State University, College of Education*  
 PhD, Educational Psychology & Educational Technology - 2021 (expected)  
@@ -78,7 +79,7 @@ Graduate Certificate, Serious Game Design and Research - 2014
 *Bucknell University, College of Arts & Sciences*  
 BA, Mathematics & Sociology - 2003
 
-# Awards & Funding
+## Awards & Funding
 
 *Disciplinary Leadership Award* - $2,000 - 2019  
 Michigan State University, Council of Graduate Students - East Lansing MI
@@ -110,9 +111,9 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 *Presidential Fellowship* - $20,000/year x 3 years - 2000-2003  
 Bucknell University - Lewisburg PA
 
-# Publications
+## Publications
 
-## Peer-Reviewed Journal Articles
+### Peer-Reviewed Journal Articles
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (in revision). Teachers on Reddit? Exploring contributions and interaction in four education-related subreddits.
 
@@ -134,7 +135,7 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Educating social scholars: Examining novice researchers’ practices with social media. *Qwerty – Open and Interdisciplinary Journal of Technology, Culture and Education, 12*(2), 30-45. Retrieved from http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269/
 
-## Book Chapters
+### Book Chapters
 
 Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (in revision). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology*. Routledge.
 
@@ -146,7 +147,7 @@ Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in revision). Research 
 
 **Staudt Willet**, K. B., Koehler, M.J., & Greenhalgh, S. P. (2017). A tweet by any other frame: Comparing three theoretical frameworks for studying educator interactions on Twitter. In L. Liu & D. Gibson (Eds.), *Research highlights in technology and teacher education 2017* (pp. 63-70). Waynesville, NC: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.learntechlib.org/p/180960/ [Invited reprint of conference presentation in edited book]
 
-## Peer-Reviewed Conference Proceedings
+### Peer-Reviewed Conference Proceedings
 
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (2020, April). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA.
 
@@ -176,11 +177,11 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017, March). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 1823-1830). Austin, TX: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/177469/
 
-## Peer-Reviewed Conference Workshops
+### Peer-Reviewed Conference Workshops
 
 **Staudt Willet**, K. B., & Greenhalgh, S. P., & Rosenberg, J. M. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R.* Workshop facilitated at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
 
-## Peer-Reviewed Conference Presentations
+### Peer-Reviewed Conference Presentations
 
 Rosenberg, J. M., Rutherford, T., & **Staudt Willet**, K. B. (2020, April). *Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19*. Paper to be presented at the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
 
@@ -224,7 +225,7 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 **Willet**, K. B. (2001, February). *The shortest closed path on an arithmetic surface.* Paper presented at Moravian College Student Mathematics Conference 2001. Bethlehem, PA.
 
-## Invited Talks
+### Invited Talks
 
 **Staudt Willet**, K. B., & Bork, W. (2019, December). *Electronic assessment*. Talk for Master of Arts in Educational Technology (MAET) instructor huddle at Michigan State University: East Lansing, MI.
 
@@ -244,22 +245,22 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 **Staudt Willet**, K. B. (2014, March). *What games say.* Guest lecture for an undergraduate course in Film, Media, & Teacher Education. Millersville University: Millersville, PA.
 
-# Service
+## Service
 
-## Journal Article Reviews
+### Journal Article Reviews
 
 *Internet and Higher Education* - 2019  
 *American Journal of Education* (with Dr. Jeffrey Carpenter, faculty reviewer) - 2019  
 *Learning, Media and Technology* (with Dr. Christine Greenhow, faculty reviewer) - 2016  
 
-## Ad Hoc Service to Individuals
+### Ad Hoc Service to Individuals
 
 * *Copy Editing for National Science Foundation (NSF) Grant Proposal: "Understanding the Development of Interest in Computer Science: An Experience Sampling Approach"*, Dr. Joshua Rosenberg, University of Tennessee, Knoxville - 2019  
 *Practicum Committee Member*, Sarah Galvin, Michigan State University - 2018-2019  
 *Social Network Analysis*, Katie Schenkel, Michigan State University - 2018  
 *Content Analysis for Doctoral Dissertation*, Colin Terry, Michigan State University - 2018 
 
-## Service in Professional Organizations
+### Service in Professional Organizations
 
 Association for Educational Communications & Technology (AECT)  
 *Secretary*, Research & Theory Division - 2019-2020  
@@ -289,7 +290,7 @@ North American Simulation and Game Association (NASAGA)
 *Conference Committee Member*, Annual Conference (Seattle WA) - 2015  
 *Conference Committee Member*, Annual Conference (Baltimore MD) - 2014
 
-# Professional Experience
+## Professional Experience
 
 *Graduate Assistant/Instructor* - 2017-present  
 Michigan State University, College of Education - East Lansing MI  
@@ -363,7 +364,7 @@ Bucknell University, College of Arts & Sciences - Lewisburg PA
 *Calculus Tutor* – Department of Mathematics - 1999-2000  
 Bucknell University, College of Arts & Sciences - Lewisburg PA
 
-# Further Training
+## Further Training
 
 *Exploratory Data Analysis* - 2019  
 Certificate – Johns Hopkins University - Coursera.org
@@ -386,7 +387,7 @@ Certificate – Johns Hopkins University - Coursera.org
 *Game Design and Facilitation* - 2012  
 Workshop Certificate – The Thiagi Group at NASAGA - Columbus OH
 
-# Professional Affiliations
+## Professional Affiliations
 
 Association for Educational Communications & Technology (AECT)  
 *Research & Theory Division*
