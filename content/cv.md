@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2019-12-17T00:00:00
+lastmod = 2020-01-08T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -116,7 +116,7 @@ Bucknell University - Lewisburg PA
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (in revision). Teachers on Reddit? Exploring contributions and interaction in four education-related subreddits.
 
-Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (in revision). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag.
+Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (in press). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers and Education*.
 
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in press). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. *Journal of Technology and Teacher Education*.
 
@@ -144,7 +144,7 @@ Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in revision). Research 
 
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2018). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In T. J. Bastiaens & G. Marks (Eds.), *Education and Information Technology Annual 2018: A Selection of AACE Award Papers* (pp. 67-74). Association for the Advancement of Computing in Education (AACE). Retrieved from http://learntechlib.org/p/182952/ [Invited reprint of conference presentation in edited book]
 
-**Staudt Willet**, K. B., Koehler, M.J., & Greenhalgh, S.P. (2017). A tweet by any other frame: Comparing three theoretical frameworks for studying educator interactions on Twitter. In L. Liu & D. Gibson (Eds.), *Research highlights in technology and teacher education 2017* (pp. 63-70). Waynesville, NC: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.learntechlib.org/p/180960/ [Invited reprint of conference presentation in edited book]
+**Staudt Willet**, K. B., Koehler, M.J., & Greenhalgh, S. P. (2017). A tweet by any other frame: Comparing three theoretical frameworks for studying educator interactions on Twitter. In L. Liu & D. Gibson (Eds.), *Research highlights in technology and teacher education 2017* (pp. 63-70). Waynesville, NC: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.learntechlib.org/p/180960/ [Invited reprint of conference presentation in edited book]
 
 ## Peer-Reviewed Conference Proceedings
 
@@ -382,9 +382,6 @@ Certificate – Johns Hopkins University - Coursera.org
 
 *R Programming* - 2017  
 Certificate – Johns Hopkins University - Coursera.org
-
-*Serious Game Design and Research* - 2014  
-Graduate Certificate – MSU College of Communication Arts & Sciences - East Lansing MI
 
 *Game Design and Facilitation* - 2012  
 Workshop Certificate – The Thiagi Group at NASAGA - Columbus OH
