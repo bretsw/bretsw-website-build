@@ -105,7 +105,7 @@ Techniques in data collection and data analysis used in educational and psycholo
 
 Advanced techniques of data analysis and statistical inference used in educational and psychological research. Multiple regression, analysis of variance, and basic principles of experimental design in educational applications.
 
-### CEP 991b1: Theory and Method of Social Networks  
+### CEP 991b: Theory and Method of Social Networks  
 *Fall 2018*  
 **Instructors:** [Dr. Ken Frank](https://msu.edu/~kenfrank/)
 
