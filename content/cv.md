@@ -12,21 +12,6 @@ summary = ""
 image = ""
 caption = ""
 
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
-[[gallery_item]]
-album = ""
-image = ""
-caption = ""
-
 # **Bold**
 # *Italic*
 # `Code`
@@ -64,6 +49,8 @@ caption = ""
 
 **Keywords:** *networked learning, information science, teacher education, social media, educational technology*
 
+---
+
 ## Education
 
 *Michigan State University, College of Education*  
@@ -78,6 +65,8 @@ Graduate Certificate, Serious Game Design and Research - 2014
 
 *Bucknell University, College of Arts & Sciences*  
 BA, Mathematics & Sociology - 2003
+
+---
 
 ## Awards & Funding
 
@@ -111,15 +100,17 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 *Presidential Fellowship* - $20,000/year x 3 years - 2000-2003  
 Bucknell University - Lewisburg PA
 
+---
+
 ## Publications
 
 ### Peer-Reviewed Journal Articles
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (in revision). Teachers on Reddit? Exploring contributions and interaction in four education-related subreddits.
 
-Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (in press). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers and Education*.
-
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in press). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. *Journal of Technology and Teacher Education*.
+
+Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers and Education*. https://doi.org/10.1016/j.compedu.2020.103809
 
 Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2019). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends*. https://doi.org/10.1007/s11528-019-00466-3
 
@@ -245,6 +236,8 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 **Staudt Willet**, K. B. (2014, March). *What games say.* Guest lecture for an undergraduate course in Film, Media, & Teacher Education. Millersville University: Millersville, PA.
 
+---
+
 ## Service
 
 ### Journal Article Reviews
@@ -289,6 +282,8 @@ North American Simulation and Game Association (NASAGA)
 *Board Member* - 2013-2015  
 *Conference Committee Member*, Annual Conference (Seattle WA) - 2015  
 *Conference Committee Member*, Annual Conference (Baltimore MD) - 2014
+
+---
 
 ## Professional Experience
 
@@ -364,6 +359,8 @@ Bucknell University, College of Arts & Sciences - Lewisburg PA
 *Calculus Tutor* – Department of Mathematics - 1999-2000  
 Bucknell University, College of Arts & Sciences - Lewisburg PA
 
+---
+
 ## Further Training
 
 *Exploratory Data Analysis* - 2019  
@@ -386,6 +383,8 @@ Certificate – Johns Hopkins University - Coursera.org
 
 *Game Design and Facilitation* - 2012  
 Workshop Certificate – The Thiagi Group at NASAGA - Columbus OH
+
+---
 
 ## Professional Affiliations
 
