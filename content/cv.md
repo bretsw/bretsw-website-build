@@ -248,7 +248,7 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ### Ad Hoc Service to Individuals
 
-* *Copy Editing for National Science Foundation (NSF) Grant Proposal: "Understanding the Development of Interest in Computer Science: An Experience Sampling Approach"*, Dr. Joshua Rosenberg, University of Tennessee, Knoxville - 2019  
+*Copy Editing for National Science Foundation (NSF) Grant Proposal: "Understanding the Development of Interest in Computer Science: An Experience Sampling Approach"*, Dr. Joshua Rosenberg, University of Tennessee, Knoxville - 2019  
 *Practicum Committee Member*, Sarah Galvin, Michigan State University - 2018-2019  
 *Social Network Analysis*, Katie Schenkel, Michigan State University - 2018  
 *Content Analysis for Doctoral Dissertation*, Colin Terry, Michigan State University - 2018 
