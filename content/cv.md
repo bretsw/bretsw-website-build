@@ -106,9 +106,9 @@ Bucknell University - Lewisburg PA
 
 ### Peer-Reviewed Journal Articles
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (in revision). Teachers on Reddit? Exploring contributions and interaction in four education-related subreddits.
-
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in press). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. *Journal of Technology and Teacher Education*.
+
+**Staudt Willet**, K. B., & Carpenter, J. P. (in press). Teachers on Reddit? Exploring contributions and interactions in four teaching-related subreddits. *Journal of Research on Technology in Education*.
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers and Education*. https://doi.org/10.1016/j.compedu.2020.103809
 
@@ -130,7 +130,7 @@ Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Edu
 
 Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (in revision). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology*. Routledge.
 
-Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in revision). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke & M. H. Mallette (Eds.), *Handbook of literacy research methodologies* (3rd ed.). New York, NY: Guilford Press. 
+Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in press). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke & M. H. Mallette (Eds.), *Handbook of literacy research methodologies* (3rd ed.). New York, NY: Guilford Press. 
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (2019). Educators on the front page of the Internet: Teacher learning in four subreddits. In D. C. Gibson & M. N. Ochoa (Eds.), *Research highlights in technology and teacher education 2019* (pp. 169-178). Waynesville, NC: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/210591/ [Invited reprint of conference presentation in an edited book]
 
