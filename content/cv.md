@@ -70,7 +70,7 @@ BA, Mathematics & Sociology - 2003
 
 ## Awards & Funding
 
-*Research Practicum/Dissertation Development Fellowship* - $1,300 \hfill 2020  
+*Research Practicum/Dissertation Development Fellowship* - $1,300 - 2020  
 Michigan State University, College of Education \hfill East Lansing MI
 
 *Disciplinary Leadership Award* - $2,000 - 2019  
