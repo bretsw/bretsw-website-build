@@ -70,6 +70,9 @@ BA, Mathematics & Sociology - 2003
 
 ## Awards & Funding
 
+*Research Practicum/Dissertation Development Fellowship* - $1,300 \hfill 2020  
+Michigan State University, College of Education \hfill East Lansing MI
+
 *Disciplinary Leadership Award* - $2,000 - 2019  
 Michigan State University, Council of Graduate Students - East Lansing MI
 
@@ -106,9 +109,7 @@ Bucknell University - Lewisburg PA
 
 ### Peer-Reviewed Journal Articles
 
-Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in press). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. *Journal of Technology and Teacher Education*.
-
-**Staudt Willet**, K. B., & Carpenter, J. P. (in press). Teachers on Reddit? Exploring contributions and interactions in four teaching-related subreddits. *Journal of Research on Technology in Education*.
+**Staudt Willet**, K. B., & Carpenter, J. P. (in press). Teachers on Reddit? Exploring contributions and interactions in four teaching-related subreddits. *Journal of Research on Technology in Education*. https://doi.org/10.1080/15391523.2020.1722978
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers and Education*. https://doi.org/10.1016/j.compedu.2020.103809
 
@@ -119,6 +120,8 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (2019). Approaches
 Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2019). What should be the role of social media in education? *Policy Insights from the Behavioral and Brain Sciences, 6*(2), 178-185. https://doi.org/10.1177/2372732219865290
 
 Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (2019). Social scholarship revisited: Changing scholarly practices in the age of social media. *British Journal of Educational Technology, 50*, 987-1004. https://doi.org/10.1111/bjet.12772
+
+Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (2019). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. *Journal of Technology and Teacher Education, 27*(4), 549-568.
 
 **Staudt Willet**, K. B. (2019). Revisiting how and why educators use Twitter: Tweet types and purposes in #Edchat. *Journal of Research on Technology in Education, 51*, 273-289. https://doi.org/10.1080/15391523.2019.1611507
 
