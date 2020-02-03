@@ -131,7 +131,7 @@ Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Edu
 
 ### Book Chapters
 
-Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (in revision). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology*. Routledge.
+Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (in press). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology*. New York, NY: Routledge.
 
 Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in press). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke & M. H. Mallette (Eds.), *Handbook of literacy research methodologies* (3rd ed.). New York, NY: Guilford Press. 
 
