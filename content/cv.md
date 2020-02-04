@@ -259,18 +259,20 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 ### Service in Professional Organizations
 
 Association for Educational Communications & Technology (AECT)  
+*Communications Officer*, Research & Theory Division - 2020-2021  
 *Secretary*, Research & Theory Division - 2019-2020  
-*Conference Proposal Reviewer*, Research & Theory Division - 2019  
+*Conference Proposal Reviewer*, Research & Theory Division - 2019-2020  
 *Graduate Student Representative*, Research & Theory Division - 2018-2019  
 *Webinar Team Leader*, Graduate Student Association Division - 2018-2019
 
-American Educational Research Association (AERA)  
-*Session Presider/Chair*, Annual Meeting (New York NY) - 2018
-
 Society for Information Technology and Teacher Education (SITE)  
 *Co-Chair*, Social Media SIG - 2019-2021  
+*Conference Proposal Reviewer*, Social Media SIG - 2020  
 *Graduate Student Intern*, Social Media SIG - 2018-2019  
-*Session Presider/Chair* - 2018-2019
+*Session Presider/Chair* - 2018-2020
+
+American Educational Research Association (AERA)  
+*Session Presider/Chair*, Annual Meeting (New York NY) - 2018
 
 Passion Talks Conference (Google HQ, Mountain View CA)  
 *Science, Technology, & Innovation Track Chair* - 2017  
