@@ -47,7 +47,7 @@ caption = ""
 [LinkedIn](https://www.linkedin.com/in/bretsw/) - 
 [Google Scholar](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en)
 
-**Keywords:** *networked learning, information science, teacher education, social media, educational technology*
+**Keywords:** *teacher networks, social media, educational technology*
 
 ---
 
@@ -109,9 +109,9 @@ Bucknell University - Lewisburg PA
 
 ### Peer-Reviewed Journal Articles
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (in press). Teachers on Reddit? Exploring contributions and interactions in four teaching-related subreddits. *Journal of Research on Technology in Education*. https://doi.org/10.1080/15391523.2020.1722978
+Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers and Education, 148*, 103809. https://doi.org/10.1016/j.compedu.2020.103809
 
-Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers and Education*. https://doi.org/10.1016/j.compedu.2020.103809
+**Staudt Willet**, K. B., & Carpenter, J. P. (2020). Teachers on Reddit? Exploring contributions and interactions in four teaching-related subreddits. *Journal of Research on Technology in Education*. https://doi.org/10.1080/15391523.2020.1722978
 
 Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2019). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends*. https://doi.org/10.1007/s11528-019-00466-3
 
@@ -263,7 +263,7 @@ Association for Educational Communications & Technology (AECT)
 *Secretary*, Research & Theory Division - 2019-2020  
 *Conference Proposal Reviewer*, Research & Theory Division - 2019-2020  
 *Graduate Student Representative*, Research & Theory Division - 2018-2019  
-*Webinar Team Leader*, Graduate Student Association Division - 2018-2019
+*Webinar Team Leader*, Graduate Student Association - 2018-2019
 
 Society for Information Technology and Teacher Education (SITE)  
 *Co-Chair*, Social Media SIG - 2019-2021  

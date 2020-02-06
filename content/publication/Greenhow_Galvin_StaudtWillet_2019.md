@@ -2,7 +2,7 @@
 title = "What Should Be the Role of Social Media in Education?"
 date = 2019-08-01T00:00:00
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+# Authors.
 authors = ["Christine Greenhow", "Sarah M. Galvin", "K. Bret Staudt Willet"]
 
 # Publication type.

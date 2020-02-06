@@ -26,10 +26,10 @@ abstract = "In this paper, we document different expressions of Mormon identity 
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1080/15348423.2019.1696121"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

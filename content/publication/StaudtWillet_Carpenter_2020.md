@@ -1,9 +1,9 @@
 +++
-title = "Revisiting How and Why Educators Use Twitter: Tweet Types and Purposes in #Edchat"
-date = 2019-04-01T00:00:00
+title = "Teachers on Reddit? Exploring Contributions and Interactions in Four Teaching-Related Subreddits"
+date = 2020-02-05T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["K. Bret Staudt Willet"]
+authors = ["K. Bret Staudt Willet", "Jeffrey P. Carpenter"]
 
 # Publication type.
 # Legend:
@@ -21,20 +21,20 @@ publication = "In *Journal of Research on Technology in Education*"
 publication_short = ""
 
 # Abstract.
-abstract = "This study revisits Carpenter and Krutka’s (2014) survey of how and why educators use Twitter, through exploring one of Twitter’s oldest education hashtags: #Edchat. From October 1, 2017 to June 5, 2018, more than 1.2 million unique #Edchat tweets were collected from approximately 200,000 different tweeters. Machine coding was used to answer, “What types of tweets did users contribute to #Edchat?,” and human coding to answer, “What purposes are observable in these tweets?” The results showed that #Edchat has been used effectively for exploring ideas but under-utilized for sharing emotions—with mixed results for capitalizing on the advantages of Twitter’s online environment. Further research is required to explore combating teacher isolation and experiencing a sense of camaraderie. Taking into account these results, practitioners should be clear regarding their goals for Twitter education hashtag use when considering #Edchat, and researchers studying different education hashtags should keep in mind various tweet types, modes, and purposes."
+abstract = "The website Reddit has received scant attention from educational researchers despite the presence of numerous teaching-related subreddits that host thousands of threaded conversations. The purpose of this study was to provide an initial comparison of discussions occurring in several different affinity spaces on Reddit. Because of the lack of relevant prior research, there was no baseline for what to expect in Reddit discussions, so all posts and responses in four different teaching-related subreddits over the course of a full year were analyzed to answer three research questions: How much did individuals contribute to different subreddits? What content interactions occurred in different subreddits? What social interactions occurred in different subreddits? Comparative quantitative analysis revealed substantial differences among the subreddits in terms of levels of voting and network characteristics. Results suggest that Reddit hosts diverse spaces that could present benefits and challenges for educators. These findings are addressed in relation to the extant literature and implications for educational practice and future research."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1080/15391523.2019.1611507"
+doi = "10.1080/15391523.2020.1722978"
 
 # Is this a featured publication? (true/false)
 featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Twitter", "hashtag", "affinity space", "social media", "teacher"]
+tags = ["social media", "educators", "affinity spaces", "social network analysis", "online discussion forums", "Reddit"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -53,7 +53,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.tandfonline.com/doi/abs/10.1080/15391523.2020.1722978?journalCode=ujrt20"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

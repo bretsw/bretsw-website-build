@@ -2,7 +2,7 @@
 title = "Educators on the Front Page of the Internet: Education-Related Subreddits as Learning Spaces"
 date = 2019-03-22T00:00:00
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+# Authors.
 authors = ["K. Bret Staudt Willet", "Jeffrey P. Carpenter"]
 
 # Publication type.

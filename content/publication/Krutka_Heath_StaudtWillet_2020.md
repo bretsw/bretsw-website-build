@@ -2,7 +2,7 @@
 title = "Foregrounding technoethics: Toward Critical perspectives in technology and teacher education"
 date = 2019-11-03T00:00:00
 
-authors = ["Daniel Krutka", "Marie Heath", "K. Bret Staudt Willet"]
+authors = ["Daniel G. Krutka", "Marie K. Heath", "K. Bret Staudt Willet"]
 
 # Publication type.
 # Legend:
@@ -20,7 +20,8 @@ publication = "In *Journal of Technology and Teacher Education*"
 publication_short = "In *Journal of Technology and Teacher Education*"
 
 # Abstract.
-abstract = "The recently released Teacher Educator Technology Competencies (TETCs) were created to help all teacher educators support teacher candidates as they prepare to become technology-using teachers. The TETCs largely focus on teaching *with* technology. However, one of the 12 competencies, TETC #9, offers an opportunity to focus on teaching *about* technology which might allow for the foregrounding technoethical issues in everyday classroom uses of technologies. In an effort to ensure the field avoids past failures of hope, hype, and disappointment, we offer theoretical critique of epistemological, ontological, and historical commitments that are implicitly or explicitly communicated in TETC #9, but also more broadly in the field, profession, and society. Specifically, we draw attention to commitments to behaviorist learning theories, accountability reform measures, thin visions of democracy, and  absence to racial diversity or equity in methods and findings. We conclude by offering suggestions for how teacher educators might inquire into technoethical conundrums through ethical, democratic, legal, economic, technological, and pedagogical explorations of technologies."
+abstract = "The Teacher Educator Technology Competencies (TETCs) were created to help all teacher educators support teacher candidates as they prepare to become technology-using teachers. The TETCs largely focus on teaching *with* technology. However, one of the 12 competencies, TETC 9, offers an opportunity to delve into teaching *about* technology which might allow for the foregrounding of technoethical issues in everyday classroom uses of technologies. In this article, we offer theoretical critique of epistemological, ontological, and historical commitments that are implicitly or explicitly communicated in TETC 9, but also more broadly in the field, profession, and society. Specifically, we draw attention to commitments to behaviorist learning theories, accountability reform measures, visions of democracy, and the need for diversity or equity in methods and findings. We conclude by
+offering suggestions for how teacher educators might inquire into technoethical conundrums through ethical, democratic, legal, economic, technological, and pedagogical explorations of technologies."
 
 # Summary. An optional shortened abstract.
 summary = ""

@@ -52,7 +52,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://doi.org/10.1007/s11528-019-00466-3"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

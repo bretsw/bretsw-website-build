@@ -66,6 +66,7 @@ caption = ""
 * [Tidyverse](https://www.tidyverse.org/) R packages for most data shaping and visualization
 * [igraph](https://igraph.org/) R package for social network analysis
 * [Gephi](https://gephi.org/) for prettier network visualizations
+* [ATLAS.ti](https://atlasti.com/) for qualitative coding and analysis
 
 ## Sharing research
 

@@ -2,7 +2,7 @@
 title = "Social Scholarship Revisited: Changing Scholarly Practices in the Age of Social Media"
 date = 2019-03-01T00:00:00
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+# Authors.
 authors = ["Christine M. Greenhow", "Benjamin Gleason", "K. Bret Staudt Willet"]
 
 # Publication type.

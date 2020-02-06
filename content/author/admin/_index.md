@@ -16,16 +16,14 @@ role = "PhD Candidate"
 organizations = [ { name = "Michigan State University", url = "http://education.msu.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research focuses on networked learning—specifically, how social media platforms can support induction and ongoing professional learning for K-20 educators."
+bio = "My research focuses on networked learning—-specifically, how social media platforms can support induction and ongoing professional learning for K-20 educators."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-   "Networked Learning",
-   "Information Science",
-   "Teacher Education",
+   "Teacher Networks",
    "Social Media",
    "Educational Technology"
 ]
