@@ -2,7 +2,7 @@
 title = "Technology I Use"
 
 date = 2020-01-08T00:00:00
-lastmod = 2020-01-08T00:00:00
+lastmod = 2020-02-06T00:00:00
 draft = false
 
 tags = ["tech", "technology"]
