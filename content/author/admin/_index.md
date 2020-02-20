@@ -133,7 +133,8 @@ I still consider my strongest credential to be my ongoing friendship with my ver
 ## Professional Affiliations
 
 **Association for Educational Communications & Technology** [AECT](https://aect.org/)  
-*Research & Theory Division* (Secretary, 2019-2020)
+*Research & Theory Division* (Secretary 2019-2020; Communications Officer 2020-2021)
+*Teacher Education Division*
 
 **American Educational Research Association** [AERA](https://www.aera.net/)  
 *Division C* – Learning & Instruction  
@@ -146,4 +147,4 @@ I still consider my strongest credential to be my ongoing friendship with my ver
 **Society for Information Technology and Teacher Education** [SITE](http://site.aace.org/)  
 <i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/208040/), 2019  
 <i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/177469/), 2017  
-*Social Media SIG* (Co-chair, 2019-2021)
+*Social Media SIG* (Co-chair 2019-2021)
