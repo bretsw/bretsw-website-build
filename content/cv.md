@@ -159,7 +159,7 @@ Moudgalya, S. K., & **Staudt Willet**, K. B. (2019, March). Communities and clus
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (2019, March). Educators on the front page of the Internet: Education-related subreddits as learning spaces. In K. Graziano (Ed.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2019* (pp. 2787-2795). Las Vegas, NV: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/208040/
 
-**Staudt Willet**, K. B., & Willet, B. D. (2018, October). *Look who’s talking: Using human coding to establish a machine learning approach to Twitter education chats.* Paper presented at AoIR 2018: The 19th Annual Conference of the Association of Internet Researchers. Montreal, QB, Canada: AoIR. Retrieved from http://spir.aoir.org/
+**Staudt Willet**, K. B., & Willet, B. D. (2018, October). Look who’s talking: Using human coding to establish a machine learning approach to Twitter education chats. In *AoIR selected papers of internet research*. Montreal, QB, Canada: Association of Internet Researchers. Retrieved from https://spir.aoir.org/ojs/index.php/spir/article/view/10512
 
 **Staudt Willet**, K. B., & Reimer, P. N. (2018, March). The career you save may be your own: Exploring the mathtwitterblogosphere as a community of practice. In E. Langran & J. Borup (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2018* (pp. 2324-2329). Washington, DC: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/182845/
 
