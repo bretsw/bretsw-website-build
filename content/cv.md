@@ -49,6 +49,8 @@ caption = ""
 
 **Keywords:** *teacher networks, social media, educational technology*
 
+[Download a PDF copy of my CV](https://bretsw.github.io/files/cv.pdf)
+
 ---
 
 ## Education
