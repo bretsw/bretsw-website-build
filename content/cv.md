@@ -174,10 +174,6 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017, March). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 1823-1830). Austin, TX: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/177469/
 
-### Peer-Reviewed Conference Workshops
-
-**Staudt Willet**, K. B., & Greenhalgh, S. P., & Rosenberg, J. M. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R.* Workshop facilitated at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV. Available from https://bretsw.github.io/aect19-workshop/
-
 ### Peer-Reviewed Conference Presentations
 
 Rosenberg, J. M., Rutherford, T., & **Staudt Willet**, K. B. (2020, April). *Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19*. Paper to be presented at the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
@@ -222,7 +218,18 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 **Willet**, K. B. (2001, February). *The shortest closed path on an arithmetic surface.* Paper presented at Moravian College Student Mathematics Conference 2001. Bethlehem, PA.
 
-### Invited Talks
+---
+
+## Teaching
+
+### Courses
+
+* Instructor, *Teaching & Learning with Technology* (Undergraduate, online) - 2017-present
+* Instructor, *Learning Technology through Design* (Master’s, online) - 2018-present
+* Instructor, *Electronic Assessment for Teaching and Learning* (Master’s, online) - 2018-present
+* Instructor, *Teaching Students Online* (Master’s, online) - 2017
+
+### Instructional Activities & Workshops 
 
 **Staudt Willet**, K. B., Rosenberg, J. M., &  Greenhalgh, S. P. (2020, March). *R u ready 4 R? Introduction to analyzing educational Internet data using R.* Workshop facilitated for the Students, Social Media & Schools research group at Florida State University. Available from https://bretsw.github.io/fsu-workshop/
 
@@ -230,37 +237,28 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 **Staudt Willet**, K. B. (2019, November). *Content, conversation, & context: How educators talk to each other in Twitter #Edchat*. Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI.
 
-**Staudt Willet**, K. B. (2019, September). *Insights for academic publishing.* Guest lecture for an EPET doctoral course, CEP 956: Mind, Media and Learning. Michigan State University: East Lansing, MI.
+**Staudt Willet**, K. B., Greenhalgh, S. P., & Rosenberg, J. M. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R.* Workshop facilitated at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV. Available from https://bretsw.github.io/aect19-workshop/
 
-**Staudt Willet**, K. B. (2018, November). *Bigger is not always better: Revisiting how and why educators use Twitter #Edchat.* Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI.
+**Staudt Willet**, K. B. (2019, September). *Insights for academic publishing*. Guest lecture for an EPET doctoral course, CEP 956: Mind, Media and Learning. Michigan State University: East Lansing, MI.
 
-**Staudt Willet**, K. B. (2018, October). *Experiences from the practicum.* Guest panelist for an EPET doctoral course, CEP 955: Research Design and Methods for Educational Psychology and Educational Technology. Michigan State University: East Lansing, MI.
+**Staudt Willet**, K. B. (2018, November). *Bigger is not always better: Revisiting how and why educators use Twitter #Edchat*. Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI.
 
-**Staudt Willet**, K. B. (2017, November). *Once more unto the practicum, dear friends: Research lessons from studying social interactions on social media.* Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI. 
+**Staudt Willet**, K. B. (2018, October). *Experiences from the practicum*. Guest panelist for an EPET doctoral course, CEP 955: Research Design and Methods for Educational Psychology and Educational Technology. Michigan State University: East Lansing, MI.
 
-**Staudt Willet**, K. B. (2016, August). *How did we get here?* Keynote address at Passion Talks Conference 2016. Fremont, CA.
+**Staudt Willet**, K. B. (2017, November). *Once more unto the practicum, dear friends: Research lessons from studying social interactions on social media*. Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI. 
 
-**Staudt Willet**, K. B. (2015, September). *Patterns of online communities.* Webinar presented for Indigitous Sessions. Online.
+**Staudt Willet**, K. B. (2015, September). *Patterns of online communities*. Webinar presented for Indigitous Sessions. Online.
 
-**Staudt Willet**, K. B. (2014, March). *What games say.* Guest lecture for an undergraduate course in Film, Media, & Teacher Education. Millersville University: Millersville, PA.
+**Staudt Willet**, K. B. (2014, March). *What games say*. Guest lecture for an undergraduate course in Film, Media, & Teacher Education. Millersville University: Millersville, PA.
 
----
+### Mentoring and Advising
 
-## Teaching
-
-### Courses
-
-* Teaching & Learning with Technology (Undergraduate) - 2017-present
-* Learning Technology through Design (Master’s) - 2018-present
-* Electronic Assessment for Teaching and Learning (Master’s) - 2018-present
-* Teaching Students Online (Master’s) - 2017
-
-### Mentoring/Advising
-
-* *Copy Editing for National Science Foundation (NSF) Grant Proposal*, Dr. Joshua Rosenberg, University of Tennessee, Knoxville - 2019
-* *Practicum Committee Member*, Sarah Galvin, Michigan State University - 2018-2019
-* *Social Network Analysis*, Katie Schenkel, Michigan State University - 2018
-* *Content Analysis for Doctoral Dissertation*, Colin Terry, Michigan State University - 2018
+* Graduate mentor, *Master's course instruction* (William Bork, MSU) - 2018-2019
+* Peer reviewer, *National Science Foundation (NSF) Grant Proposal* (Dr. Joshua Rosenberg, University of Tennessee, Knoxville) - 2019
+* Doctoral student member, *Research Apprenticeship Practicum Committee* (Sarah Galvin, MSU) - 2018-2019
+* Graduate mentor, *Undergraduate course instruction* (Matthew Drazin, MSU) - 2018-2019
+* Data analyst, *Social network analysis for doctoral project* (Katie Schenkel, MSU) - 2018
+* Data analyst, *Content analysis for doctoral dissertation* (Colin Terry, MSU) - 2018
 
 ---
 
