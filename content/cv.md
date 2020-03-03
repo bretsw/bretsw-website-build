@@ -56,7 +56,7 @@ caption = ""
 ## Education
 
 *Michigan State University, College of Education*  
-PhD, Educational Psychology & Educational Technology - 2021 (expected)  
+**PhD**, Educational Psychology & Educational Technology - 2021 (expected)  
 
 * Dissertation: *Into the edu-verse: Early-career educators seeking induction support on social media*
 * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond
@@ -65,11 +65,11 @@ PhD, Educational Psychology & Educational Technology - 2021 (expected)
   * [Read proposal](https://bretsw.github.io/dissertation-proposal-text/)
 * Advanced to candidacy: February 3, 2019
 
-MA, Educational Technology - 2015  
-Graduate Certificate, Serious Game Design and Research - 2014
+**MA**, Educational Technology - 2015  
+**Graduate Certificate**, Serious Game Design and Research - 2014
 
 *Bucknell University, College of Arts & Sciences*  
-BA, Mathematics & Sociology - 2003
+**BA**, Mathematics & Sociology - 2003
 
 ---
 
