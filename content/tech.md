@@ -67,6 +67,7 @@ caption = ""
 * [igraph](https://igraph.org/) R package for social network analysis
 * [Gephi](https://gephi.org/) for prettier network visualizations
 * [ATLAS.ti](https://atlasti.com/) for qualitative coding and analysis
+* [Otter.ai](https://otter.ai/) for transcribing interview data
 
 ## Sharing research
 

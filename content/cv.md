@@ -305,56 +305,61 @@ North American Simulation and Game Association (NASAGA)
 *Graduate Assistant/Instructor* - 2017-present  
 Michigan State University, College of Education - East Lansing MI  
 Department of Counseling, Educational Psychology, & Special Education  
+
 * Taught courses at the Master's and undergraduate levels
 
 *Course Writer* - 2019  
 Concordia University, College of Education - Portland, OR  
 Educational Technology and Learning Design program  
+
 * The Evolving Landscape of Educational Technology (Master's)
 
 *Founding National Director* – Ministry in Digital Spaces - 2014-2017  
 InterVarsity Christian Fellowship/USA - United States  
-* Oversaw 51 projects related to online community building  
-* Supervised 8 project leads  
-* Hosted and directed 5 think tank gatherings (Atlanta, Austin, San Francisco)  
+
+* Oversaw 51 projects related to online community building
+* Supervised 8 project leads
+* Hosted and directed 5 think tank gatherings (Atlanta, Austin, San Francisco)
 
 *Area Director* - 2009-2014  
 InterVarsity Christian Fellowship/USA - South Central Pennsylvania  
-* Supervised 17 different staff  
-* Directed 11 conferences for undergraduate students from 7 colleges  
-* Delivered more than 100 talks at 13 different colleges and 8 inter-collegiate conferences  
-* Developed and facilitated 30 training seminars for staff and students  
 
-*Associate Area Director* - 2008-2009  
-InterVarsity Christian Fellowship/USA - South Central Pennsylvania  
-* Supervised 1 staff  
-* Trained 4 interns
+* Supervised 17 different staff
+* Directed 11 conferences for undergraduate students from 7 colleges
+* Delivered more than 100 talks at 13 different colleges and 8 inter-collegiate conferences
+* Developed and facilitated 30 training seminars for staff and students
 
 *Director* – Summer Urban Program in Lancaster PA - 2006; 2009-2012  
 InterVarsity Christian Fellowship/USA - Lancaster PA  
-* Designed and facilitated five 6-week immersive learning programs for undergraduate students  
+
+* Designed and facilitated five 6-week immersive learning programs for undergraduate students
 * Received training in Mexico City, Mexico
 
 *Director* – Summer Global Program Manila, Philippines - 2005  
 InterVarsity Christian Fellowship/USA  
-* Designed and facilitated a 6-week immersive, experiential learning program for undergraduate students  
+
+* Designed and facilitated a 6-week immersive, experiential learning program for undergraduate students
 * Received training in Addis Ababa, Ethiopia
 
 *Campus Staff Member* – Franklin & Marshall College - 2003-2007  
 InterVarsity Christian Fellowship/USA - Lancaster PA  
-* Trained, coached, and supported more than 50 different undergraduate student volunteer leaders  
-* Apprenticed under international students to learn to cook food from Taiwan, China, Thailand, Japan, India, Nigeria, and Ghana  
+
+* Trained, coached, and supported more than 50 different undergraduate student volunteer leaders
+* Apprenticed under international students to learn to cook food from Taiwan, China, Thailand, Japan, India, Nigeria, and Ghana
 
 *Presidential Fellow: Research Assistant* – Department of Sociology - 2002-2003  
 Bucknell University, College of Arts & Sciences - Lewisburg PA  
+
 * Reviewed literature in social psychology and situational identity
 
 *Presidential Fellow: Research Assistant* – Department of Mathematics - 2000-2002  
 Bucknell University, College of Arts & Sciences - Lewisburg PA  
+
 * Assisted with research in L-functions and Maass form deformations
 
 *Research Intern: Summer Research Experience for Undergraduates* (REU) – Department of Mathematics - 2000  
 Bucknell University, College of Arts & Sciences - Lewisburg PA  
+
 * Assisted with research in L-functions and Maass form deformations
 
 *Calculus Tutor* – Department of Mathematics - 1999-2000  
@@ -390,13 +395,16 @@ Workshop Certificate – The Thiagi Group at NASAGA - Columbus OH
 ## Professional Affiliations
 
 Association for Educational Communications & Technology (AECT)  
-* *Research & Theory Division*  
+
+* *Research & Theory Division*
 * *Teacher Education Division*
 
 American Educational Research Association (AERA)  
-* *Division C* – Learning & Instruction  
-* *Division K* – Teaching and Teacher Education  
+
+* *Division C* – Learning & Instruction
+* *Division K* – Teaching and Teacher Education
 * *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
 
 Society for Information Technology and Teacher Education (SITE)  
+
 * *Social Media SIG*
