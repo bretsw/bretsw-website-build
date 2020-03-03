@@ -55,10 +55,13 @@ caption = ""
 
 *Michigan State University, College of Education*  
 PhD, Educational Psychology & Educational Technology - 2021 (expected)  
-    * Dissertation: *Into the edu-verse: Early-career educators seeking induction support on social media*  
-    * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond  
-    * Defended proposal: November 26, 2019 [View slides](https://bretsw.github.io/dissertation-proposal/)  
-    * Advanced to candidacy: February 3, 2019
+
+* Dissertation: *Into the edu-verse: Early-career educators seeking induction support on social media*
+* Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond
+* Defended proposal: November 26, 2019
+  * [View slides](https://bretsw.github.io/dissertation-proposal/)
+  * [Read proposal](https://bretsw.github.io/dissertation-proposal-text/)
+* Advanced to candidacy: February 3, 2019
 
 MA, Educational Technology - 2015  
 Graduate Certificate, Serious Game Design and Research - 2014
@@ -265,38 +268,43 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ### Journal Article Reviews
 
-*Internet and Higher Education* - 2019  
-*American Journal of Education* (with Dr. Jeffrey Carpenter, faculty reviewer) - 2019  
-*Learning, Media and Technology* (with Dr. Christine Greenhow, faculty reviewer) - 2016  
+* *Internet and Higher Education* - 2019
+* *American Journal of Education* (with Dr. Jeffrey Carpenter, faculty reviewer) - 2019
+* *Learning, Media and Technology* (with Dr. Christine Greenhow, faculty reviewer) - 2016
 
 ### Service in Professional Organizations
 
 Association for Educational Communications & Technology (AECT)  
-*Communications Officer*, Research & Theory Division - 2020-2021  
-*Secretary*, Research & Theory Division - 2019-2020  
-*Conference Proposal Reviewer*, Research & Theory Division - 2019-2020  
-*Graduate Student Representative*, Research & Theory Division - 2018-2019  
-*Webinar Team Leader*, Graduate Student Association - 2018-2019
+
+* *Communications Officer*, Research & Theory Division - 2020-2021
+* *Secretary*, Research & Theory Division - 2019-2020
+* *Conference Proposal Reviewer*, Research & Theory Division - 2019-2020
+* *Graduate Student Representative*, Research & Theory Division - 2018-2019
+* *Webinar Team Leader*, Graduate Student Association - 2018-2019
 
 Society for Information Technology and Teacher Education (SITE)  
-*Co-Chair*, Social Media SIG - 2019-2021  
-*Conference Proposal Reviewer*, Social Media SIG - 2020  
-*Graduate Student Intern*, Social Media SIG - 2018-2019  
-*Session Presider/Chair* - 2018-2020
+
+* *Co-Chair*, Social Media SIG - 2019-2021
+* *Conference Proposal Reviewer*, Social Media SIG - 2020
+* *Graduate Student Intern*, Social Media SIG - 2018-2019
+* *Session Presider/Chair* - 2018-2020
 
 Passion Talks Conference (Google HQ, Mountain View CA)  
-*Science, Technology, & Innovation Track Chair* - 2017  
-*Conference Executive Committee Member* - 2017  
-*Conference Program Committee Member* - 2017
+
+* *Science, Technology, & Innovation Track Chair* - 2017
+* *Conference Executive Committee Member* - 2017
+* *Conference Program Committee Member* - 2017
 
 Urbana International Conference (St. Louis MO)  
-*Hackathon Core Leadership Team Member* - 2015  
-*Hackathon Mentor Coordinator* - 2015
+
+* *Hackathon Core Leadership Team Member* - 2015
+* *Hackathon Mentor Coordinator* - 2015
 
 North American Simulation and Game Association (NASAGA)  
-*Board Member* - 2013-2015  
-*Conference Committee Member*, Annual Conference (Seattle WA) - 2015  
-*Conference Committee Member*, Annual Conference (Baltimore MD) - 2014
+
+* *Board Member* - 2013-2015
+* *Conference Committee Member*, Annual Conference (Seattle WA) - 2015
+* *Conference Committee Member*, Annual Conference (Baltimore MD) - 2014
 
 ---
 
