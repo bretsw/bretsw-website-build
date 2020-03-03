@@ -173,7 +173,7 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 ### Peer-Reviewed Conference Workshops
 
-**Staudt Willet**, K. B., & Greenhalgh, S. P., & Rosenberg, J. M. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R.* Workshop facilitated at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
+**Staudt Willet**, K. B., & Greenhalgh, S. P., & Rosenberg, J. M. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R.* Workshop facilitated at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV. Available from https://bretsw.github.io/aect19-workshop/
 
 ### Peer-Reviewed Conference Presentations
 
@@ -221,6 +221,8 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ### Invited Talks
 
+**Staudt Willet**, K. B., Rosenberg, J. M., &  Greenhalgh, S. P. (2020, March). *R u ready 4 R? Introduction to analyzing educational Internet data using R.* Workshop facilitated for the Students, Social Media & Schools research group at Florida State University. Available from https://bretsw.github.io/fsu-workshop/
+
 **Staudt Willet**, K. B., & Bork, W. (2019, December). *Electronic assessment*. Talk for Master of Arts in Educational Technology (MAET) instructor huddle at Michigan State University: East Lansing, MI.
 
 **Staudt Willet**, K. B. (2019, November). *Content, conversation, & context: How educators talk to each other in Twitter #Edchat*. Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI.
@@ -241,6 +243,24 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ---
 
+## Teaching
+
+### Courses
+
+* Teaching & Learning with Technology (Undergraduate) - 2017-present
+* Learning Technology through Design (Master’s) - 2018-present
+* Electronic Assessment for Teaching and Learning (Master’s) - 2018-present
+* Teaching Students Online (Master’s) - 2017
+
+### Mentoring/Advising
+
+* *Copy Editing for National Science Foundation (NSF) Grant Proposal*, Dr. Joshua Rosenberg, University of Tennessee, Knoxville - 2019
+* *Practicum Committee Member*, Sarah Galvin, Michigan State University - 2018-2019
+* *Social Network Analysis*, Katie Schenkel, Michigan State University - 2018
+* *Content Analysis for Doctoral Dissertation*, Colin Terry, Michigan State University - 2018
+
+---
+
 ## Service
 
 ### Journal Article Reviews
@@ -248,13 +268,6 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 *Internet and Higher Education* - 2019  
 *American Journal of Education* (with Dr. Jeffrey Carpenter, faculty reviewer) - 2019  
 *Learning, Media and Technology* (with Dr. Christine Greenhow, faculty reviewer) - 2016  
-
-### Ad Hoc Service to Individuals
-
-*Copy Editing for National Science Foundation (NSF) Grant Proposal: "Understanding the Development of Interest in Computer Science: An Experience Sampling Approach"*, Dr. Joshua Rosenberg, University of Tennessee, Knoxville - 2019  
-*Practicum Committee Member*, Sarah Galvin, Michigan State University - 2018-2019  
-*Social Network Analysis*, Katie Schenkel, Michigan State University - 2018  
-*Content Analysis for Doctoral Dissertation*, Colin Terry, Michigan State University - 2018 
 
 ### Service in Professional Organizations
 
@@ -270,9 +283,6 @@ Society for Information Technology and Teacher Education (SITE)
 *Conference Proposal Reviewer*, Social Media SIG - 2020  
 *Graduate Student Intern*, Social Media SIG - 2018-2019  
 *Session Presider/Chair* - 2018-2020
-
-American Educational Research Association (AERA)  
-*Session Presider/Chair*, Annual Meeting (New York NY) - 2018
 
 Passion Talks Conference (Google HQ, Mountain View CA)  
 *Science, Technology, & Innovation Track Chair* - 2017  
@@ -295,15 +305,12 @@ North American Simulation and Game Association (NASAGA)
 *Graduate Assistant/Instructor* - 2017-present  
 Michigan State University, College of Education - East Lansing MI  
 Department of Counseling, Educational Psychology, & Special Education  
-* Taught CEP 416 - Teaching & Learning with Technology (Undergraduate)  
-* Taught CEP 813 - Electronic Assessment for Teaching and Learning (Master’s)  
-* Taught CEP 817 - Learning Technology through Design (Master’s)  
-* Taught CEP 820 - Teaching Students Online (Master’s)
+* Taught courses at the Master's and undergraduate levels
 
 *Course Writer* - 2019  
 Concordia University, College of Education - Portland, OR  
 Educational Technology and Learning Design program  
-* Wrote EDET 509 - The Evolving Landscape of Educational Technology (Master's)
+* The Evolving Landscape of Educational Technology (Master's)
 
 *Founding National Director* – Ministry in Digital Spaces - 2014-2017  
 InterVarsity Christian Fellowship/USA - United States  
@@ -383,13 +390,13 @@ Workshop Certificate – The Thiagi Group at NASAGA - Columbus OH
 ## Professional Affiliations
 
 Association for Educational Communications & Technology (AECT)  
-*Research & Theory Division*  
-*Teacher Education Division*
+* *Research & Theory Division*  
+* *Teacher Education Division*
 
 American Educational Research Association (AERA)  
-*Division C* – Learning & Instruction  
-*Division K* – Teaching and Teacher Education  
-*Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
+* *Division C* – Learning & Instruction  
+* *Division K* – Teaching and Teacher Education  
+* *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
 
 Society for Information Technology and Teacher Education (SITE)  
-*Social Media SIG*
+* *Social Media SIG*
