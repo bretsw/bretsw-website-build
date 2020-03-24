@@ -116,7 +116,7 @@ Bucknell University - Lewisburg PA
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers and Education, 148*, 103809. https://doi.org/10.1016/j.compedu.2020.103809
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (2020). Teachers on Reddit? Exploring contributions and interactions in four teaching-related subreddits. *Journal of Research on Technology in Education*. https://doi.org/10.1080/15391523.2020.1722978
+**Staudt Willet**, K. B., & Carpenter, J. P. (2020). Teachers on Reddit? Exploring contributions and interactions in four teaching-related subreddits. *Journal of Research on Technology in Education, 52*, 216-233. https://doi.org/10.1080/15391523.2020.1722978
 
 Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2019). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends*. https://doi.org/10.1007/s11528-019-00466-3
 
@@ -255,12 +255,13 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ### Mentoring and Advising
 
-* Graduate mentor, *Master's course instruction* (William Bork, MSU) - 2018-2019
-* Peer reviewer, *National Science Foundation (NSF) Grant Proposal* (Dr. Joshua Rosenberg, University of Tennessee, Knoxville) - 2019
-* Doctoral student member, *Research Apprenticeship Practicum Committee* (Sarah Galvin, MSU) - 2018-2019
+* Graduate mentor, *Master's course instruction* (William Bork, MSU) - 2019-2020
+* Peer reviewer, *National Science Foundation (NSF) grant proposal* (Dr. Joshua Rosenberg, University of Tennessee, Knoxville) - 2019
+* Doctoral student member, *Research apprenticeship practicum committee* (Sarah Galvin, MSU) - 2018-2019
 * Graduate mentor, *Undergraduate course instruction* (Matthew Drazin, MSU) - 2018-2019
 * Data analyst, *Social network analysis for doctoral project* (Katie Schenkel, MSU) - 2018
 * Data analyst, *Content analysis for doctoral dissertation* (Colin Terry, MSU) - 2018
+* Graduate mentor, *Undergraduate course instruction* (Sukanya Moudgalya, MSU) - 2017-2018
 
 ---
 
