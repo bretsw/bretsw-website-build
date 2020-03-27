@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2020-03-26T00:00:00
+lastmod = 2020-03-27T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -47,7 +47,7 @@ caption = ""
 [LinkedIn](https://www.linkedin.com/in/bretsw/) - 
 [Google Scholar](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en)
 
-**Keywords:** *teacher networks, social media, educational technology*
+**Keywords:** *networked learning, social media, educational technology*
 
 [Download a PDF copy of my CV](https://bretsw.github.io/files/cv.pdf)
 
@@ -230,12 +230,31 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 
 ## Teaching
 
-### Courses
+### Courses Taught (4)
 
-* Instructor, *Teaching & Learning with Technology* (Undergraduate, online, 6x) - 2017-present
-* Instructor, *Learning Technology through Design* (Master’s, online, 3x) - 2018-present
-* Instructor, *Electronic Assessment for Teaching and Learning* (Master’s, online, 2x) - 2018-present
-* Instructor, *Teaching Students Online* (Master’s, online, 1x) - 2017
+**Teaching & Learning with Technology** (Undergraduate, online, 6x, 2017-present)
+
+* Course topics include design thinking, universal design for learning, media & information literacy, professional learning networks, computational thinking, and play-based learning.
+* Students develop plans for integrating technology in classroom.
+* The semester-long project is to design a professional *online portfolio*.
+
+**Learning Technology by Design** (Master’s, online, 3x, 2018-present)
+
+* Course topics include design thinking, the design process (empathize, define, ideate, prototype, test), designing for learners, iterative design. and collaboration in design.
+* Students discuss examples of good and bad designs from everyday life.
+* The semester-long project is to work through one cycle of the design process to address a *problem of practice* from the student’s professional context.
+
+**Electronic Assessment for Teaching and Learning** (Master’s, online, 2x, 2018-present)
+
+* Course topics include foundational theories of assessment, formative assessment, feedback, and a critical examination of methods for assessment (e.g., portfolios, rubrics, surveys, tests, self-evaluations).
+* Students develop an *assessment design checklist* to use in their own professional practice.
+* The semester-long project is to plan a *formative assessment design* to implement in their own context.
+
+**Teaching Students Online** (Master’s, online, 1x, 2017)
+
+* Course topics include foundations for online learning, course management systems, various models of online course design, instructor-student communication, assessment, universal design for learning, and online classroom management.
+* Students playfully explore Google Apps, course management systems, screencasting tools, and file management systems.
+* The semester-long project is to design a curriculum for an *online course module* consisting of 3-5 interconnected lessons, which may include training sessions or non-traditional courses.
 
 ### Instructional Activities & Workshops (10)
 
@@ -273,7 +292,7 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 
 ## Service
 
-### Journal Article Reviews
+### Journal Article Reviews (4)
 
 * *Internet and Higher Education* (2) - 2019
 * *American Journal of Education*, with Dr. Jeffrey Carpenter, faculty reviewer - 2019
@@ -294,7 +313,6 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 * *Co-Chair*, Social Media SIG - 2019-2021
 * *Conference Proposal Reviewer* - 2020
 * *Graduate Student Intern*, Social Media SIG - 2018-2019
-* *Session Presider/Chair* - 2018-2020
 
 **Passion Talks Conference (Google HQ, Mountain View CA)**
 
@@ -309,8 +327,7 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 **North American Simulation and Game Association (NASAGA)**
 
 * *Board Member* - 2013-2015
-* *Conference Committee Member*, Annual Conference (Seattle WA) - 2015
-* *Conference Committee Member*, Annual Conference (Baltimore MD) - 2014
+* *Conference Committee Member*, Annual Conference (Baltimore MD, Seattle WA) - 2014-2015
 
 ---
 
@@ -320,7 +337,7 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 Michigan State University, College of Education - East Lansing MI  
 Department of Counseling, Educational Psychology, & Special Education  
 
-* Taught courses at the Master's and undergraduate levels
+* Taught courses at the Master's and Undergraduate levels
 
 **Course Writer** (2019)  
 Concordia University, College of Education - Portland OR  

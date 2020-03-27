@@ -20,58 +20,61 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Instructor, Teaching and Learning with Technology"
+  title = "Teaching and Learning with Technology"
   company = "Michigan State University"
   company_url = ""
   location = "Online"
   date_start = "2017-09-01"
   date_end = ""
-  description = """
-**CEP 416** (*Undergraduate course*)
+  description = "Undergraduate course"
 
-Uses of multimedia technology and social media in teaching and learning. Developing plans for integrating technology in classroom. Designing digital online portfolio as tool for professional development. Teaching school subject matter with technology.
+* Course topics include design thinking, universal design for learning, media & information literacy, professional learning networks, computational thinking, and play-based learning.
+* Students develop plans for integrating technology in classroom.
+* The semester-long project is to design a professional *online portfolio*.
   """
 
 
 [[experience]]
-  title = "Instructor, Electronic Assessment for Teaching and Learning"
+  title = "Learning Technology by Design"
   company = "Michigan State University"
-  company_url = ""
-  location = "Online"
-  date_start = "2018-09-01"
-  date_end = ""
-  description = """
-**CEP 813** (*Master's course*)
-
-Foundational theories of assessment. Critical examination of methods (e.g., portfolios, rubrics, surveys, tests, self-evaluations), and digital tools that allow educators to gather information, analyze it, and make informed pedagogical choices. Design of assessments for learning, as learning and of learning, especially in digital contexts.
-  """
-
-
-[[experience]]
-  title = "Instructor, Learning Technology through Design"
-  company = "Michigan State University"
-  company_url = ""
+  company_url = "https://education.msu.edu/cepse/maet/courses/#817"
   location = "Online"
   date_start = "2018-01-01"
   date_end = ""
-  description = """
-**CEP 817** (*Master's course*)
+  description = "Master's course"
 
-Design of educational curricula, tools, and software. Designing for learners. Human computer interaction. Art and aesthetics of design. Iterative design. Collaboration in design.
+* Course topics include design thinking, the design process (empathize, define, ideate, prototype, test), designing for learners, iterative design. and collaboration in design.
+* Students discuss examples of good and bad designs from everyday life.
+* The semester-long project is to work through one cycle of the design process to address a *problem of practice* from the student’s professional context.
   """
 
 
 [[experience]]
-  title = "Instructor, Teaching Students Online"
+  title = "Electronic Assessment for Teaching and Learning"
   company = "Michigan State University"
-  company_url = ""
+  company_url = "https://education.msu.edu/cepse/maet/courses/#813"
+  location = "Online"
+  date_start = "2018-09-01"
+  date_end = ""
+  description = "Master's course"
+
+* Course topics include foundational theories of assessment, formative assessment, feedback, and a critical examination of methods for assessment (e.g., portfolios, rubrics, surveys, tests, self-evaluations).
+* Students develop an *assessment design checklist* to use in their own professional practice.
+* The semester-long project is to plan a *formative assessment design* to implement in their own context.
+  """
+
+[[experience]]
+  title = "Teaching Students Online"
+  company = "Michigan State University"
+  company_url = "https://education.msu.edu/cepse/maet/courses/#820"
   location = "Online"
   date_start = "2017-09-01"
   date_end = "2017-12-31"
-  description = """
-**CEP 820** (*Master's course*)
+  description = "Master's course"
 
-Strategies for constructing and implementing online curricula aimed at students across the lifespan.
+* Course topics include foundations for online learning, course management systems, various models of online course design, instructor-student communication, assessment, universal design for learning, and online classroom management.
+* Students playfully explore Google Apps, course management systems, screencasting tools, and file management systems.
+* The semester-long project is to design a curriculum for an *online course module* consisting of 3-5 interconnected lessons, which may include training sessions or non-traditional courses.
   """
 
 +++
