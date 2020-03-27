@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2020-02-20T00:00:00
+lastmod = 2020-03-26T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -55,8 +55,8 @@ caption = ""
 
 ## Education
 
-*Michigan State University, College of Education*  
-**PhD**, Educational Psychology & Educational Technology - 2021 (expected)  
+*Michigan State University*  
+**PhD**, Educational Psychology & Educational Technology (Expected October 2020)
 
 * Dissertation: *Into the edu-verse: Early-career educators seeking induction support on social media*
 * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond
@@ -65,54 +65,30 @@ caption = ""
   * [Read proposal](https://bretsw.github.io/dissertation-proposal-text/)
 * Advanced to candidacy: February 3, 2019
 
-**MA**, Educational Technology - 2015  
-**Graduate Certificate**, Serious Game Design and Research - 2014
+**MA**, Educational Technology (2015)  
+**Graduate Certificate**, Serious Game Design and Research (2014)
 
-*Bucknell University, College of Arts & Sciences*  
-**BA**, Mathematics & Sociology - 2003
-
----
-
-## Awards & Funding
-
-*Research Practicum/Dissertation Development Fellowship* - $1,300 - 2020  
-College of Education, Michigan State University - East Lansing MI
-
-*Disciplinary Leadership Award* - $2,000 - 2019  
-Council of Graduate Students, Michigan State University - East Lansing MI
-
-*Outstanding Paper Award* - 2019  
-SITE International Conference - Las Vegas NV
-
-*Research Practicum/Dissertation Development Fellowship* - $2,000 - 2019  
-College of Education, Michigan State University - East Lansing MI
-
-*Student Research Conference Travel Fellowship* - $1,050 - 2019  
-Dept. of Counseling, Educational Psychology, & Special Ed., Michigan State University - East Lansing MI
-
-*Summer Research Renewable Fellowship* - $12,000 - 2018-2019  
-College of Education, Michigan State University - East Lansing MI
-
-*Professional Development Award* - $500 - 2018  
-Council of Graduate Students, Michigan State University - East Lansing MI
-
-*Student Research Conference Travel Fellowship* - $795 - 2018  
-Dept. of Counseling, Educational Psychology, & Special Ed., Michigan State University - East Lansing MI
-
-*Outstanding Paper Award* - 2017  
-SITE International Conference - Austin TX
-
-*Student Research Conference Travel Fellowship* - $930 - 2017  
-Dept. of Counseling, Educational Psychology, & Special Ed., Michigan State University - East Lansing MI
-
-*Presidential Fellowship* - $20,000/year x 3 years - 2000-2003  
-Bucknell University - Lewisburg PA
+*Bucknell University*  
+**BA**, Mathematics & Sociology (2003)
 
 ---
 
-## Publications
+## Awards
 
-### Peer-Reviewed Journal Articles
+**Disciplinary Leadership Award** (2019)  
+Michigan State University, Council of Graduate Students - East Lansing MI
+
+**Outstanding Paper Award** (2019)  
+Society for Information Technology & Teacher Education (SITE) International Conference - Las Vegas NV
+
+**Outstanding Paper Award** (2017)  
+Society for Information Technology & Teacher Education (SITE) International Conference - Austin TX
+
+---
+
+## Research
+
+### Peer-Reviewed Journal Articles (10)
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers and Education, 148*, 103809. https://doi.org/10.1016/j.compedu.2020.103809
 
@@ -134,7 +110,7 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Educating social scholars: Examining novice researchers’ practices with social media. *Qwerty – Open and Interdisciplinary Journal of Technology, Culture and Education, 12*(2), 30-45. Retrieved from http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269/
 
-### Book Chapters
+### Book Chapters (5)
 
 Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (in press). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology*. New York, NY: Routledge.
 
@@ -146,7 +122,7 @@ Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in press). Research met
 
 **Staudt Willet**, K. B., Koehler, M.J., & Greenhalgh, S. P. (2017). A tweet by any other frame: Comparing three theoretical frameworks for studying educator interactions on Twitter. In L. Liu & D. Gibson (Eds.), *Research highlights in technology and teacher education 2017* (pp. 63-70). Waynesville, NC: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.learntechlib.org/p/180960/ [Invited reprint of conference presentation in edited book]
 
-### Peer-Reviewed Conference Proceedings
+### Peer-Reviewed Conference Proceedings (14)
 
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (2020, April). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA.
 
@@ -176,7 +152,7 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017, March). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 1823-1830). Austin, TX: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/177469/
 
-### Peer-Reviewed Conference Presentations
+### Peer-Reviewed Conference Presentations (21)
 
 Rosenberg, J. M., Rutherford, T., & **Staudt Willet**, K. B. (2020, April). *Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19*. Paper to be presented at the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
 
@@ -222,16 +198,46 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ---
 
+## Funding
+
+### TOTAL: $20,575
+
+**Research Practicum/Dissertation Development Fellowship: $1,300** (2020)  
+Michigan State University, College of Education - East Lansing MI
+
+**Disciplinary Leadership Award: $2,000** (2019)  
+Michigan State University, Council of Graduate Students - East Lansing MI
+
+**Research Practicum/Dissertation Development Fellowship: $2,000** (2019)  
+Michigan State University, College of Education - East Lansing MI
+
+**Student Research Conference Travel Fellowship: $1,050** (2019)  
+Michigan State University, Dept. of Counseling, Educational Psychology, & Special Ed. - East Lansing MI
+
+**Summer Research Renewable Fellowship: $12,000** (2018-2019)  
+Michigan State University, College of Education - East Lansing MI
+
+**Professional Development Award: $500** (2018)  
+Michigan State University, Council of Graduate Students - East Lansing MI
+
+**Student Research Conference Travel Fellowship: $795** (2018)  
+Michigan State University, Dept. of Counseling, Educational Psychology, & Special Ed. - East Lansing MI
+
+**Student Research Conference Travel Fellowship: $930** (2017)  
+Michigan State University, Dept. of Counseling, Educational Psychology, & Special Ed. - East Lansing MI
+
+---
+
 ## Teaching
 
 ### Courses
 
-* Instructor, *Teaching & Learning with Technology* (Undergraduate, online) - 2017-present
-* Instructor, *Learning Technology through Design* (Master’s, online) - 2018-present
-* Instructor, *Electronic Assessment for Teaching and Learning* (Master’s, online) - 2018-present
-* Instructor, *Teaching Students Online* (Master’s, online) - 2017
+* Instructor, *Teaching & Learning with Technology* (Undergraduate, online, 6x) - 2017-present
+* Instructor, *Learning Technology through Design* (Master’s, online, 3x) - 2018-present
+* Instructor, *Electronic Assessment for Teaching and Learning* (Master’s, online, 2x) - 2018-present
+* Instructor, *Teaching Students Online* (Master’s, online, 1x) - 2017
 
-### Instructional Activities & Workshops 
+### Instructional Activities & Workshops (10)
 
 **Staudt Willet**, K. B., Rosenberg, J. M., &  Greenhalgh, S. P. (2020, March). *R u ready 4 R? Introduction to analyzing educational Internet data using R.* Workshop facilitated for the Students, Social Media & Schools research group at Florida State University. Available from https://bretsw.github.io/fsu-workshop/
 
@@ -269,39 +275,38 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ### Journal Article Reviews
 
-* *Internet and Higher Education* - 2019
-* *American Journal of Education* (with Dr. Jeffrey Carpenter, faculty reviewer) - 2019
-* *Learning, Media and Technology* (with Dr. Christine Greenhow, faculty reviewer) - 2016
+* *Internet and Higher Education* (2) - 2019
+* *American Journal of Education*, with Dr. Jeffrey Carpenter, faculty reviewer - 2019
+* *Learning, Media and Technology*, with Dr. Christine Greenhow, faculty reviewer - 2016
 
 ### Service in Professional Organizations
 
-Association for Educational Communications & Technology (AECT)  
+**Association for Educational Communications & Technology (AECT)**
 
 * *Communications Officer*, Research & Theory Division - 2020-2021
 * *Secretary*, Research & Theory Division - 2019-2020
-* *Conference Proposal Reviewer*, Research & Theory Division - 2019-2020
+* *Conference Proposal Reviewer* - 2019-2020
 * *Graduate Student Representative*, Research & Theory Division - 2018-2019
 * *Webinar Team Leader*, Graduate Student Association - 2018-2019
 
-Society for Information Technology and Teacher Education (SITE)  
+**Society for Information Technology and Teacher Education (SITE)**
 
 * *Co-Chair*, Social Media SIG - 2019-2021
-* *Conference Proposal Reviewer*, Social Media SIG - 2020
+* *Conference Proposal Reviewer* - 2020
 * *Graduate Student Intern*, Social Media SIG - 2018-2019
 * *Session Presider/Chair* - 2018-2020
 
-Passion Talks Conference (Google HQ, Mountain View CA)  
+**Passion Talks Conference (Google HQ, Mountain View CA)**
 
 * *Science, Technology, & Innovation Track Chair* - 2017
 * *Conference Executive Committee Member* - 2017
-* *Conference Program Committee Member* - 2017
 
-Urbana International Conference (St. Louis MO)  
+**Urbana International Conference (St. Louis MO)**
 
 * *Hackathon Core Leadership Team Member* - 2015
 * *Hackathon Mentor Coordinator* - 2015
 
-North American Simulation and Game Association (NASAGA)  
+**North American Simulation and Game Association (NASAGA)**
 
 * *Board Member* - 2013-2015
 * *Conference Committee Member*, Annual Conference (Seattle WA) - 2015
@@ -311,77 +316,76 @@ North American Simulation and Game Association (NASAGA)
 
 ## Professional Experience
 
-*Graduate Assistant/Instructor* - 2017-present  
+**Graduate Assistant/Instructor** (2017-present)  
 Michigan State University, College of Education - East Lansing MI  
 Department of Counseling, Educational Psychology, & Special Education  
 
 * Taught courses at the Master's and undergraduate levels
 
-*Course Writer* - 2019  
-Concordia University, College of Education - Portland, OR  
+**Course Writer** (2019)  
+Concordia University, College of Education - Portland OR  
 Educational Technology and Learning Design program  
 
 * The Evolving Landscape of Educational Technology (Master's)
 
-*Founding National Director* – Ministry in Digital Spaces - 2014-2017  
+**Founding National Director, Ministry in Digital Spaces** (2014-2017)  
 InterVarsity Christian Fellowship/USA - United States  
 
-* Oversaw 51 projects related to online community building
+* Managed 51 projects related to online community building
 * Supervised 8 project leads
 * Hosted and directed 5 think tank gatherings (Atlanta, Austin, San Francisco)
 
-*Area Director* - 2009-2014  
+**Area Director** (2009-2014)  
 InterVarsity Christian Fellowship/USA - South Central Pennsylvania  
 
 * Supervised 17 different staff
 * Directed 11 conferences for undergraduate students from 7 colleges
 * Delivered more than 100 talks at 13 different colleges and 8 inter-collegiate conferences
-* Developed and facilitated 30 training seminars for staff and students
+* Designed and facilitated 30 training seminars for staff and students
 
-*Director* – Summer Urban Program in Lancaster PA - 2006; 2009-2012  
+**Director**, Summer Justice Program in Lancaster PA (2006; 2009-2012)  
 InterVarsity Christian Fellowship/USA - Lancaster PA  
 
 * Designed and facilitated five 6-week immersive learning programs for undergraduate students
 * Received training in Mexico City, Mexico
 
-*Director* – Summer Global Program Manila, Philippines - 2005  
+**Director**, Summer Justice Program in Manila, Philippines (2005)  
 InterVarsity Christian Fellowship/USA  
 
 * Designed and facilitated a 6-week immersive, experiential learning program for undergraduate students
 * Received training in Addis Ababa, Ethiopia
 
-*Campus Staff Member* – Franklin & Marshall College - 2003-2007  
+**Campus Staff Minister**, Franklin & Marshall College - 2003-2007  
 InterVarsity Christian Fellowship/USA - Lancaster PA  
 
 * Trained, coached, and supported more than 50 different undergraduate student volunteer leaders
-* Apprenticed under international students to learn to cook food from Taiwan, China, Thailand, Japan, India, Nigeria, and Ghana
 
-*Presidential Fellow: Research Assistant* – Department of Sociology - 2002-2003  
+**Presidential Fellow: Research Assistant**, Department of Sociology - 2002-2003  
 Bucknell University, College of Arts & Sciences - Lewisburg PA  
 
 * Reviewed literature in social psychology and situational identity
 
-*Presidential Fellow: Research Assistant* – Department of Mathematics - 2000-2002  
+**Presidential Fellow: Research Assistant**, Department of Mathematics - 2000-2002  
 Bucknell University, College of Arts & Sciences - Lewisburg PA  
 
 * Assisted with research in L-functions and Maass form deformations
 
-*Research Intern: Summer Research Experience for Undergraduates* (REU) – Department of Mathematics - 2000  
+**Research Intern: Summer Research Experience for Undergraduates** (REU), Department of Mathematics - 2000  
 Bucknell University, College of Arts & Sciences - Lewisburg PA  
 
 * Assisted with research in L-functions and Maass form deformations
 
-*Calculus Tutor* – Department of Mathematics - 1999-2000  
+**Calculus Tutor**, Department of Mathematics - 1999-2000  
 Bucknell University, College of Arts & Sciences - Lewisburg PA
 
 ---
 
 ## Further Training
 
-*Exploratory Data Analysis* - 2019  
+**Exploratory Data Analysis** - 2019  
 Certificate – Johns Hopkins University - Coursera.org
 
-*Doctoral Colloquium* - 2018  
+**Doctoral Colloquium** - 2018  
 Association of Internet Researchers (AoIR) - Montreal QC
 
 *Methods for Analyzing and Modeling Textual Data* - 2018  
@@ -403,15 +407,13 @@ Workshop Certificate – The Thiagi Group at NASAGA - Columbus OH
 
 ## Professional Affiliations
 
-Association for Educational Communications & Technology (AECT)  
+**Association for Educational Communications & Technology (AECT)**
 
 * *Research & Theory Division*
-* *Teacher Education Division*
 
 American Educational Research Association (AERA)  
 
 * *Division C* – Learning & Instruction
-* *Division K* – Teaching and Teacher Education
 * *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
 
 Society for Information Technology and Teacher Education (SITE)  
