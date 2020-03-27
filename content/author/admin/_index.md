@@ -16,14 +16,14 @@ role = "PhD Candidate"
 organizations = [ { name = "Michigan State University", url = "http://education.msu.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research focuses on networked learning—-specifically, how social media platforms can support induction and ongoing professional learning for K-20 educators."
+bio = "My research focuses on networked learning, specifically, how social media platforms can support induction and ongoing professional learning for K-20 educators."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-   "Teacher Networks",
+   "Networked Learning",
    "Social Media",
    "Educational Technology"
 ]
@@ -134,11 +134,9 @@ I still consider my strongest credential to be my ongoing friendship with my ver
 
 **Association for Educational Communications & Technology** [AECT](https://aect.org/)  
 *Research & Theory Division* (Secretary 2019-2020; Communications Officer 2020-2021)
-*Teacher Education Division*
 
 **American Educational Research Association** [AERA](https://www.aera.net/)  
 *Division C* – Learning & Instruction  
-*Division K* – Teaching and Teacher Education  
 *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
 
 **Association of Internet Researchers** [AoIR](http://aoir.org/)  
