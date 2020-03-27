@@ -55,7 +55,8 @@ caption = ""
 
 ## Education
 
-*Michigan State University*  
+### Michigan State University
+
 **PhD**, Educational Psychology & Educational Technology (Expected October 2020)
 
 * Dissertation: *Into the edu-verse: Early-career educators seeking induction support on social media*
@@ -68,7 +69,8 @@ caption = ""
 **MA**, Educational Technology (2015)  
 **Graduate Certificate**, Serious Game Design and Research (2014)
 
-*Bucknell University*  
+### Bucknell University
+
 **BA**, Mathematics & Sociology (2003)
 
 ---
@@ -405,19 +407,19 @@ Certificate – Johns Hopkins University - Coursera.org
 **Doctoral Colloquium** - 2018  
 Association of Internet Researchers (AoIR) - Montreal QC
 
-*Methods for Analyzing and Modeling Textual Data* - 2018  
+**Methods for Analyzing and Modeling Textual Data** - 2018  
 Summer School Series on Methods for Computational Social Science - Los Angeles CA
 
-*Getting and Cleaning Data* - 2018  
+**Getting and Cleaning Data** - 2018  
 Certificate – Johns Hopkins University - Coursera.org
 
-*The Data Scientist’s Toolbox* - 2018  
+**The Data Scientist’s Toolbox** - 2018  
 Certificate – Johns Hopkins University - Coursera.org
 
-*R Programming* - 2017  
+**R Programming** - 2017  
 Certificate – Johns Hopkins University - Coursera.org
 
-*Game Design and Facilitation* - 2012  
+**Game Design and Facilitation** - 2012  
 Workshop Certificate – The Thiagi Group at NASAGA - Columbus OH
 
 ---
@@ -428,11 +430,11 @@ Workshop Certificate – The Thiagi Group at NASAGA - Columbus OH
 
 * *Research & Theory Division*
 
-American Educational Research Association (AERA)  
+**American Educational Research Association (AERA)**
 
 * *Division C* – Learning & Instruction
 * *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
 
-Society for Information Technology and Teacher Education (SITE)  
+**Society for Information Technology and Teacher Education (SITE)**
 
 * *Social Media SIG*
