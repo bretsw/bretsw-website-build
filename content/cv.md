@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2020-03-27T00:00:00
+lastmod = 2020-03-28T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -126,11 +126,11 @@ Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in press). Research met
 
 ### Peer-Reviewed Conference Proceedings (14)
 
-Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (2020, April). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA.
+Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (2020, April). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action*. [Roundtable session canceled]. Society for Information Technology & Teacher Education (SITE) International Conference 2020, New Orleans, LA.
 
-**Staudt Willet**, K. B. (2020, April). *Early-career educators’ experiences with social media during induction*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
+**Staudt Willet**, K. B. (2020, April). *Early-career educators’ experiences with social media during induction*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020, New Orleans, LA. 
 
-**Staudt Willet**, K. B. (2020, April). *The hashtag-thread mashup: How educators talk to each other in Twitter #Edchat*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA.
+**Staudt Willet**, K. B. (2020, April). *The hashtag-thread mashup: How educators talk to each other in Twitter #Edchat*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020, New Orleans, LA.
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (2020, April). *For the longest time: Continuity and change in one teaching-related subreddit*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
 
@@ -156,47 +156,47 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 ### Peer-Reviewed Conference Presentations (21)
 
-Rosenberg, J. M., Rutherford, T., & **Staudt Willet**, K. B. (2020, April). *Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19*. Paper to be presented at the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
+Rosenberg, J. M., Rutherford, T., & **Staudt Willet**, K. B. (2020, April). *Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19*. American Educational Research Association (AERA) Annual Meeting 2020, San Francisco, CA. (Conference canceled)
 
-**Staudt Willet**, K. B. (2020, April). *Can you hear me now? Teachers’ versus researchers’ measures of the Twitter #Edchat affinity space*. Paper to be presented at the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
+**Staudt Willet**, K. B. (2020, April). *Can you hear me now? Teachers’ versus researchers’ measures of the Twitter #Edchat affinity space*. American Educational Research Association (AERA) Annual Meeting 2020, San Francisco, CA. (Conference canceled)
 
-**Staudt Willet**, K. B., Heath, M. K., & Krutka, D. G. (2020, April).*The need for technoethics in teacher education: A critical analysis of literature*. Paper to be presented at the American Educational Research Association (AERA) Annual Meeting 2020. San Francisco, CA.
+**Staudt Willet**, K. B., Heath, M. K., & Krutka, D. G. (2020, April).*The need for technoethics in teacher education: A critical analysis of literature*. American Educational Research Association (AERA) Annual Meeting 2020, San Francisco, CA. (Conference canceled)
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J.(2019, October). *Twitter hashtags and religious learning: Mormon identity and participatory practice in #ldsconf.* Paper presented at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J.(2019, October). *Twitter hashtags and religious learning: Mormon identity and participatory practice in #ldsconf.* Association for Educational Communications and Technology (AECT) International Convention 2019, Las Vegas, NV.
 
-**Staudt Willet**, K. B., & Bagdy, L. (2019, October). *How do you do, fellow kids? "New teachers" in Twitter #ntchat.* Paper presented at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
+**Staudt Willet**, K. B., & Bagdy, L. (2019, October). *How do you do, fellow kids? "New teachers" in Twitter #ntchat.* Association for Educational Communications and Technology (AECT) International Convention 2019, Las Vegas, NV.
 
-**Staudt Willet**, K. B., & Moudgalya, S. K. (2019, October). *Community, network, or space: Conceptualizing inspired professional learning in an online discussion forum.* Paper presented at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV.
+**Staudt Willet**, K. B., & Moudgalya, S. K. (2019, October). *Community, network, or space: Conceptualizing inspired professional learning in an online discussion forum.* Association for Educational Communications and Technology (AECT) International Convention 2019, Las Vegas, NV.
 
-Greenhow, C. M., **Staudt Willet**, K. B., & Marich, H. (2019, July). *Scholarship reconsidered: Examining new scholars’ social media practices.* Paper presented at the 10th International Conference on Social Media & Society 2019. Toronto, ON, Canada.
+Greenhow, C. M., **Staudt Willet**, K. B., & Marich, H. (2019, July). *Scholarship reconsidered: Examining new scholars’ social media practices.* The 10th International Conference on Social Media & Society 2019, Toronto, ON, Canada.
 
-**Staudt Willet**, K. B. (2019, April). *Is bigger better? Exploring educators’ uses and gratifications in Twitter #Edchat.* Paper presented at the American Educational Research Association (AERA) Annual Meeting 2019. Toronto, ON, Canada. 
+**Staudt Willet**, K. B. (2019, April). *Is bigger better? Exploring educators’ uses and gratifications in Twitter #Edchat.* American Educational Research Association (AERA) Annual Meeting 2019, Toronto, ON, Canada. 
 
-Greenhalgh, S. P., Koehler, M. J., & **Staudt Willet**, K. B. (2019, March). *Every nation, kindred, tongue, and “tweeple”: International use of the #ldsconf Twitter hashtag.* Paper presented at the Decentered Mormonism Conference 2019. Bordeaux, France.
+Greenhalgh, S. P., Koehler, M. J., & **Staudt Willet**, K. B. (2019, March). *Every nation, kindred, tongue, and “tweeple”: International use of the #ldsconf Twitter hashtag.* Decentered Mormonism Conference 2019, Bordeaux, France.
 
-**Staudt Willet**, K. B. (2018, October). Teacher participation in digital spaces: What kinds of learning spaces are on Reddit?. *Research in Text Mining, Social Network Analysis, Learning Analytics, & Adaptive Learning.* Graduate student panel discussion hosted by the International Council for Educational Media (ICEM) at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
+**Staudt Willet**, K. B. (2018, October). *Cyborg methods: The benefits of mixing human and machine coding.* Association for Educational Communications and Technology (AECT) International Convention 2018, Kansas City, MO.
 
-**Staudt Willet**, K. B. (2018, October). *Cyborg methods: The benefits of mixing human and machine coding.* Paper presented at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
+**Staudt Willet**, K. B. (2018, October). *Self-promoters, bots, and moderators: Exploring educators’ participatory actions, roles, and culture in Twitter #Edchat.* Association for Educational Communications and Technology (AECT) International Convention 2018, Kansas City, MO.
 
-**Staudt Willet**, K. B. (2018, October). *Self-promoters, bots, and moderators: Exploring educators’ participatory actions, roles, and culture in Twitter #Edchat.* Paper presented at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
+**Staudt Willet**, K. B. (2018, October). *Teacher participation in digital spaces: What kinds of learning spaces are on Reddit?* Association for Educational Communications and Technology (AECT) International Convention 2018, Kansas City, MO.
 
-**Staudt Willet**, K. B., Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J. (2018, October). *Won’t you be my neighbor? How education stakeholders use hyperlinks to build information neighborhoods on Twitter.* Paper presented at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
+**Staudt Willet**, K. B., Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J. (2018, October). *Won’t you be my neighbor? How education stakeholders use hyperlinks to build information neighborhoods on Twitter.* Association for Educational Communications and Technology (AECT) International Convention 2018, Kansas City, MO.
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., Akcaoglu, M., & Koehler, M. J. (2018, April). *Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning.* Paper presented at the American Educational Research Association (AERA) Annual Meeting 2018. New York, NY. 
+Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., Akcaoglu, M., & Koehler, M. J. (2018, April). *Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning.* American Educational Research Association (AERA) Annual Meeting 2018, New York, NY. 
 
-Greenhow, C. M., Brandon, D. L., Greenhalgh, S. P., Koehler, M. J., **Staudt Willet**, K. B., & Li, J. (2018, April). *Tweeting toward the PhD: Exploring new scholars’ practices with social media.* Paper presented at the American Educational Research Association (AERA) Annual Meeting 2018. New York, NY.
+Greenhow, C. M., Brandon, D. L., Greenhalgh, S. P., Koehler, M. J., **Staudt Willet**, K. B., & Li, J. (2018, April). *Tweeting toward the PhD: Exploring new scholars’ practices with social media.* American Educational Research Association (AERA) Annual Meeting 2018, New York, NY.
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. (2017, November). *No accounting for theory? The case for an affinity space approach to educational hashtag research.* Paper presented at the Association for Educational Communications and Technology (AECT) International Convention 2017. Jacksonville, FL.
+Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. (2017, November). *No accounting for theory? The case for an affinity space approach to educational hashtag research.* Association for Educational Communications and Technology (AECT) International Convention 2017, Jacksonville, FL.
 
-**Staudt Willet**, K. B. (2017, August). *When a little blue bird flaps its wings: How Twitter is changing the world.* Paper presented at Passion Talks Conference 2017. Google Headquarters, Mountain View, CA.
+**Staudt Willet**, K. B. (2017, August). *When a little blue bird flaps its wings: How Twitter is changing the world.* Passion Talks Conference 2017, Google Headquarters, Mountain View, CA.
 
-**Staudt Willet**, K. B. (2016, August). *The strength of the weak ties.* Paper presented at Passion Talks Conference 2016. Google Headquarters, Mountain View, CA.
+**Staudt Willet**, K. B. (2016, August). *The strength of the weak ties.* Passion Talks Conference 2016, Google Headquarters, Mountain View, CA.
 
-**Staudt Willet**, K. B. (2014, October). *My journey into user-centered game design.* Paper presented at North American Simulation and Game Association (NASAGA) International Conference 2014. Baltimore, MD.
+**Staudt Willet**, K. B. (2014, October). *My journey into user-centered game design.* North American Simulation and Game Association (NASAGA) International Conference 2014, Baltimore, MD.
 
-**Staudt Willet**, K. B. (2013, October). *Tension: My favorite game mechanic.* Paper presented at North American Simulation and Game Association (NASAGA) International Conference 2013. Sarasota, FL.
+**Staudt Willet**, K. B. (2013, October). *Tension: My favorite game mechanic.* North American Simulation and Game Association (NASAGA) International Conference 2013, Sarasota, FL.
 
-**Willet**, K. B. (2001, February). *The shortest closed path on an arithmetic surface.* Paper presented at Moravian College Student Mathematics Conference 2001. Bethlehem, PA.
+**Willet**, K. B. (2001, February). *The shortest closed path on an arithmetic surface.* Moravian College Student Mathematics Conference 2001, Bethlehem, PA.
 
 ---
 
@@ -260,25 +260,25 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 
 ### Instructional Activities & Workshops (10)
 
-**Staudt Willet**, K. B., Rosenberg, J. M., &  Greenhalgh, S. P. (2020, March). *R u ready 4 R? Introduction to analyzing educational Internet data using R.* Workshop facilitated for the Students, Social Media & Schools research group at Florida State University. Available from https://bretsw.github.io/fsu-workshop/
+**Staudt Willet**, K. B., Rosenberg, J. M., &  Greenhalgh, S. P. (2020, March). *R u ready 4 R? Introduction to analyzing educational Internet data using R* [Workshop facilitated for the Students, Social Media & Schools research group at Florida State University]. Available from https://bretsw.github.io/fsu-workshop/
 
-**Staudt Willet**, K. B., & Bork, W. (2019, December). *Electronic assessment*. Talk for Master of Arts in Educational Technology (MAET) instructor huddle at Michigan State University: East Lansing, MI.
+**Staudt Willet**, K. B., & Bork, W. (2019, December). *Electronic assessment* [Presentation for Master of Arts in Educational Technology (MAET) instructor huddle]. Michigan State University, East Lansing, MI.
 
-**Staudt Willet**, K. B. (2019, November). *Content, conversation, & context: How educators talk to each other in Twitter #Edchat*. Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI.
+**Staudt Willet**, K. B. (2019, November). *Content, conversation, & context: How educators talk to each other in Twitter #Edchat* [Presentation for Educational Psychology & Educational Technology PhD program brownbag seminar]. Michigan State University, East Lansing, MI.
 
-**Staudt Willet**, K. B., Greenhalgh, S. P., & Rosenberg, J. M. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R.* Workshop facilitated at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV. Available from https://bretsw.github.io/aect19-workshop/
+**Staudt Willet**, K. B., Greenhalgh, S. P., & Rosenberg, J. M. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R* [Conference workshop]. Association for Educational Communications and Technology (AECT) International Convention 2019, Las Vegas, NV. Available from https://bretsw.github.io/aect19-workshop/
 
-**Staudt Willet**, K. B. (2019, September). *Insights for academic publishing*. Guest lecture for an EPET doctoral course, CEP 956: Mind, Media and Learning. Michigan State University: East Lansing, MI.
+**Staudt Willet**, K. B. (2019, September). *Insights for academic publishing* [Guest lecture for doctoral course]. CEP 956: Mind, Media and Learning, Michigan State University: East Lansing, MI.
 
-**Staudt Willet**, K. B. (2018, November). *Bigger is not always better: Revisiting how and why educators use Twitter #Edchat*. Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI.
+**Staudt Willet**, K. B. (2018, November). *Bigger is not always better: Revisiting how and why educators use Twitter #Edchat* [Presentation for Educational Psychology & Educational Technology PhD program brownbag seminar]. Michigan State University, East Lansing, MI.
 
-**Staudt Willet**, K. B. (2018, October). *Experiences from the practicum*. Guest panelist for an EPET doctoral course, CEP 955: Research Design and Methods for Educational Psychology and Educational Technology. Michigan State University: East Lansing, MI.
+**Staudt Willet**, K. B. (2018, October). *Experiences from the practicum* [Panel for doctoral course]. CEP 955: Research Design and Methods for Educational Psychology and Educational Technology, Michigan State University, East Lansing, MI.
 
-**Staudt Willet**, K. B. (2017, November). *Once more unto the practicum, dear friends: Research lessons from studying social interactions on social media*. Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI. 
+**Staudt Willet**, K. B. (2017, November). *Once more unto the practicum, dear friends: Research lessons from studying social interactions on social media* [Presentation for Educational Psychology & Educational Technology PhD program brownbag seminar]. Michigan State University, East Lansing, MI.
 
-**Staudt Willet**, K. B. (2015, September). *Patterns of online communities*. Webinar presented for Indigitous Sessions. Online.
+**Staudt Willet**, K. B. (2015, September). *Patterns of online communities* [Webinar]. Indigitous Sessions, Online.
 
-**Staudt Willet**, K. B. (2014, March). *What games say*. Guest lecture for an undergraduate course in Film, Media, & Teacher Education. Millersville University: Millersville, PA.
+**Staudt Willet**, K. B. (2014, March). *What games say* [Guest lecture for an undergraduate course in Film, Media, & Teacher Education]. Millersville University, Millersville, PA.
 
 ### Mentoring and Advising
 
@@ -354,8 +354,8 @@ InterVarsity Christian Fellowship/USA - United States
 * Supervised 8 project leads
 * Hosted and directed 5 think tank gatherings (Atlanta, Austin, San Francisco)
 
-**Area Director** (2009-2014)  
-InterVarsity Christian Fellowship/USA - South Central Pennsylvania  
+**Area Director**, South Central Pennsylvania (2009-2014)  
+InterVarsity Christian Fellowship/USA 
 
 * Supervised 17 different staff
 * Directed 11 conferences for undergraduate students from 7 colleges
@@ -363,7 +363,7 @@ InterVarsity Christian Fellowship/USA - South Central Pennsylvania
 * Designed and facilitated 30 training seminars for staff and students
 
 **Director**, Summer Justice Program in Lancaster PA (2006; 2009-2012)  
-InterVarsity Christian Fellowship/USA - Lancaster PA  
+InterVarsity Christian Fellowship/USA
 
 * Designed and facilitated five 6-week immersive learning programs for undergraduate students
 * Received training in Mexico City, Mexico
