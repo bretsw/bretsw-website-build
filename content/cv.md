@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2020-03-28T00:00:00
+lastmod = 2020-04-07T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -126,7 +126,7 @@ Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in press). Research met
 
 ### Peer-Reviewed Conference Proceedings (14)
 
-Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (2020, April). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action*. [Roundtable session canceled]. Society for Information Technology & Teacher Education (SITE) International Conference 2020, New Orleans, LA.
+Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (2020, April). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020, New Orleans, LA.
 
 **Staudt Willet**, K. B. (2020, April). *Early-career educators’ experiences with social media during induction*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020, New Orleans, LA. 
 
