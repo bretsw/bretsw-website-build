@@ -124,7 +124,7 @@ Through a mixed-methods dissertation (interviews first and then a survey), I am 
 
 My research is interdisciplinary and utilizes a variety of methods &mdash; both qualitative and quantitative, human and computational &mdash; including qualitative content analysis, social network analysis, and machine learning. 
 
-I have ten publications in peer-reviewed academic journals, and I have won two Best-Paper Awards from the Society for Information Technology and Teacher Education (SITE). I am currently the Co-chair of SITE's Social Media SIG and Secretary of AECT's Research & Theory Division. In December 2019 I received a [Disciplinary Leadership Award](https://grad.msu.edu/cogs) from Michigan State's Council of Graduate Students.
+I have ten publications in peer-reviewed academic journals, and I have won three Best-Paper Awards from the Society for Information Technology and Teacher Education (SITE). I am currently the Co-chair of SITE's Social Media SIG and Secretary of AECT's Research & Theory Division. In December 2019 I received a [Disciplinary Leadership Award](https://grad.msu.edu/cogs) from Michigan State's Council of Graduate Students.
 
 I hold a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/) and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](http://education.msu.edu/academics/graduate-specializations-certificates/#online-teaching-learning), as well as a course to help undergraduate preservice teachers think critically about using technology for teaching and learning. 
 
@@ -143,6 +143,7 @@ I still consider my strongest credential to be my ongoing friendship with my ver
 <i class="fa fa-graduation-cap"></i> Doctoral Colloquium, 2018
 
 **Society for Information Technology and Teacher Education** [SITE](http://site.aace.org/)  
+<i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/208040/), 2020  
 <i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/208040/), 2019  
 <i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/177469/), 2017  
 *Social Media SIG* (Co-chair 2019-2021)
