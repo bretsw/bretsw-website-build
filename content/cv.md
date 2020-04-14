@@ -131,11 +131,11 @@ Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in press). Research met
 
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (2020, April). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action*. Paper presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020, New Orleans, LA.
 
-**Staudt Willet**, K. B. (2020, April). *Early-career educators’ experiences with social media during induction*. Paper presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020, New Orleans, LA. 
+**Staudt Willet**, K. B. (2020, April). Early-career educators’ experiences with social media during induction. In G. H. Marks & D. Schmidt-Crawford (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2020* (pp. 1256-1262). Online: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/215917/ 
 
-**Staudt Willet**, K. B. (2020, April). *The hashtag-thread mashup: How educators talk to each other in Twitter #Edchat*. Paper presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020, New Orleans, LA.
+**Staudt Willet**, K. B. (2020, April). The hashtag-thread mashup: How educators talk to each other in Twitter #Edchat. In G. H. Marks & D. Schmidt-Crawford (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2020* (pp. 1270-1280). Online: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/215919/
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (2020, April). *For the longest time: Continuity and change in one teaching-related subreddit*. Paper presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
+**Staudt Willet**, K. B., & Carpenter, J. P. (2020, April). For the longest time: Continuity and change in one teaching-related subreddit. In G. H. Marks & D. Schmidt-Crawford (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2020* (pp. 1263-1269). Online: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/215918/
 
 Carpenter, J. P., Koehler, M. J., **Staudt Willet**, K. B., & Greenhalgh, S. P. (2019, March). Spam, spam, spam, spam: Methodological considerations and challenges for studying educators’ Twitter use. In K. Graziano (Ed.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2019* (pp. 2702-2711). Las Vegas, NV: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/208033/
 
