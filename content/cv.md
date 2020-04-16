@@ -78,7 +78,7 @@ caption = ""
 ## Awards
 
 **Outstanding Paper Award** (2020)  
-Society for Information Technology & Teacher Education (SITE) International Conference - New Orleans LA
+Society for Information Technology & Teacher Education (SITE) International Conference - Online
 
 **Disciplinary Leadership Award** (2019)  
 Michigan State University, Council of Graduate Students - East Lansing MI
@@ -159,7 +159,7 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 ### Peer-Reviewed Conference Presentations (21)
 
-Rosenberg, J. M., Rutherford, T., & **Staudt Willet**, K. B. (2020, April). *Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19*. American Educational Research Association (AERA) Annual Meeting 2020, San Francisco, CA. (Conference canceled)
+Rutherford, T., Rosenberg, J. M., & **Staudt Willet**, K. B. (2020, April). Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chairs), *Affordances and modeling of intensive data* [Symposium]. American Educational Research Association (AERA) Annual Meeting 2020, San Francisco, CA. (Conference canceled)
 
 **Staudt Willet**, K. B. (2020, April). *Can you hear me now? Teachers’ versus researchers’ measures of the Twitter #Edchat affinity space*. American Educational Research Association (AERA) Annual Meeting 2020, San Francisco, CA. (Conference canceled)
 
