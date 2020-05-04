@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2020-04-13T00:00:00
+lastmod = 2020-05-04T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -76,6 +76,9 @@ caption = ""
 ---
 
 ## Awards
+
+**Clifford E. Erickson Memorial Fund Scholarship** (2020)  
+Michigan State University, College of Education - East Lansing MI
 
 **Outstanding Paper Award** (2020)  
 Society for Information Technology & Teacher Education (SITE) International Conference - Online
@@ -205,7 +208,13 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ## Funding
 
-### TOTAL: $20,575
+### TOTAL: $26,675
+
+**Clifford E. Erickson Memorial Fund Scholarship: $5,500** (2020)  
+Michigan State University, College of Education - East Lansing MI
+
+**Student Research Conference Travel Fellowship: $600** (2020)  
+Michigan State University, Dept. of Counseling, Educational Psychology, & Special Ed. - East Lansing MI
 
 **Research Practicum/Dissertation Development Fellowship: $1,300** (2020)  
 Michigan State University, College of Education - East Lansing MI
