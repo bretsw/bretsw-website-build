@@ -122,7 +122,7 @@ Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Edu
 
 Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (in press). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology*. New York, NY: Routledge.
 
-Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in press). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke & M. H. Mallette (Eds.), *Handbook of literacy research methodologies* (3rd ed.). New York, NY: Guilford Press. 
+Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2020). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke & M. H. Mallette (Eds.), *Literacy research methodologies* (3rd ed.). New York, NY: Guilford. 
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (2019). Educators on the front page of the Internet: Teacher learning in four subreddits. In D. C. Gibson & M. N. Ochoa (Eds.), *Research highlights in technology and teacher education 2019* (pp. 169-178). Waynesville, NC: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/210591/ [Invited reprint of conference presentation in an edited book]
 
@@ -160,7 +160,11 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017, March). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 1823-1830). Austin, TX: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/177469/
 
-### Peer-Reviewed Conference Presentations (21)
+### Peer-Reviewed Conference Presentations (23)
+
+**Staudt Willet**, K. B. (2020, November). *Into the edu-verse: New teachers’ challenges, supports, and social media*. Association for Educational Communications and Technology (AECT) International Convention 2020, Jacksonville, FL.
+
+**Staudt Willet**, K. B., & Carpenter, J. P. (2020, November). *Time after time: Continuity and change in teaching-related subreddits* [Featured research]. Association for Educational Communications and Technology (AECT) International Convention 2020, Jacksonville, FL.
 
 Rutherford, T., Rosenberg, J. M., & **Staudt Willet**, K. B. (2020, April). Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chairs), *Affordances and modeling of intensive data* [Symposium]. American Educational Research Association (AERA) Annual Meeting 2020, San Francisco, CA. (Conference canceled)
 
@@ -270,7 +274,9 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 * Students playfully explore Google Apps, course management systems, screencasting tools, and file management systems.
 * The semester-long project is to design a curriculum for an *online course module* consisting of 3-5 interconnected lessons, which may include training sessions or non-traditional courses.
 
-### Instructional Activities & Workshops (10)
+### Instructional Activities & Workshops (11)
+
+**Staudt Willet**, K. B., Greenhalgh, S. P., & Rosenberg, J. M. (2020, November). *Simple collection and powerful analysis of Twitter data using R* [Conference workshop]. Association for Educational Communications and Technology (AECT) International Convention 2020, Jacksonville, FL.
 
 **Staudt Willet**, K. B., Rosenberg, J. M., &  Greenhalgh, S. P. (2020, March). *R u ready 4 R? Introduction to analyzing educational Internet data using R* [Workshop facilitated for the Students, Social Media & Schools research group at Florida State University]. Available from https://bretsw.github.io/fsu-workshop/
 
