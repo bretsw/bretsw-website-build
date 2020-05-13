@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# First time initialization:
-# Type in command line $: chmod +x deploy.sh
+# Command: bash ./deploy.sh
+
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
