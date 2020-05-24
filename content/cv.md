@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2020-05-04T00:00:00
+lastmod = 2020-05-24T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -320,6 +320,10 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 
 ### Service in Professional Organizations
 
+**American Educational Research Association (AERA)** 
+
+* *Conference Proposal Reviewer* - 2020
+
 **Association for Educational Communications & Technology (AECT)**
 
 * *Communications Officer*, Research & Theory Division - 2020-2021
@@ -419,8 +423,11 @@ Bucknell University, College of Arts & Sciences - Lewisburg PA
 
 ## Further Training
 
+**Reproducible Research** - 2020  
+Course Certificate – Johns Hopkins University \hfill Coursera.org
+
 **Exploratory Data Analysis** - 2019  
-Certificate – Johns Hopkins University - Coursera.org
+Course Certificate – Johns Hopkins University - Coursera.org
 
 **Doctoral Colloquium** - 2018  
 Association of Internet Researchers (AoIR) - Montreal QC
@@ -429,13 +436,13 @@ Association of Internet Researchers (AoIR) - Montreal QC
 Summer School Series on Methods for Computational Social Science - Los Angeles CA
 
 **Getting and Cleaning Data** - 2018  
-Certificate – Johns Hopkins University - Coursera.org
+Course Certificate – Johns Hopkins University - Coursera.org
 
 **The Data Scientist’s Toolbox** - 2018  
-Certificate – Johns Hopkins University - Coursera.org
+Course Certificate – Johns Hopkins University - Coursera.org
 
 **R Programming** - 2017  
-Certificate – Johns Hopkins University - Coursera.org
+Course Certificate – Johns Hopkins University - Coursera.org
 
 **Game Design and Facilitation** - 2012  
 Workshop Certificate – The Thiagi Group at NASAGA - Columbus OH
