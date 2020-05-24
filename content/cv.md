@@ -424,7 +424,7 @@ Bucknell University, College of Arts & Sciences - Lewisburg PA
 ## Further Training
 
 **Reproducible Research** - 2020  
-Course Certificate – Johns Hopkins University \hfill Coursera.org
+Course Certificate – Johns Hopkins University - Coursera.org
 
 **Exploratory Data Analysis** - 2019  
 Course Certificate – Johns Hopkins University - Coursera.org
