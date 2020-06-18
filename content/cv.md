@@ -361,7 +361,14 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 Michigan State University, College of Education - East Lansing MI  
 Department of Counseling, Educational Psychology, & Special Education  
 
-* Taught courses at the Master's and Undergraduate levels
+* Taught courses at Master's and Undergraduate levels
+
+**Operations Manager** (2020-present)  
+Black in Gaming \hfill Phoenix AZ  
+http://www.blackingames.com/
+
+* Trained and coached Founder/Chairman on organizational leadership
+* Designed and implemented strategy for organizational culture and collaboration for remote and asynchronous work
 
 **Course Writer** (2019)  
 Concordia University, College of Education - Portland OR  

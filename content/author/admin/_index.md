@@ -143,7 +143,7 @@ I still consider my strongest credential to be my ongoing friendship with my ver
 <i class="fa fa-graduation-cap"></i> Doctoral Colloquium, 2018
 
 **Society for Information Technology and Teacher Education** [SITE](http://site.aace.org/)  
-<i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/208040/), 2020  
+<i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/215919/), 2020  
 <i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/208040/), 2019  
 <i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/177469/), 2017  
 *Social Media SIG* (Co-chair 2019-2021)
