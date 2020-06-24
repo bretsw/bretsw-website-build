@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2020-05-24T00:00:00
+lastmod = 2020-06-23T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -80,6 +80,9 @@ caption = ""
 **Clifford E. Erickson Memorial Fund Scholarship** (2020)  
 Michigan State University, College of Education - East Lansing MI
 
+**Featured Research** (2020)  
+Association for Educational Communications and Technology (AECT) International Convention - Online
+
 **Outstanding Paper Award** (2020)  
 Society for Information Technology & Teacher Education (SITE) International Conference - Online
 
@@ -102,7 +105,7 @@ Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., &
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (2020). Teachers on Reddit? Exploring contributions and interactions in four teaching-related subreddits. *Journal of Research on Technology in Education, 52*, 216-233. https://doi.org/10.1080/15391523.2020.1722978
 
-Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2019). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends*. https://doi.org/10.1007/s11528-019-00466-3
+Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2020). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends, 64*, 460-469. https://doi.org/10.1007/s11528-019-00466-3
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (2019). Approaches to Mormon identity and practice in the #ldsconf Twitter hashtag. *Journal of Media and Religion, 18*(4), 122-133. https://doi.org/10.1080/15348423.2019.1696121
 
@@ -162,9 +165,9 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 ### Peer-Reviewed Conference Presentations (23)
 
-**Staudt Willet**, K. B. (2020, November). *Into the edu-verse: New teachers’ challenges, supports, and social media*. Association for Educational Communications and Technology (AECT) International Convention 2020, Jacksonville, FL.
+**Staudt Willet**, K. B. (2020, November). *Into the edu-verse: New teachers’ challenges, supports, and social media*. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (2020, November). *Time after time: Continuity and change in teaching-related subreddits* [Featured research]. Association for Educational Communications and Technology (AECT) International Convention 2020, Jacksonville, FL.
+**Staudt Willet**, K. B., & Carpenter, J. P. (2020, November). *Time after time: Continuity and change in teaching-related subreddits* [Featured research]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
 Rutherford, T., Rosenberg, J. M., & **Staudt Willet**, K. B. (2020, April). Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chairs), *Affordances and modeling of intensive data* [Symposium]. American Educational Research Association (AERA) Annual Meeting 2020, San Francisco, CA. (Conference canceled)
 
@@ -276,7 +279,7 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 
 ### Instructional Activities & Workshops (11)
 
-**Staudt Willet**, K. B., Greenhalgh, S. P., & Rosenberg, J. M. (2020, November). *Simple collection and powerful analysis of Twitter data using R* [Conference workshop]. Association for Educational Communications and Technology (AECT) International Convention 2020, Jacksonville, FL.
+**Staudt Willet**, K. B., Greenhalgh, S. P., & Rosenberg, J. M. (2020, November). *Simple collection and powerful analysis of Twitter data using R* [Conference workshop]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
 **Staudt Willet**, K. B., Rosenberg, J. M., &  Greenhalgh, S. P. (2020, March). *R u ready 4 R? Introduction to analyzing educational Internet data using R* [Workshop facilitated for the Students, Social Media & Schools research group at Florida State University]. Available from https://bretsw.github.io/fsu-workshop/
 
