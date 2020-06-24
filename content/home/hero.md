@@ -1,33 +1,21 @@
 +++
 # Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+widget = "hero"
+active = true
+date = 2020-06-24T00:00:00
 
 title = "bretsw"
 
-# Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+# Order that this section will appear in.
+weight = 3
 
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
+# Overlay a color or image.
+[header]
+#  overlay_color = "#242833"  # An HTML color value.
+  overlay_img = "network-visualization-wide.png"  # Name of image in `static/img/`.
+  overlay_filter = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  #gradient_start = "#4bb4e3"
-  #gradient_end = "#2b94c3"
-  
-  # Background image.
-  image = "network-visualization-wide.png"  # Name of image in `static/img/`.
-  image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
+# Text color (true=light or false=dark).
   text_color_light = true
 
 # Call to action links (optional).
@@ -38,15 +26,6 @@ hero_media = ""
   label = "Connect"
   icon_pack = "fas"
   icon = "route"
-  
-[cta_alt]
-  url = ""
-  label = ""
-
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = ""
-
 +++
 
 Welcome to the digital space of Bret Staudt Willet.  
