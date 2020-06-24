@@ -5,6 +5,7 @@ headless = true   # This file represents a page section.
 active = true
 weight = 10  # Order that this section will appear in.
 
+date = 2020-06-24T00:00:00
 title = "bretsw"
 
 text_color_light = true
