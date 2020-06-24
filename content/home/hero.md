@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"
 headless = true   # This file represents a page section.
-active = true
+active = false
 weight = 10  # Order that this section will appear in.
 title = "bretsw"
 
