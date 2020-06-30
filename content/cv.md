@@ -169,11 +169,11 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (2020, November). *Time after time: Continuity and change in teaching-related subreddits* [Featured research]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
-Rutherford, T., Rosenberg, J. M., & **Staudt Willet**, K. B. (2020, April). Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chairs), *Affordances and modeling of intensive data* [Symposium]. American Educational Research Association (AERA) Annual Meeting 2020, San Francisco, CA. (Conference canceled)
+Rutherford, T., Rosenberg, J. M., & **Staudt Willet**, K. B. (2020, April). Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chairs), *Affordances and modeling of intensive data* [Structured Poster Session]. American Educational Research Association (AERA) Annual Meeting 2020, San Francisco, CA. (Conference canceled)
 
-**Staudt Willet**, K. B. (2020, April). *Can you hear me now? Teachers’ versus researchers’ measures of the Twitter #Edchat affinity space*. American Educational Research Association (AERA) Annual Meeting 2020, San Francisco, CA. (Conference canceled)
+**Staudt Willet**, K. B. (2020, April). *Can you hear me now? Teachers’ versus researchers’ measures of the Twitter #Edchat affinity space* [Paper session]. American Educational Research Association (AERA) Annual Meeting 2020, San Francisco, CA. (Conference canceled)
 
-**Staudt Willet**, K. B., Heath, M. K., & Krutka, D. G. (2020, April).*The need for technoethics in teacher education: A critical analysis of literature*. American Educational Research Association (AERA) Annual Meeting 2020, San Francisco, CA. (Conference canceled)
+**Staudt Willet**, K. B., Heath, M. K., & Krutka, D. G. (2020, April). *The need for technoethics in teacher education: A critical analysis of literature* [Poster session]. American Educational Research Association (AERA) Annual Meeting 2020, San Francisco, CA. (Conference canceled)
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J.(2019, October). *Twitter hashtags and religious learning: Mormon identity and participatory practice in #ldsconf.* Association for Educational Communications and Technology (AECT) International Convention 2019, Las Vegas, NV.
 
@@ -277,13 +277,15 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 * Students playfully explore Google Apps, course management systems, screencasting tools, and file management systems.
 * The semester-long project is to design a curriculum for an *online course module* consisting of 3-5 interconnected lessons, which may include training sessions or non-traditional courses.
 
-### Instructional Activities & Workshops (11)
+### Instructional Activities & Workshops (13)
+
+Budhrani, K., Ross, K., Muljana, P., Dyer, R., Jones, M., & **Staudt Willet**, K. B. (2020, November). *Factors influencing doctoral students’ perseverance in online instructional technology programs* [Panel]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
+
+Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefaniak, J., Tiwari, S., Koehler, M., Rosenberg, J., **Staudt Willet**, K. B., Lockee, B., Zimmerman, H., Pérez-Edgar, K., Grant, M. M., & Ari, F. (2020, November). *Let’s talk about research methods: Where are we today?* [Panel]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
 **Staudt Willet**, K. B., Greenhalgh, S. P., & Rosenberg, J. M. (2020, November). *Simple collection and powerful analysis of Twitter data using R* [Conference workshop]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
-**Staudt Willet**, K. B., Rosenberg, J. M., &  Greenhalgh, S. P. (2020, March). *R u ready 4 R? Introduction to analyzing educational Internet data using R* [Workshop facilitated for the Students, Social Media & Schools research group at Florida State University]. Available from https://bretsw.github.io/fsu-workshop/
-
-**Staudt Willet**, K. B., & Bork, W. (2019, December). *Electronic assessment* [Presentation for Master of Arts in Educational Technology (MAET) instructor huddle]. Michigan State University, East Lansing, MI.
+**Staudt Willet**, K. B., Rosenberg, J. M., & Greenhalgh, S. P. (2020, March). *R u ready 4 R? Introduction to analyzing educational Internet data using R* [Workshop facilitated for the Students, Social Media & Schools research group at Florida State University]. Available from https://bretsw.github.io/fsu-workshop/
 
 **Staudt Willet**, K. B. (2019, November). *Content, conversation, & context: How educators talk to each other in Twitter #Edchat* [Presentation for Educational Psychology & Educational Technology PhD program brownbag seminar]. Michigan State University, East Lansing, MI.
 
