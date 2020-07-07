@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2020-06-23T00:00:00
+lastmod = 2020-07-06T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -59,7 +59,7 @@ caption = ""
 
 **PhD**, Educational Psychology & Educational Technology (Expected October 2020)
 
-* Dissertation: *Into the edu-verse: Early-career educators seeking induction support on social media*
+* Dissertation: *Into the edu-verse: New teachers’ agency in self-directed learning with social media*
 * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond
 * Defended proposal: November 26, 2019
   * [View slides](https://bretsw.github.io/dissertation-proposal/)
@@ -319,8 +319,8 @@ Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefan
 
 ### Journal Article Reviews (4)
 
+* *American Journal of Education* (2) - 2019-2020
 * *Internet and Higher Education* (2) - 2019
-* *American Journal of Education*, with Dr. Jeffrey Carpenter, faculty reviewer - 2019
 * *Learning, Media and Technology*, with Dr. Christine Greenhow, faculty reviewer - 2016
 
 ### Service in Professional Organizations
@@ -369,7 +369,7 @@ Department of Counseling, Educational Psychology, & Special Education
 * Taught courses at Master's and Undergraduate levels
 
 **Operations Manager** (2020-present)  
-Black in Gaming \hfill Phoenix AZ  
+Black in Gaming - Phoenix AZ  
 http://www.blackingames.com/
 
 * Trained and coached Founder/Chairman on organizational leadership
