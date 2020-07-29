@@ -113,7 +113,7 @@ interests = [
 
 +++
 
-# Hey there, I'm Bret.
+# Hi, I'm Bret.
 
 [*Read my CV*](cv/) or 
 {{% staticref "files/cv.pdf" %}}download a PDF copy{{% /staticref %}}.
@@ -122,7 +122,7 @@ I am a PhD candidate in the [Educational Psychology & Educational Technology](ht
 
 Through a mixed-methods dissertation (interviews first and then a survey), I am seeking to understand the challenges faced by new teachers during their transition from teacher preparation programs into professional employment contexts (i.e., their induction period). This study explores what supports for professional learning early-career educators seek during induction, if any; from whom; and how, if at all, they use social media with the intention of seeking supports and connections. 
 
-My research is interdisciplinary and utilizes a variety of methods &mdash; both qualitative and quantitative, human and computational &mdash; including qualitative content analysis of digital traces, social network analysis, and machine learning. 
+My research is interdisciplinary and utilizes a variety of methods &mdash; both qualitative and quantitative, human and computational &mdash; including qualitative content analysis of digital traces, social network analysis, natural language processing, and machine learning. 
 
 I have ten publications in peer-reviewed academic journals, I have won three Best-Paper Awards from the Society for Information Technology and Teacher Education (SITE), and my work was selected as Featured Research for the Association for Educational Communications & Technology's (AECT) 2020 convention. I currently serve as the Co-chair of SITE's Social Media SIG and Secretary of AECT's Research & Theory Division. In 2019 I received a [Disciplinary Leadership Award](https://grad.msu.edu/cogs) from Michigan State's Council of Graduate Students, and in 2020 I was awarded the [Clifford E. Erickson Memorial Fund Scholarship](https://education.msu.edu/resources/financial/scholarships/clifford/) from Michigan State's College of Education.
 

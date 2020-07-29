@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2020-07-06T00:00:00
+lastmod = 2020-07-28T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -317,7 +317,7 @@ Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefan
 
 ## Service
 
-### Journal Article Reviews (4)
+### Journal Article Reviews (5)
 
 * *American Journal of Education* (2) - 2019-2020
 * *Internet and Higher Education* (2) - 2019
@@ -368,12 +368,12 @@ Department of Counseling, Educational Psychology, & Special Education
 
 * Taught courses at Master's and Undergraduate levels
 
-**Operations Manager** (2020-present)  
-Black in Gaming - Phoenix AZ  
-http://www.blackingames.com/
+**Executive Coach** (2020-present)  
+Black in Gaming - United States  
+http://www.blackingaming.com/
 
-* Trained and coached Founder/Chairman on organizational leadership
-* Designed and implemented strategy for organizational culture and collaboration for remote and asynchronous work
+* Trained and mentored members of the core leadership team
+* Designed and implemented strategy for organizational culture and collaboration through remote and asynchronous work
 
 **Course Writer** (2019)  
 Concordia University, College of Education - Portland OR  
