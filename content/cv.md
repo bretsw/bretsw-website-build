@@ -340,6 +340,7 @@ Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefan
 **Society for Information Technology and Teacher Education (SITE)**
 
 * *Co-Chair*, Social Media SIG - 2019-2021
+* *Planning Committee Member*, SITE Interactive Conference - 2020
 * *Conference Proposal Reviewer* - 2020
 * *Graduate Student Intern*, Social Media SIG - 2018-2019
 
