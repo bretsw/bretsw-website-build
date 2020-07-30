@@ -36,7 +36,7 @@ interests = [
 [[education.courses]]
   course = "PhD candidate in Educational Psychology & Educational Technology"
   institution = "Michigan State University"
-  year = 2021
+  year = "2020 (expected)"
 
 [[education.courses]]
   course = "MA in Educational Technology"
@@ -120,6 +120,8 @@ interests = [
 
 I am a PhD candidate in the [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) program at Michigan State University. My research focuses on networked learning at the intersection of information science and teacher education. Specifically, I am exploring how social media platforms support induction and self-directed online professional learning for K-20 educators. 
 
+![Bret's teaching](/img/bretsw-pic3.jpg)
+
 Through a mixed-methods dissertation (interviews first and then a survey), I am seeking to understand the challenges faced by new teachers during their transition from teacher preparation programs into professional employment contexts (i.e., their induction period). This study explores what supports for professional learning early-career educators seek during induction, if any; from whom; and how, if at all, they use social media with the intention of seeking supports and connections. 
 
 My research is interdisciplinary and utilizes a variety of methods &mdash; both qualitative and quantitative, human and computational &mdash; including qualitative content analysis of digital traces, social network analysis, natural language processing, and machine learning. 
@@ -129,6 +131,8 @@ I have ten publications in peer-reviewed academic journals, I have won three Bes
 I hold a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/) and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](http://education.msu.edu/academics/graduate-specializations-certificates/#online-teaching-learning), as well as a course to help undergraduate preservice teachers think critically about using technology for teaching and learning. 
 
 I still consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
+
+---
 
 ## Professional Affiliations
 
@@ -148,3 +152,5 @@ I still consider my strongest credential to be my ongoing friendship with my ver
 <i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/208040/), 2019  
 <i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/177469/), 2017  
 *Social Media SIG* (Co-chair 2019-2021)
+
+---

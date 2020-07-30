@@ -9,7 +9,7 @@ tags = ["tech", "technology"]
 summary = ""
 
 [header]
-image = ""
+image = "invaders.png"
 caption = ""
 
 # **Bold**
