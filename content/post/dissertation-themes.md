@@ -5,7 +5,7 @@ date = 2020-07-09T00:00:00
 lastmod = 2020-07-29T00:00:00
 draft = false
 
-tags = ["dissertation", "msu"]
+tags = ["dissertation", "R", "dataviz", "heatmap", "msu"]
 summary = ""
 
 [header]
