@@ -138,6 +138,7 @@ I still consider my strongest credential to be my ongoing friendship with my ver
 
 **Association for Educational Communications & Technology** [AECT](https://aect.org/)  
 <i class="fa fa-trophy"></i> Featured Research, 2020  
+<i class="fa fa-graduation-cap"></i> Early Career Symposium, 2020  
 *Research & Theory Division* (Secretary 2019-2020; Communications Officer 2020-2021)
 
 **American Educational Research Association** [AERA](https://www.aera.net/)  

@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2020-07-28T00:00:00
+lastmod = 2020-08-01T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -435,6 +435,9 @@ Bucknell University, College of Arts & Sciences - Lewisburg PA
 ---
 
 ## Further Training
+
+**Early Career Symposium** - 2020  
+Association for Educational Communications & Technology (AECT) - Virtual Conference
 
 **Reproducible Research** - 2020  
 Course Certificate – Johns Hopkins University - Coursera.org
