@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2020-08-01T00:00:00
+lastmod = 2020-08-11T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -59,7 +59,7 @@ caption = ""
 
 **PhD**, Educational Psychology & Educational Technology (Expected October 2020)
 
-* Dissertation: *Into the edu-verse: New teachers’ agency in self-directed learning with social media*
+* Dissertation: *Into the edu-verse: New teachers seeking induction support on social media*
 * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond
 * Defended proposal: November 26, 2019
   * [View slides](https://bretsw.github.io/dissertation-proposal/)
@@ -380,12 +380,12 @@ http://www.blackingaming.com/
 Concordia University, College of Education - Portland OR  
 Educational Technology and Learning Design program  
 
-* The Evolving Landscape of Educational Technology (Master's)
+* Wrote and designed all materials for a new Master's-level course: The Evolving Landscape of Educational Technology
 
 **Founding National Director, Ministry in Digital Spaces** (2014-2017)  
 InterVarsity Christian Fellowship/USA - United States  
 
-* Managed 51 projects related to online community building
+* Managed 51 projects related to online community building through video games and social media
 * Supervised 8 project leads
 * Hosted and directed 5 think tank gatherings (Atlanta, Austin, San Francisco)
 
