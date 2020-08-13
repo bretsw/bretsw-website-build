@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Candidate"
+role = "Ph.D. Candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Michigan State University", url = "http://education.msu.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research focuses on networked learning, specifically, how social media platforms can support induction and ongoing professional learning for K-20 educators."
+bio = "My research focuses on networked learning; specifically, I explore how social media platforms support online communities, including self-directed online professional learning for K-20 educators."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -24,8 +24,8 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
    "Networked Learning",
-   "Social Media",
-   "Educational Technology"
+   "Online Communities",
+   "Social Media"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -118,15 +118,15 @@ interests = [
 [*Read my CV*](cv/) or 
 {{% staticref "files/cv.pdf" %}}download a PDF copy{{% /staticref %}}.
 
-I am a PhD candidate in the [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) program at Michigan State University. My research focuses on networked learning at the intersection of information science and teacher education. Specifically, I am exploring how social media platforms support induction and self-directed online professional learning for K-20 educators. 
+I am a Ph.D. candidate in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) at Michigan State University. My research focuses on networked learning at the intersection of information science and teacher education. Specifically, I explore how social media platforms support online communities, including self-directed online professional learning for K-20 educators. 
 
 ![Bret's teaching](/img/bretsw-pic3.jpg)
 
-Through a mixed-methods dissertation (interviews first and then a survey), I am seeking to understand the challenges faced by new teachers during their transition from teacher preparation programs into professional employment contexts (i.e., their induction period). This study explores what supports for professional learning early-career educators seek during induction, if any; from whom; and how, if at all, they use social media with the intention of seeking supports and connections. 
+In my dissertation, I seek to understand the challenges faced by new teachers during their transition from teacher preparation programs into professional employment contexts (i.e., their induction period). This study explores what supports for professional learning new teachers seek during induction and how they use social media with the intention of seeking these supports. 
 
 My research is interdisciplinary and utilizes a variety of methods &mdash; both qualitative and quantitative, human and computational &mdash; including qualitative content analysis of digital traces, social network analysis, natural language processing, and machine learning. 
 
-I have ten publications in peer-reviewed academic journals, I have won three Best-Paper Awards from the Society for Information Technology and Teacher Education (SITE), and my work was selected as Featured Research for the Association for Educational Communications & Technology's (AECT) 2020 convention. I currently serve as the Co-chair of SITE's Social Media SIG and Secretary of AECT's Research & Theory Division. In 2019 I received a [Disciplinary Leadership Award](https://grad.msu.edu/cogs) from Michigan State's Council of Graduate Students, and in 2020 I was awarded the [Clifford E. Erickson Memorial Fund Scholarship](https://education.msu.edu/resources/financial/scholarships/clifford/) from Michigan State's College of Education.
+I have ten publications in peer-reviewed academic journals, I have won three Best-Paper Awards from the Society for Information Technology and Teacher Education (SITE), and my work was selected as Featured Research for the Association for Educational Communications & Technology's (AECT) 2020 convention. I currently serve as the Co-chair of SITE's Social Media SIG and Secretary of AECT's Research & Theory Division. In 2019 I received a [Disciplinary Leadership Award](https://grad.msu.edu/cogs) from Michigan State's Council of Graduate Students, and in 2020 I was awarded the [Clifford E. Erickson Memorial Fund Scholarship](https://education.msu.edu/resources/financial/scholarships/clifford/) from Michigan State's College of Education. Finally, since June 2020, I have been serving as the Executive Coach for [Black in Gaming](blackingaming.com/), an organization seeking to normalize Black cultural identification in the video game industry.
 
 I hold a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/) and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](http://education.msu.edu/academics/graduate-specializations-certificates/#online-teaching-learning), as well as a course to help undergraduate preservice teachers think critically about using technology for teaching and learning. 
 
