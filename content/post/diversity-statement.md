@@ -22,7 +22,7 @@ My beliefs related to diversity, inclusion, and equity can be conceptualized as 
 
 ## Values
 
-First and foremost, I recognize, and I value, that I am a **learner**. I am still on a journey, and this is a good and important place to be. My experiences and my identity are steeped in privilege. Even with a lifetime of intentional effort, I will need to continue to actively deconstruct and seek understanding of the ways I hold power and benefit from inequity, especially white supremacy and misogyny. As I continue to learn, I believe I can benefit others by being a **mentor**, especially to white men. I do not presume to have answers or the ability to save anyone, but I also look for opportunities to be an **advocate** on behalf of Black, Indegenous, and people of color (BIPOC). I refer back to being a learner here, starting by asking what is needed and what I can do to help.
+First and foremost, I recognize, and I value, that I am a **learner**. I am still on a journey, and this is a good and important place to be. My experiences and my identity are steeped in privilege. Even with a lifetime of intentional effort, I will need to continue to actively deconstruct and seek understanding of the ways I hold power and benefit from inequity, especially white supremacy and misogyny. As I continue to learn, I believe I can benefit others by being a **mentor**, especially to white men. I do not presume to have answers or the ability to save anyone, but I also look for opportunities to be an **advocate** on behalf of Black, Indigenous, and people of color (BIPOC). I refer back to being a learner here, starting by asking what is needed and what I can do to help.
 
 ## Experiences
 
