@@ -2,7 +2,7 @@
 title = "Dissertation Themes"
 
 date = 2020-07-09T00:00:00
-lastmod = 2020-07-29T00:00:00
+lastmod = 2020-08-20T00:00:00
 draft = false
 
 tags = ["dissertation", "R", "dataviz", "heatmap", "msu"]
@@ -51,7 +51,7 @@ caption = ""
 
 +++
 
-As I've wrapped up numerous cycles of qualitative coding of interview data for my dissertation, *Into the edu-verse: New teachers’ agency in self-directed learning with social media*, I used `geom_tile()` in **{ggplot2}** to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant and by modality.
+As I've wrapped up numerous cycles of qualitative coding of interview data for my dissertation, *Into the edu-verse: New teachers seeking induction support on social media*, I used `geom_tile()` in **{ggplot2}** to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant and by modality.
 
 ## Codes by Participant
 
