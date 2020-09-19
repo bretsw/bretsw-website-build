@@ -49,7 +49,8 @@ caption = ""
 
 **Keywords:** *networked learning, online communities, social media*
 
-[Download a PDF copy of my CV](https://bretsw.github.io/files/cv.pdf)
+[Download a PDF copy of my CV](https://bretsw.github.io/files/cv.pdf)  
+[Download a PDF copy of the 2-page resume version](https://bretsw.github.io/files/resume.pdf)
 
 ---
 

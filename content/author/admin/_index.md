@@ -115,8 +115,8 @@ interests = [
 
 # Hi, I'm Bret.
 
-[*Read my CV*](cv/) or 
-{{% staticref "files/cv.pdf" %}}download a PDF copy{{% /staticref %}}.
+[*Read my CV*](cv/), 
+{{% staticref "files/cv.pdf" %}}download a PDF copy{{% /staticref %}}, or {{% staticref "files/resume.pdf" %}}download a two-page resume version{{% /staticref %}}.
 
 I am a Ph.D. candidate in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) at Michigan State University. I research *networked learning* at the intersection of educational psychology, instructional technology, and information science. My scholarship investigates the networked learning made possible by the novel social and environmental conditions afforded by the Internet. Specifically, I explore how social media platforms support online learning communities. 
 
