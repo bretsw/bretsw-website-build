@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2020-08-12T00:00:00
+lastmod = 2020-10-07T00:00:00
 draft = false
 
 tags = ["cv", "msu"]
@@ -278,9 +278,9 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 * Students playfully explore Google Apps, course management systems, screencasting tools, and file management systems.
 * The semester-long project is to design a curriculum for an *online course module* consisting of 3-5 interconnected lessons, which may include training sessions or non-traditional courses.
 
-### Instructional Activities & Workshops (13)
+### Instructional Activities & Workshops (14)
 
-Budhrani, K., Ross, K., Muljana, P., Dyer, R., Jones, M., & **Staudt Willet**, K. B. (2020, November). *Factors influencing doctoral students’ perseverance in online instructional technology programs* [Panel]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
+**Staudt Willet**, K. B. (2020, October). *Welcome to the good place?: Teachers' networked learning on social media* [Guest lecture for Master's course]. Teaching with Technology, Manhattanville College, Purchase, NY. https://bretsw.github.io/manhattanville-lecture/
 
 Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefaniak, J., Tiwari, S., Koehler, M., Rosenberg, J., **Staudt Willet**, K. B., Lockee, B., Zimmerman, H., Pérez-Edgar, K., Grant, M. M., & Ari, F. (2020, November). *Let’s talk about research methods: Where are we today?* [Panel]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
@@ -306,6 +306,7 @@ Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefan
 
 ### Mentoring and Advising
 
+* Graduate mentor, *Undergraduate course instruction* (Madison Allen, MSU) - 2020
 * Graduate mentor, *Master's course instruction* (William Bork, MSU) - 2019-2020
 * Peer reviewer, *National Science Foundation (NSF) grant proposal* (Dr. Joshua Rosenberg, University of Tennessee, Knoxville) - 2019
 * Doctoral student member, *Research apprenticeship practicum committee* (Sarah Galvin, MSU) - 2018-2019
