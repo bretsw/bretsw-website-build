@@ -2,7 +2,7 @@
 title = "CV"
 
 date = 2018-09-15T00:00:00
-lastmod = 2020-10-07T00:00:00
+lastmod = "`r Sys.time()`"
 draft = false
 
 tags = ["cv", "msu"]
@@ -65,7 +65,6 @@ caption = ""
 * Defended proposal: November 26, 2019
   * [View slides](https://bretsw.github.io/dissertation-proposal/)
   * [Read proposal](https://bretsw.github.io/dissertation-proposal-text/)
-* Advanced to candidacy: February 3, 2019
 
 **MA**, Educational Technology (2015)  
 **Graduate Certificate**, Serious Game Design and Research (2014)
@@ -114,55 +113,57 @@ Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2019). What should be t
 
 Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (2019). Social scholarship revisited: Changing scholarly practices in the age of social media. *British Journal of Educational Technology, 50*, 987-1004. https://doi.org/10.1111/bjet.12772
 
-Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (2019). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. *Journal of Technology and Teacher Education, 27*(4), 555-574. Retrieved from http://learntechlib.org/p/208235/
+Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (2019). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. *Journal of Technology and Teacher Education, 27*(4), 555-574. http://learntechlib.org/p/208235/
 
 **Staudt Willet**, K. B. (2019). Revisiting how and why educators use Twitter: Tweet types and purposes in #Edchat. *Journal of Research on Technology in Education, 51*, 273-289. https://doi.org/10.1080/15391523.2019.1611507
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends, 62*, 501-508. https://doi.org/10.1007/s11528-018-0313-6
 
-Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Educating social scholars: Examining novice researchers’ practices with social media. *Qwerty – Open and Interdisciplinary Journal of Technology, Culture and Education, 12*(2), 30-45. Retrieved from http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269/
+Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Educating social scholars: Examining novice researchers’ practices with social media. *Qwerty – Open and Interdisciplinary Journal of Technology, Culture and Education, 12*(2), 30-45. http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269/
 
-### Book Chapters (5)
+### Book Chapters (6)
 
-Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (in press). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology*. New York, NY: Routledge.
+**Staudt Willet**, K. B. (in press). The hashtag-thread mashup: Differences in Twitter #Edchat replies. In D. C. Gibson & M. N. Ochoa (Eds.), *Research highlights in technology and teacher education 2020*. Association for the Advancement of Computing in Education (AACE). [Invited revision of conference presentation in an edited book]
 
-Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2020). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke & M. H. Mallette (Eds.), *Literacy research methodologies* (3rd ed.). New York, NY: Guilford. 
+Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (in press). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology*. Routledge.
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (2019). Educators on the front page of the Internet: Teacher learning in four subreddits. In D. C. Gibson & M. N. Ochoa (Eds.), *Research highlights in technology and teacher education 2019* (pp. 169-178). Waynesville, NC: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/210591/ [Invited revision of conference presentation in an edited book]
+Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2020). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke & M. H. Mallette (Eds.), *Literacy research methodologies* (3rd ed.). Guilford. 
 
-**Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2018). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In T. J. Bastiaens & G. Marks (Eds.), *Education and Information Technology Annual 2018: A Selection of AACE Award Papers* (pp. 67-74). Association for the Advancement of Computing in Education (AACE). Retrieved from http://learntechlib.org/p/182952/ [Invited reprint of conference presentation in edited book]
+**Staudt Willet**, K. B., & Carpenter, J. P. (2019). Educators on the front page of the Internet: Teacher learning in four subreddits. In D. C. Gibson & M. N. Ochoa (Eds.), *Research highlights in technology and teacher education 2019* (pp. 169-178). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/210591/ [Invited revision of conference presentation in an edited book]
 
-**Staudt Willet**, K. B., Koehler, M.J., & Greenhalgh, S. P. (2017). A tweet by any other frame: Comparing three theoretical frameworks for studying educator interactions on Twitter. In L. Liu & D. Gibson (Eds.), *Research highlights in technology and teacher education 2017* (pp. 63-70). Waynesville, NC: Association for the Advancement of Computing in Education (AACE). Retrieved from http://www.learntechlib.org/p/180960/ [Invited revision of conference presentation in edited book]
+**Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2018). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In T. J. Bastiaens & G. Marks (Eds.), *Education and Information Technology Annual 2018: A Selection of AACE Award Papers* (pp. 67-74). Association for the Advancement of Computing in Education (AACE). http://learntechlib.org/p/182952/ [Invited reprint of conference presentation in edited book]
+
+**Staudt Willet**, K. B., Koehler, M.J., & Greenhalgh, S. P. (2017). A tweet by any other frame: Comparing three theoretical frameworks for studying educator interactions on Twitter. In L. Liu & D. Gibson (Eds.), *Research highlights in technology and teacher education 2017* (pp. 63-70). Association for the Advancement of Computing in Education (AACE). http://www.learntechlib.org/p/180960/ [Invited revision of conference presentation in edited book]
 
 ### Peer-Reviewed Conference Proceedings (14)
 
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (2020, April). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action*. Paper presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020, New Orleans, LA.
 
-**Staudt Willet**, K. B. (2020, April). Early-career educators’ experiences with social media during induction. In G. H. Marks & D. Schmidt-Crawford (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2020* (pp. 1256-1262). Online: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/215917/ 
+**Staudt Willet**, K. B. (2020, April). Early-career educators’ experiences with social media during induction. In G. H. Marks & D. Schmidt-Crawford (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2020* (pp. 1256-1262). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/215917/ 
 
-**Staudt Willet**, K. B. (2020, April). The hashtag-thread mashup: How educators talk to each other in Twitter #Edchat. In G. H. Marks & D. Schmidt-Crawford (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2020* (pp. 1270-1280). Online: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/215919/
+**Staudt Willet**, K. B. (2020, April). The hashtag-thread mashup: How educators talk to each other in Twitter #Edchat. In G. H. Marks & D. Schmidt-Crawford (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2020* (pp. 1270-1280). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/215919/
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (2020, April). For the longest time: Continuity and change in one teaching-related subreddit. In G. H. Marks & D. Schmidt-Crawford (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2020* (pp. 1263-1269). Online: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/215918/
+**Staudt Willet**, K. B., & Carpenter, J. P. (2020, April). For the longest time: Continuity and change in one teaching-related subreddit. In G. H. Marks & D. Schmidt-Crawford (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2020* (pp. 1263-1269). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/215918/
 
-Carpenter, J. P., Koehler, M. J., **Staudt Willet**, K. B., & Greenhalgh, S. P. (2019, March). Spam, spam, spam, spam: Methodological considerations and challenges for studying educators’ Twitter use. In K. Graziano (Ed.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2019* (pp. 2702-2711). Las Vegas, NV: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/208033/
+Carpenter, J. P., Koehler, M. J., **Staudt Willet**, K. B., & Greenhalgh, S. P. (2019, March). Spam, spam, spam, spam: Methodological considerations and challenges for studying educators’ Twitter use. In K. Graziano (Ed.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2019* (pp. 2702-2711). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/208033/
 
-Moudgalya, S. K., & **Staudt Willet**, K. B. (2019, March). Communities and clusters: User interactions in an online discussion forum for computer science education. In K. Graziano (Ed.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2019* (pp. 2291-2298). Las Vegas, NV: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/207968/
+Moudgalya, S. K., & **Staudt Willet**, K. B. (2019, March). Communities and clusters: User interactions in an online discussion forum for computer science education. In K. Graziano (Ed.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2019* (pp. 2291-2298). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/207968/
 
-**Staudt Willet**, K. B. (2019, March). #Edchat is bigger, but better only for some: Revisiting how and why educators use Twitter. In K. Graziano (Ed.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2019* (pp. 2778-2786). Las Vegas, NV: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/208039/
+**Staudt Willet**, K. B. (2019, March). #Edchat is bigger, but better only for some: Revisiting how and why educators use Twitter. In K. Graziano (Ed.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2019* (pp. 2778-2786). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/208039/
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (2019, March). Educators on the front page of the Internet: Education-related subreddits as learning spaces. In K. Graziano (Ed.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2019* (pp. 2787-2795). Las Vegas, NV: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/208040/
+**Staudt Willet**, K. B., & Carpenter, J. P. (2019, March). Educators on the front page of the Internet: Education-related subreddits as learning spaces. In K. Graziano (Ed.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2019* (pp. 2787-2795). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/208040/
 
-**Staudt Willet**, K. B., & Willet, B. D. (2018, October). Look who’s talking: Using human coding to establish a machine learning approach to Twitter education chats. In *AoIR selected papers of internet research*. Montreal, QB, Canada: Association of Internet Researchers. Retrieved from https://spir.aoir.org/ojs/index.php/spir/article/view/10512
+**Staudt Willet**, K. B., & Willet, B. D. (2018, October). Look who’s talking: Using human coding to establish a machine learning approach to Twitter education chats. In *AoIR selected papers of internet research*. Association of Internet Researchers. https://spir.aoir.org/ojs/index.php/spir/article/view/10512
 
-**Staudt Willet**, K. B., & Reimer, P. N. (2018, March). The career you save may be your own: Exploring the mathtwitterblogosphere as a community of practice. In E. Langran & J. Borup (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2018* (pp. 2324-2329). Washington, DC: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/182845/
+**Staudt Willet**, K. B., & Reimer, P. N. (2018, March). The career you save may be your own: Exploring the mathtwitterblogosphere as a community of practice. In E. Langran & J. Borup (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2018* (pp. 2324-2329). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/182845/
 
-**Staudt Willet**, K. B., Moudgalya, S., Boltz, L. O., Greenhalgh, S. P., & Koehler, M. J. (2018, March). Back to the gaming board: Understanding games and education through board game reviews. In E. Langran & J. Borup (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2018* (pp. 495-503). Washington, DC: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/182570/
+**Staudt Willet**, K. B., Moudgalya, S., Boltz, L. O., Greenhalgh, S. P., & Koehler, M. J. (2018, March). Back to the gaming board: Understanding games and education through board game reviews. In E. Langran & J. Borup (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2018* (pp. 495-503). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/182570/
 
-Greenhow, C., Marich, H., & **Staudt Willet**, K .B. (2017, March). Social scholars: Re-envisioning graduate education in the age of social media. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 856-861). Austin, TX: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/177363/
+Greenhow, C., Marich, H., & **Staudt Willet**, K .B. (2017, March). Social scholars: Re-envisioning graduate education in the age of social media. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 856-861). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/177363/
 
-Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler, M. (2017, March). A tale of two Twitters: Synchronous and asynchronous use of the same hashtag. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 283-286). Austin, TX: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/177856/
+Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler, M. (2017, March). A tale of two Twitters: Synchronous and asynchronous use of the same hashtag. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 283-286). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/177856/
 
-**Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017, March). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 1823-1830). Austin, TX: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/177469/
+**Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017, March). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 1823-1830). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/177469/
 
 ### Peer-Reviewed Conference Presentations (23)
 
