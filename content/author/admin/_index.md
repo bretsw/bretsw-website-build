@@ -34,12 +34,12 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD candidate in Educational Psychology & Educational Technology"
+  course = "Ph.D. candidate in Educational Psychology & Educational Technology"
   institution = "Michigan State University"
   year = "2020 (expected)"
 
 [[education.courses]]
-  course = "MA in Educational Technology"
+  course = "M.A. in Educational Technology"
   institution = "Michigan State University"
   year = 2015
 
@@ -49,7 +49,7 @@ interests = [
   year = 2014
 
 [[education.courses]]
-  course = "BA in Mathematics & Sociology"
+  course = "B.A. in Mathematics & Sociology"
   institution = "Bucknell University"
   year = 2003
 
@@ -124,7 +124,7 @@ I have written more extensively about my [research agenda](post/research-stateme
 
 ![Bret's teaching](/img/bretsw-pic3.jpg)
 
-I have ten publications in peer-reviewed academic journals, I have won three Best-Paper Awards from the Society for Information Technology and Teacher Education (SITE), and my work was selected as Featured Research for the Association for Educational Communications & Technology's (AECT) 2020 convention. I currently serve as the Co-chair of SITE's Social Media SIG and Secretary of AECT's Research & Theory Division. In 2019 I received a [Disciplinary Leadership Award](https://grad.msu.edu/cogs) from Michigan State's Council of Graduate Students, and in 2020 I was awarded the [Clifford E. Erickson Memorial Fund Scholarship](https://education.msu.edu/resources/financial/scholarships/clifford/) from Michigan State's College of Education.
+I have 11 publications in peer-reviewed academic journals, I have won three Best-Paper Awards from the Society for Information Technology and Teacher Education (SITE), and my work was selected as Featured Research for the Association for Educational Communications & Technology's (AECT) 2020 convention. I currently serve as the Co-chair of SITE's Social Media SIG and Secretary of AECT's Research & Theory Division. In 2019 I received a [Disciplinary Leadership Award](https://grad.msu.edu/cogs) from Michigan State's Council of Graduate Students, and in 2020 I was awarded the [Clifford E. Erickson Memorial Fund Scholarship](https://education.msu.edu/resources/financial/scholarships/clifford/) from Michigan State's College of Education.
 
 I hold a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/) and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](http://education.msu.edu/academics/graduate-specializations-certificates/#online-teaching-learning), as well as a course to help undergraduate preservice teachers think critically about using technology for teaching and learning. Finally, since June 2020, I have been serving as the Executive Coach for [Black in Gaming](blackingaming.com/), an organization seeking to normalize Black cultural identification in the video game industry.
 

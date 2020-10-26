@@ -39,7 +39,7 @@ caption = ""
 
 # K. Bret Staudt Willet  
 
-**PhD Candidate, Michigan State University**
+**Ph.D. Candidate, Michigan State University**
 
 [Email](mailto:bret@bretsw.com) - 
 [Twitter](https://twitter.com/bretsw) - 
@@ -58,7 +58,7 @@ caption = ""
 
 ### Michigan State University
 
-**PhD**, Educational Psychology & Educational Technology (Expected October 2020)
+**Ph.D.**, Educational Psychology & Educational Technology (Expected October 2020)
 
 * Dissertation: *Into the edu-verse: New teachers seeking induction support on social media*
 * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond
@@ -66,12 +66,12 @@ caption = ""
   * [View slides](https://bretsw.github.io/dissertation-proposal/)
   * [Read proposal](https://bretsw.github.io/dissertation-proposal-text/)
 
-**MA**, Educational Technology (2015)  
+**M.A.**, Educational Technology (2015)  
 **Graduate Certificate**, Serious Game Design and Research (2014)
 
 ### Bucknell University
 
-**BA**, Mathematics & Sociology (2003)
+**B.A.**, Mathematics & Sociology (2003)
 
 ---
 
@@ -99,7 +99,9 @@ Society for Information Technology & Teacher Education (SITE) International Conf
 
 ## Research
 
-### Peer-Reviewed Journal Articles (10)
+### Peer-Reviewed Journal Articles (11)
+
+**Staudt Willet**, K. B., & Carpenter, J. P. (in press). A tale of two subreddits: Change and continuity in teaching-related online spaces. *British Journal of Educational Technology*.
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers and Education, 148*, 103809. https://doi.org/10.1016/j.compedu.2020.103809
 
@@ -125,7 +127,7 @@ Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Edu
 
 **Staudt Willet**, K. B. (in press). The hashtag-thread mashup: Differences in Twitter #Edchat replies. In D. C. Gibson & M. N. Ochoa (Eds.), *Research highlights in technology and teacher education 2020*. Association for the Advancement of Computing in Education (AACE). [Invited revision of conference presentation in an edited book]
 
-Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (in press). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology*. Routledge.
+Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (2021). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology*. Routledge.
 
 Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2020). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke & M. H. Mallette (Eds.), *Literacy research methodologies* (3rd ed.). Guilford. 
 
@@ -279,9 +281,11 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 * Students playfully explore Google Apps, course management systems, screencasting tools, and file management systems.
 * The semester-long project is to design a curriculum for an *online course module* consisting of 3-5 interconnected lessons, which may include training sessions or non-traditional courses.
 
-### Instructional Activities & Workshops (14)
+### Instructional Activities & Workshops (15)
 
-**Staudt Willet**, K. B. (2020, October). *Welcome to the good place?: Teachers' networked learning on social media* [Guest lecture for Master's course]. Teaching with Technology, Manhattanville College, Purchase, NY. https://bretsw.github.io/manhattanville-lecture/
+**Staudt Willet**, K. B. (2020, October). *You are stronger than you think: Insights for academic publishing* [Guest lecture for doctoral course]. CEP 956: Mind, Media and Learning, Michigan State University: East Lansing, MI. https://bretsw.github.io/publishing-lecture
+
+**Staudt Willet**, K. B. (2020, October). *Welcome to the good place?: Teachers' networked learning on social media* [Guest lecture for Master's course]. Teaching with Technology, Manhattanville College, Purchase, NY. https://bretsw.github.io/manhattanville-lecture
 
 Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefaniak, J., Tiwari, S., Koehler, M., Rosenberg, J., **Staudt Willet**, K. B., Lockee, B., Zimmerman, H., Pérez-Edgar, K., Grant, M. M., & Ari, F. (2020, November). *Let’s talk about research methods: Where are we today?* [Panel]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
