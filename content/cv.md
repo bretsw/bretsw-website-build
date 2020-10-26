@@ -99,9 +99,11 @@ Society for Information Technology & Teacher Education (SITE) International Conf
 
 ## Research
 
-### Peer-Reviewed Journal Articles (11)
+### Peer-Reviewed Journal Articles (12)
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (in press). A tale of two subreddits: Change and continuity in teaching-related online spaces. *British Journal of Educational Technology*.
+
+Rosenberg, J. M., & **Staudt Willet**, K. B. (in press). Balancing participants’ privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research and Development*.
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers and Education, 148*, 103809. https://doi.org/10.1016/j.compedu.2020.103809
 
