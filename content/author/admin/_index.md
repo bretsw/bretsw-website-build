@@ -24,9 +24,10 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
    "Networked Learning",
-   "Learning Analytics",
    "Online Communities",
-   "Social Media"
+   "Social Media",
+   "Educational Data Mining",
+   "Learning Analytics"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -121,19 +122,19 @@ interests = [
 
 I am a Ph.D. candidate in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) at Michigan State University. My work is interdisciplinary. I research *networked learning* at the intersection of instructional technology, educational psychology, and information science. My scholarship investigates *learning  analytics* of the ways people connect, participate, and learn in and through the novel social and environmental conditions afforded by the Internet. Specifically, I explore how social media platforms support online learning communities. 
 
-I have written more extensively about my [research agenda](post/research-statement), [teaching philosophy](post/teaching-statement), and [diversity beliefs](post/diversity-statement) in dedicated posts.
-
-![Bret's teaching](/img/bretsw-pic3.jpg)
-
 I have 12 publications in peer-reviewed academic journals, I have won three Best-Paper Awards from the Society for Information Technology and Teacher Education (SITE), and my work was selected as Featured Research for the Association for Educational Communications & Technology's (AECT) 2020 convention. 
+
+I have written more extensively about my [research agenda](post/research-statement), [teaching philosophy](post/teaching-statement), and [diversity beliefs](post/diversity-statement) in dedicated posts.
 
 I currently serve as the Co-chair of SITE's Social Media SIG and Secretary of AECT's Research & Theory Division. In 2019 I received a [Disciplinary Leadership Award](https://grad.msu.edu/cogs) from Michigan State's Council of Graduate Students, and in 2020 I was awarded the [Clifford E. Erickson Memorial Fund Scholarship](https://education.msu.edu/resources/financial/scholarships/clifford/) from Michigan State's College of Education.
 
+Since June 2020, I have been serving as the Executive Coach for [Black in Gaming](http://www.blackingaming.org), an organization seeking to normalize Black cultural identification in the video game industry through advocacy, education, and entrepreneurial initiatives.
+
 I hold a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/) and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](http://education.msu.edu/academics/graduate-specializations-certificates/#online-teaching-learning), as well as a course to help undergraduate preservice teachers think critically about using technology for teaching and learning. 
 
-Finally, since June 2020, I have been serving as the Executive Coach for [Black in Gaming](http://www.blackingaming.org), an organization seeking to normalize Black cultural identification in the video game industry through advocacy, education, and entrepreneurial initiatives.
+Even reflecting on this list of things I've done, I still consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
 
-Even in light of this long list of things I've done, I still consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
+![Bret's teaching](/img/bretsw-pic3.jpg)
 
 ---
 

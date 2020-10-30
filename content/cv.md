@@ -54,13 +54,33 @@ caption = ""
 
 ---
 
+## Interests
+
+**Networked Learning, as understood through:**
+
+* **Online communities:** communities of practice, professional learning networks
+* **Social media modalities:** online learning environments, affinity spaces, learning ecologies
+* **Educational data mining:** digital traces, big data
+* **Learning analytics:** social network analysis, discourse analysis, natural language processing
+
+**Projects:**
+
+* Educational Twitter Hashtags
+* Teaching-Related Subreddits
+* New Teachers' Social Media Use During Induction
+* Social Scholarship
+* Data Science in Education
+
+---
+
 ## Education
 
 ### Michigan State University
 
-**Ph.D.**, Educational Psychology & Educational Technology (Expected October 2020)
+**Ph.D.**, Educational Psychology & Educational Technology (Expected 2020)
 
 * Dissertation: *Into the edu-verse: New teachers seeking induction support on social media*
+  * [Read abbreviated findings](https://bretsw.github.io/eduverse-themes/)
 * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond
 * Defended proposal: November 26, 2019
   * [View slides](https://bretsw.github.io/dissertation-proposal/)
@@ -101,9 +121,9 @@ Society for Information Technology & Teacher Education (SITE) International Conf
 
 ### Peer-Reviewed Journal Articles (12)
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (in press). A tale of two subreddits: Change and continuity in teaching-related online spaces. *British Journal of Educational Technology*.
+**Staudt Willet**, K. B., & Carpenter, J. P. (in press). A tale of two subreddits: Change and continuity in teaching-related online spaces. *British Journal of Educational Technology*. https://doi.org/10.1111/bjet.13051
 
-Rosenberg, J. M., & **Staudt Willet**, K. B. (in press). Balancing participants’ privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research and Development*.
+Rosenberg, J. M., & **Staudt Willet**, K. B. (in press). Balancing privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research and Development*.
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers and Education, 148*, 103809. https://doi.org/10.1016/j.compedu.2020.103809
 
@@ -257,7 +277,7 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 
 ## Teaching
 
-### Courses Taught (4)
+### Courses Taught
 
 **Teaching & Learning with Technology** (Undergraduate, online, 6x, 2017-present)
 
@@ -315,7 +335,7 @@ Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefan
 
 * Graduate mentor, *Undergraduate course instruction* (Madison Allen, MSU) - 2020
 * Graduate mentor, *Master's course instruction* (William Bork, MSU) - 2019-2020
-* Peer reviewer, *National Science Foundation (NSF) grant proposal* (Dr. Joshua Rosenberg, University of Tennessee, Knoxville) - 2019
+* Peer reviewer, *NSF grant proposal* (Dr. Josh Rosenberg, Univ. of Tennessee, Knoxville) - 2019
 * Doctoral student member, *Research apprenticeship practicum committee* (Sarah Galvin, MSU) - 2018-2019
 * Graduate mentor, *Undergraduate course instruction* (Matthew Drazin, MSU) - 2018-2019
 * Data analyst, *Social network analysis for doctoral project* (Katie Schenkel, MSU) - 2018
@@ -372,24 +392,24 @@ Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefan
 
 ## Professional Experience
 
-**Graduate Assistant/Instructor** (2017-present)  
+**Executive Coach** (2020-present)  
+Black in Gaming - United States
+
+* Trained and mentored members of the core leadership team
+* Designed and implemented strategy for organizational culture and collaboration through remote and asynchronous work
+
+**Graduate Assistant/Instructor** (2017-2020)  
 Michigan State University, College of Education - East Lansing MI  
 Department of Counseling, Educational Psychology, & Special Education  
 
 * Taught courses at Master's and Undergraduate levels
-
-**Executive Coach** (2020-present)  
-Black in Gaming - United States  
-http://www.blackingaming.com/
-
-* Trained and mentored members of the core leadership team
-* Designed and implemented strategy for organizational culture and collaboration through remote and asynchronous work
+* Mentored less experienced teaching assistants
 
 **Course Writer** (2019)  
 Concordia University, College of Education - Portland OR  
 Educational Technology and Learning Design program  
 
-* Wrote and designed all materials for a new Master's-level course: The Evolving Landscape of Educational Technology
+* Wrote and designed all materials for a new Master's-level course: *The Evolving Landscape of Educational Technology*
 
 **Founding National Director, Ministry in Digital Spaces** (2014-2017)  
 InterVarsity Christian Fellowship/USA - United States  

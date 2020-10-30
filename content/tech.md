@@ -74,6 +74,7 @@ caption = ""
 * [GitHub](https://github.com/) for sharing code
 * [Open Science Framework](https://osf.io/) for sharing data
 * [xaringan](https://github.com/yihui/xaringan/wiki) R package for creating presentation slides
+* [Overleaf](https://www.overleaf.com) for LaTeX-powered article preprints
 
 ## Keeping track
 
