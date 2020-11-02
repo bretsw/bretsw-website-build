@@ -41,7 +41,7 @@ tags = ["Twitter", "hashtag", "Mormon"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["twitter-hashtags"]
 
 # Links (optional).
 url_pdf = ""

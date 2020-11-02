@@ -30,11 +30,11 @@ summary = ""
 doi = "10.1177/2372732219865290"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Twitter", "purposes", "affinity spaces", "#Edchat"]
+tags = ["social media"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

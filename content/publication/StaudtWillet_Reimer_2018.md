@@ -42,7 +42,7 @@ tags = ["Twitter", "community of practice", "#MTBoS"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["twitter-hashtags"]
 
 # Links (optional).
 url_pdf = "https://bretsw.github.io/files/StaudtWillet_Reimer_2018.pdf"

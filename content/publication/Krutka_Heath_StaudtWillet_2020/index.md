@@ -1,9 +1,8 @@
 +++
-title = "Social Scholarship Revisited: Changing Scholarly Practices in the Age of Social Media"
-date = 2019-03-01T00:00:00
+title = "Foregrounding technoethics: Toward Critical perspectives in technology and teacher education"
+date = 2019-11-03T00:00:00
 
-# Authors.
-authors = ["Christine M. Greenhow", "Benjamin Gleason", "K. Bret Staudt Willet"]
+authors = ["Daniel G. Krutka", "Marie K. Heath", "K. Bret Staudt Willet"]
 
 # Publication type.
 # Legend:
@@ -17,24 +16,24 @@ authors = ["Christine M. Greenhow", "Benjamin Gleason", "K. Bret Staudt Willet"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *British Journal of Educational Technology*"
-publication_short = ""
+publication = "In *Journal of Technology and Teacher Education*"
+publication_short = "In *Journal of Technology and Teacher Education*"
 
 # Abstract.
-abstract = "This conceptual exploration revisits a key question from earlier work (Greenhow & Gleason, 2014): What is scholarship reconsidered in the age of social media? *Social scholarship* is a framework that expanded Boyer's (1990) conceptualization of scholarship to consider how social media affect discovery and research, teaching and learning, integration, and application. This paper critically reflects on how social scholarship continues to evolve in light of changing understandings in the field of educational technology and the role social media play in the academy. We provide recent examples of social scholarship such as altmetrics, interdisciplinary projects, crowdsourced educational technology syllabi and reconsideration of the needs of research participants. Moreover, we share concrete examples of how scholars might enact social scholarship, with what benefits and challenges, and surface new concerns regarding openness, equity, access, literacy, privacy and ethical considerations. Our paper concludes with recommendations for preparing scholars to enact social scholarship while mitigating the challenges it poses."
+abstract = "The Teacher Educator Technology Competencies (TETCs) were created to help all teacher educators support teacher candidates as they prepare to become technology-using teachers. The TETCs largely focus on teaching *with* technology. However, one of the 12 competencies, TETC 9, offers an opportunity to delve into teaching *about* technology which might allow for the foregrounding of technoethical issues in everyday classroom uses of technologies. In this article, we offer theoretical critique of epistemological, ontological, and historical commitments that are implicitly or explicitly communicated in TETC 9, but also more broadly in the field, profession, and society. Specifically, we draw attention to commitments to behaviorist learning theories, accountability reform measures, visions of democracy, and the need for diversity or equity in methods and findings. We conclude by offering suggestions for how teacher educators might inquire into technoethical conundrums through ethical, democratic, legal, economic, technological, and pedagogical explorations of technologies."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1111/bjet.12772"
+doi = ""
 
 # Is this a featured publication? (true/false)
 featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["social scholarship", "higher ed", "Twitter"]
+tags = ["educational technology", "technoethics", "critical theory", "teacher education"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -53,7 +52,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://onlinelibrary.wiley.com/doi/abs/10.1111/bjet.12772"
+url_source = "https://learntechlib.org/p/208235/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -64,7 +63,7 @@ math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
+["featured.png"]
  
   # Caption (optional)
   caption = ""  # Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)
@@ -72,7 +71,6 @@ math = false
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
-
 
 # More detail can easily be written below the break using *Markdown* and $\rm \LaTeX$ math code.
 

@@ -30,7 +30,7 @@ summary = ""
 doi = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -42,7 +42,7 @@ tags = ["social scholarship", "higher ed", "Twitter"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["social-scholarship"]
 
 # Links (optional).
 url_pdf = "https://bretsw.github.io/files/Greenhow_Gleason_Marich_StaudtWillet_2017.pdf"

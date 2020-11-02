@@ -29,7 +29,7 @@ summary = ""
 doi = "10.1007/s11528-019-00466-3"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -41,7 +41,7 @@ tags = ["Twitter", "spam", "methods"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["twitter-hashtags"]
 
 # Links (optional).
 url_pdf = ""

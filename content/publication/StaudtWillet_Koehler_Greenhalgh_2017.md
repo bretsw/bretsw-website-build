@@ -42,7 +42,7 @@ tags = ["Twitter", "frame", "#Edchat"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["twitter-hashtags"]
 
 # Links (optional).
 url_pdf = "https://bretsw.github.io/files/StaudtWillet_Koehler_Greenhalgh_2017.pdf"

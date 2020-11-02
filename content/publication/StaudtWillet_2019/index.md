@@ -33,7 +33,7 @@ doi = "10.1080/15391523.2019.1611507"
 featured = true
 
 # Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+#   Set `tags = []` for no tags
 tags = ["Twitter", "hashtag", "affinity space", "social media", "teacher"]
 
 # Projects (optional).
@@ -42,7 +42,7 @@ tags = ["Twitter", "hashtag", "affinity space", "social media", "teacher"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["twitter-hashtags"]
 
 # Links (optional).
 url_pdf = ""
@@ -64,7 +64,7 @@ math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
+["featured.png"]
  
   # Caption (optional)
   caption = ""  # Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)

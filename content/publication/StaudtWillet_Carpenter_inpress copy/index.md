@@ -1,6 +1,6 @@
 +++
-title = "Teachers on Reddit? Exploring Contributions and Interactions in Four Teaching-Related Subreddits"
-date = 2020-02-05T00:00:00
+title = "A Tale of Two Subreddits: Change and Continuity in Teaching-Related Online Spaces"
+date = 2020-10-26T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["K. Bret Staudt Willet", "Jeffrey P. Carpenter"]
@@ -17,24 +17,24 @@ authors = ["K. Bret Staudt Willet", "Jeffrey P. Carpenter"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Research on Technology in Education*"
+publication = "In *British Journal of Educational Technology*"
 publication_short = ""
 
 # Abstract.
-abstract = "The website Reddit has received scant attention from educational researchers despite the presence of numerous teaching-related subreddits that host thousands of threaded conversations. The purpose of this study was to provide an initial comparison of discussions occurring in several different affinity spaces on Reddit. Because of the lack of relevant prior research, there was no baseline for what to expect in Reddit discussions, so all posts and responses in four different teaching-related subreddits over the course of a full year were analyzed to answer three research questions: How much did individuals contribute to different subreddits? What content interactions occurred in different subreddits? What social interactions occurred in different subreddits? Comparative quantitative analysis revealed substantial differences among the subreddits in terms of levels of voting and network characteristics. Results suggest that Reddit hosts diverse spaces that could present benefits and challenges for educators. These findings are addressed in relation to the extant literature and implications for educational practice and future research."
+abstract = "Despite social media’s ubiquity in modern life, research on some topics related to educators’ use of social media for professional purposes remains underdeveloped, such as how use may change over time. This study explores educators’ self-directed learning through social media by comparing change and continuity in how users contribute, interact, and converse in two teaching-related subreddits, r/Teachers and r/education. More than a million Reddit contributions spanning three-and-a-half years comprise the dataset: 696,660 contributions to r/Teachers from 55,148 users and 339,618 contributions to r/education from 43,711 users. Learning ecology and affinity space concepts frame multiple methods of analysis, including quantitative measures of individual contributions, content interactions, and social interactions, as well as qualitative content analysis of top posts and responses. Findings are discussed in light of the literature as change and continuity in Redditors’ participation patterns in the two subreddits suggest distinct spaces for distinct purposes. This study offers a starting point for further work to understand the opportunities and challenges of self-directed learning in open and complex social media spaces."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1080/15391523.2020.1722978"
+doi = "10.1111/bjet.13051"
 
 # Is this a featured publication? (true/false)
 featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["social media", "educators", "affinity spaces", "social network analysis", "online discussion forums", "Reddit"]
+tags = ["educators", "teachers", "self-directed learning", "learning ecologies", "affinity spaces", "social media", "online discussion forum", "Reddit"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -42,7 +42,7 @@ tags = ["social media", "educators", "affinity spaces", "social network analysis
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["teaching-subreddits"]
 
 # Links (optional).
 url_pdf = ""
@@ -53,7 +53,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.tandfonline.com/doi/abs/10.1080/15391523.2020.1722978?journalCode=ujrt20"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -64,7 +64,7 @@ math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
+["featured.png"]
  
   # Caption (optional)
   caption = ""  # Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)

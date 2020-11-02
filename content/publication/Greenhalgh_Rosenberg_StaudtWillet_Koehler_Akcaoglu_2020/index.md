@@ -42,7 +42,7 @@ tags = ["social media", "teacher professional learning", "Twitter"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["twitter-hashtags"]
 
 # Links (optional).
 url_pdf = ""
@@ -64,7 +64,7 @@ math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
+["featured.png"]
  
   # Caption (optional)
   caption = ""  # Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)
