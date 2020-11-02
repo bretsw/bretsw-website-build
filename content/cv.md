@@ -189,7 +189,11 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017, March). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 1823-1830). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/177469/
 
-### Peer-Reviewed Conference Presentations (23)
+### Peer-Reviewed Conference Presentations (25)
+
+Carpenter, J. P., & **Staudt Willet**, K. B. (2021, April). *Self-directed educator learning on Reddit: Comparing and contrasting two teaching-related subreddits* [Paper session]. American Educational Research Association (AERA) Annual Meeting 2021, Online.
+
+**Staudt Willet**, K. B., Galvin, S., & Greenhow, C. M. (2021, April). Flexible professional learning networks: Teachers turn to #Edchat during pandemic-disrupted education. In M. Rehm, K. Frank, & K. Torphy (Chairs), *Social opportunity spaces: How social media can inform / shape educational policy processes* [Symposium]. American Educational Research Association (AERA) Annual Meeting 2021, Online.
 
 **Staudt Willet**, K. B. (2020, November). *Into the edu-verse: New teachers’ challenges, supports, and social media*. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 

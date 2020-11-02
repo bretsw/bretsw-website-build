@@ -120,19 +120,23 @@ interests = [
 [*Read my CV*](cv/), 
 {{% staticref "files/cv.pdf" %}}download a PDF copy{{% /staticref %}}, or {{% staticref "files/resume.pdf" %}}download a two-page resume version{{% /staticref %}}.
 
-I am a Ph.D. candidate in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) at Michigan State University. My work is interdisciplinary. I research *networked learning* at the intersection of instructional technology, educational psychology, and information science. My scholarship investigates *learning  analytics* of the ways people connect, participate, and learn in and through the novel social and environmental conditions afforded by the Internet. Specifically, I explore how social media platforms support online learning communities. 
+I am a Ph.D. candidate in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) at Michigan State University. I hold a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/) and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
 
-I have 12 publications in peer-reviewed academic journals, I have won three Best-Paper Awards from the Society for Information Technology and Teacher Education (SITE), and my work was selected as Featured Research for the Association for Educational Communications & Technology's (AECT) 2020 convention. 
+I have written more extensively about my [research agenda](post/research-statement), [teaching philosophy](post/teaching-statement), and [diversity beliefs](post/diversity-statement) in dedicated posts, but I do offer brief introductions to my research, teaching, and service here.
 
-I have written more extensively about my [research agenda](post/research-statement), [teaching philosophy](post/teaching-statement), and [diversity beliefs](post/diversity-statement) in dedicated posts.
+## Research
+
+I research *networked learning* in online communities. Specifically, I explore issues of agency in navigating the learning ecologies afforded by social media. I use educational data mining and learning analytics approaches to understand the ways people participate in the novel online learning environments afforded by the Internet. My work has been disseminated through 12 peer-reviewed academic journal articles, 6 edited book  chapters, and 39 conference presentations.
+
+## Teaching
+
+I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](http://education.msu.edu/academics/graduate-specializations-certificates/#online-teaching-learning), as well as a course to help undergraduate preservice teachers think critically about using technology for teaching and learning. I facilitate student learning through semester-long projects that incorporate multiple modalities and the affordances of emerging instructional technologies to support student engagement, critical reflection, and networked learning.
+
+## Service
 
 I currently serve as the Co-chair of SITE's Social Media SIG and Secretary of AECT's Research & Theory Division. In 2019 I received a [Disciplinary Leadership Award](https://grad.msu.edu/cogs) from Michigan State's Council of Graduate Students, and in 2020 I was awarded the [Clifford E. Erickson Memorial Fund Scholarship](https://education.msu.edu/resources/financial/scholarships/clifford/) from Michigan State's College of Education.
 
-Since June 2020, I have been serving as the Executive Coach for [Black in Gaming](http://www.blackingaming.org), an organization seeking to normalize Black cultural identification in the video game industry through advocacy, education, and entrepreneurial initiatives.
-
-I hold a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/) and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](http://education.msu.edu/academics/graduate-specializations-certificates/#online-teaching-learning), as well as a course to help undergraduate preservice teachers think critically about using technology for teaching and learning. 
-
-Even reflecting on this list of things I've done, I still consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
+Since June 2020, I have been serving as the Executive Coach for [Black in Gaming](http://www.blackingaming.org). This organization seeks to normalize Black cultural identification in the video game industry through advocacy, entrepreneurship, and education initiatives.
 
 ![Bret's teaching](/img/bretsw-pic3.jpg)
 

@@ -1,5 +1,5 @@
 +++
-title = "Foregrounding technoethics: Toward Critical perspectives in technology and teacher education"
+title = "Foregrounding Technoethics: Toward Critical Perspectives in Technology and Teacher Education"
 date = 2019-11-03T00:00:00
 
 authors = ["Daniel G. Krutka", "Marie K. Heath", "K. Bret Staudt Willet"]

@@ -1,5 +1,5 @@
 +++
-title = "Identifying multiple learning spaces within a single teacher-focused Twitter hashtag"
+title = "Identifying Multiple Learning Spaces Within a Single Teacher-Focused Twitter Hashtag"
 date = 2020-01-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
