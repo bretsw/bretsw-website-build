@@ -42,7 +42,7 @@ tags = ["data science", "education", "open science", "privacy", "pandemic", "COV
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["teaching-subreddits"]
+projects = ["data-science-in-ed"]
 
 # Links (optional).
 url_pdf = ""
@@ -77,4 +77,3 @@ math = false
 # More detail can easily be written below the break using *Markdown* and $\rm \LaTeX$ math code.
 
 +++
-
