@@ -16,7 +16,7 @@ role = "Ph.D. Candidate"
 organizations = [ { name = "Michigan State University", url = "http://education.msu.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research focuses on networked learning; specifically, I explore how social media platforms support online communities."
+bio = "I am a Ph.D. candidate in Educational Psychology & Educational Technology at Michigan State University. I research networked learning in online communities, exploring issues of agency in navigating the learning spaces afforded by social media."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -122,21 +122,21 @@ interests = [
 
 I am a Ph.D. candidate in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) at Michigan State University. I hold a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/) and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
 
-I have written more extensively about my [research agenda](post/research-statement), [teaching philosophy](post/teaching-statement), and [diversity beliefs](post/diversity-statement) in dedicated posts, but I do offer brief introductions to my research, teaching, and service here.
+---
+
+I have written more extensively about my [research agenda](post/research-statement), [teaching philosophy](post/teaching-statement), and [diversity beliefs](post/diversity-statement) in dedicated posts, but I offer brief introductions to my research, teaching, and service here.
 
 ## Research
 
-I research *networked learning* in online communities. Specifically, I explore issues of agency in navigating the learning ecologies afforded by social media. I use educational data mining and learning analytics approaches to understand the ways people participate in the novel online learning environments afforded by the Internet. My work has been disseminated through 12 peer-reviewed academic journal articles, 6 edited book  chapters, and 39 conference presentations.
+I research *networked learning* in online communities. Specifically, I explore issues of agency in navigating the learning spaces afforded by social media. I use educational data mining and learning analytics approaches to understand the ways people participate in these novel, often informal, online learning environments. My work has been disseminated through 12 peer-reviewed academic journal articles, 6 edited book  chapters, and 39 conference presentations.
 
 ## Teaching
 
-I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](http://education.msu.edu/academics/graduate-specializations-certificates/#online-teaching-learning), as well as a course to help undergraduate preservice teachers think critically about using technology for teaching and learning. I facilitate student learning through semester-long projects that incorporate multiple modalities and the affordances of emerging instructional technologies to support student engagement, critical reflection, and networked learning.
+I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](http://education.msu.edu/academics/graduate-specializations-certificates/#online-teaching-learning), as well as a course to help undergraduate preservice teachers think critically about using technology for teaching and learning.
 
 ## Service
 
-I currently serve as the Co-chair of SITE's Social Media SIG and Secretary of AECT's Research & Theory Division. In 2019 I received a [Disciplinary Leadership Award](https://grad.msu.edu/cogs) from Michigan State's Council of Graduate Students, and in 2020 I was awarded the [Clifford E. Erickson Memorial Fund Scholarship](https://education.msu.edu/resources/financial/scholarships/clifford/) from Michigan State's College of Education.
-
-Since June 2020, I have been serving as the Executive Coach for [Black in Gaming](http://www.blackingaming.org). This organization seeks to normalize Black cultural identification in the video game industry through advocacy, entrepreneurship, and education initiatives.
+I currently serve as Communications Officer of AECT's Research & Theory Division (2020-21) and Co-chair of SITE's Social Media SIG (2019-21). Since June 2020, I have been serving as the Executive Coach for [Black in Gaming](http://www.blackingaming.org). In 2019 I received a [Disciplinary Leadership Award](https://grad.msu.edu/2019-20-cogs-disciplinary-leadership-award-recipients) from Michigan State University.
 
 ![Bret's teaching](/img/bretsw-pic3.jpg)
 

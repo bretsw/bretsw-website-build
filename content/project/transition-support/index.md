@@ -42,28 +42,38 @@ url_code = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
+  
 +++
 
 ## Introduction
 
 New teachers face numerous decisions as they transition from teacher preparation into enacting practice (i.e., their induction period). They must reconcile conflicting messages about what and how to teach from the academic world of the preparation program and the practical world of their school of employment. Interviews with new teachers provide evidence of why new teachers seek supports for professional leaning to complement formal induction programs offered by schools and districts. Findings demonstrate how new teachers’ agency is stretched as they navigate the edu-verse, a complex learning ecology of supports accessed locally and through social media.
 
+---
+
 ## Works-in-progress
 
 1. *Into the edu-verse: New teachers seeking induction support on social media*
 
+---
+
 ## Contributions
 
-*See the [Contributor Roles Taxonomy](https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement) (CRediT) from Elsevier for the full list.*
+<i class="fas fa-check"></i> Conceptualization  
+<i class="fas fa-check"></i> Methodology  
+<i class="fas fa-check"></i> Software  
+<i class="fas fa-check"></i> Validation  
+<i class="fas fa-check"></i> Formal analysis  
+<i class="fas fa-check"></i> Investigation  
+<i class="fas fa-check"></i> Resources  
+<i class="fas fa-check"></i> Data curation   
+<i class="fas fa-check"></i> Writing - original draft  
+<i class="fas fa-check"></i> Writing - review & editing  
+<i class="fas fa-check"></i> Visualization  
+<i class="fas fa-times"></i> Supervision  
+<i class="fas fa-check"></i> Project administration  
+<i class="fas fa-check"></i> Funding acquisition 
 
-- Conceptualization
-- Methodology
-- Software
-- Validation
-- Formal analysis
-- Investigation
-- Data curation 
-- Writing - original draft
-- Writing - review & editing
-- Visualization
-- Project administration
+*See the [Contributor Roles Taxonomy](https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement) (CRediT) from Elsevier for full definitions of these terms.*
+
+---

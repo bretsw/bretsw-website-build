@@ -42,9 +42,14 @@ url_code = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
+  
 +++
 
 ## Introduction
+
+Studies of educational uses of Twitter have often noted the inclusion of *hashtags* (i.e., a key word or phrase preceded by the "#" symbol) in tweets to organize conversations. Educational Twitter hashtags may be used as a general topical index (e.g., #education) as well as a marker of planned discussions called Twitter chats (e.g., #Edchat, #michED), which occur both synchronously and asynchronously. These hashtags are used to create both formal and informal leanring spaces, and they may be considered an emergent type of online learning environment.
+
+---
 
 ## Publications
 
@@ -58,19 +63,25 @@ url_code = ""
 1. [tidytags: Simple Collection and Powerful Analysis of Twitter Data](https://bretsw.github.io/tidytags/) [Software: R package]
 1. Online teaching supports and practices during a pandemic: Cases of #Edchat teachers in the United States and Canada
 
+---
+
 ## Contributions
 
-*See the [Contributor Roles Taxonomy](https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement) (CRediT) from Elsevier for the full list.*
+<i class="fas fa-check"></i> Conceptualization  
+<i class="fas fa-check"></i> Methodology  
+<i class="fas fa-check"></i> Software  
+<i class="fas fa-check"></i> Validation  
+<i class="fas fa-check"></i> Formal analysis  
+<i class="fas fa-check"></i> Investigation  
+<i class="fas fa-check"></i> Resources  
+<i class="fas fa-check"></i> Data curation   
+<i class="fas fa-check"></i> Writing - original draft  
+<i class="fas fa-check"></i> Writing - review & editing  
+<i class="fas fa-check"></i> Visualization  
+<i class="fas fa-check"></i> Supervision  
+<i class="fas fa-check"></i> Project administration  
+<i class="fas fa-check"></i> Funding acquisition 
 
-- Conceptualization
-- Methodology
-- Software
-- Validation
-- Formal analysis
-- Investigation
-- Data curation 
-- Writing - original draft
-- Writing - review & editing
-- Visualization
-- Project administration
-- Funding acquisition 
+*See the [Contributor Roles Taxonomy](https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement) (CRediT) from Elsevier for full definitions of these terms.*
+
+---

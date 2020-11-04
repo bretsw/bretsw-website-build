@@ -12,30 +12,7 @@ summary = ""
 image = ""
 caption = ""
 
-# **Bold**
-# *Italic*
-# `Code`
-# ~~strikethrough~~
-
-# ```bash
-# Code block
-# ```
-        
-# [Hyperlink text](https://themes.gohugo.io/theme/academic/)
-# {{< gallery >}}
-
-# - Unordered list item 1
-# - Unordered list item 2
-
-# ## Header 2
-# ### Header 3
-
-# 1. Ordered list item 1
-#    * Indented list item
-# 2. Ordered list item 2
-
 +++
-
 
 # K. Bret Staudt Willet  
 
@@ -56,14 +33,13 @@ caption = ""
 
 ## Interests
 
-**Networked Learning, as understood through:**
+**Networked Learning in Online Communities:**
 
-* **Online communities:** communities of practice, professional learning networks
-* **Social media modalities:** online learning environments, affinity spaces, learning ecologies
-* **Educational data mining:** digital traces, big data
-* **Learning analytics:** social network analysis, discourse analysis, natural language processing
+* *Social media:* online learning environments, affinity spaces, learning ecologies
+* *Educational data mining:* digital traces, big data
+* *Learning analytics:* social network analysis, discourse analysis, natural language processing
 
-**Projects:**
+**Related Projects:**
 
 * Educational Twitter Hashtags
 * Teaching-Related Subreddits
@@ -283,19 +259,19 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 
 ### Courses Taught
 
-**Teaching & Learning with Technology** (Undergraduate, online, 6x, 2017-present)
+**Teaching & Learning with Technology** (Undergraduate, online, 7x, 2017-2020)
 
 * Course topics include design thinking, universal design for learning, media & information literacy, professional learning networks, computational thinking, and play-based learning.
 * Students develop plans for integrating technology in classroom.
 * The semester-long project is to design a professional *online portfolio*.
 
-**Learning Technology by Design** (Master’s, online, 3x, 2018-present)
+**Learning Technology by Design** (Master’s, online, 3x, 2018-2020)
 
 * Course topics include design thinking, the design process (empathize, define, ideate, prototype, test), designing for learners, iterative design. and collaboration in design.
 * Students discuss examples of good and bad designs from everyday life.
 * The semester-long project is to work through one cycle of the design process to address a *problem of practice* from the student’s professional context.
 
-**Electronic Assessment for Teaching and Learning** (Master’s, online, 2x, 2018-present)
+**Electronic Assessment for Teaching and Learning** (Master’s, online, 3x, 2018-2020)
 
 * Course topics include foundational theories of assessment, formative assessment, feedback, and a critical examination of methods for assessment (e.g., portfolios, rubrics, surveys, tests, self-evaluations).
 * Students develop an *assessment design checklist* to use in their own professional practice.

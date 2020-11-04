@@ -42,11 +42,14 @@ url_code = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
+  
 +++
 
 ## Introduction
 
 Data science and learning analytics in education are useful, but we have limited information about the effectiveness or recommendations to guide the design of learning opportunities for professionals working in education. At the same time, we know that, in general, well-designed learning opportunities, even those brief in duration, can improve computational skills. Our purpose is to explore the design and effects of data science workshops for educational researchers. 
+
+---
 
 ## Publications
 
@@ -57,15 +60,25 @@ Data science and learning analytics in education are useful, but we have limited
 1. *The design and effects of data science workshops for educational researchers*
 1. *Who is an educational data scientist?*
 
+---
+
 ## Contributions
 
-*See the [Contributor Roles Taxonomy](https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement) (CRediT) from Elsevier for the full list.*
+<i class="fas fa-check"></i> Conceptualization  
+<i class="fas fa-check"></i> Methodology  
+<i class="fas fa-check"></i> Software  
+<i class="fas fa-check"></i> Validation  
+<i class="fas fa-check"></i> Formal analysis  
+<i class="fas fa-check"></i> Investigation  
+<i class="fas fa-times"></i> Resources  
+<i class="fas fa-times"></i> Data curation   
+<i class="fas fa-check"></i> Writing - original draft  
+<i class="fas fa-check"></i> Writing - review & editing  
+<i class="fas fa-times"></i> Visualization  
+<i class="fas fa-times"></i> Supervision  
+<i class="fas fa-times"></i> Project administration  
+<i class="fas fa-times"></i> Funding acquisition 
 
-- Conceptualization
-- Methodology
-- Software
-- Validation
-- Formal analysis
-- Investigation
-- Writing - original draft
-- Writing - review & editing
+*See the [Contributor Roles Taxonomy](https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement) (CRediT) from Elsevier for full definitions of these terms.*
+
+---
