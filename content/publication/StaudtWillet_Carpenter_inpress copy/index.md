@@ -46,7 +46,7 @@ projects = ["teaching-subreddits"]
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "StaudtWillet_Carpenter_in_press_preprint.pdf"
+url_preprint = "https://bretsw.github.io/files/StaudtWillet_Carpenter_in_press_preprint.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
