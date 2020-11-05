@@ -53,7 +53,7 @@ caption = ""
 
 ### Michigan State University
 
-**Ph.D.**, Educational Psychology & Educational Technology (Expected 2020)
+**Ph.D.**, Educational Psychology & Educational Technology (Expected Spring 2021)
 
 * Dissertation: *Into the edu-verse: New teachers seeking induction support on social media*
   * [Read abbreviated findings](https://bretsw.github.io/eduverse-themes/)
