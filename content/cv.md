@@ -73,22 +73,22 @@ caption = ""
 
 ## Awards
 
-**Clifford E. Erickson Memorial Fund Scholarship** (2020)  
+<i class="fa fa-trophy"></i> **Clifford E. Erickson Memorial Fund Scholarship** (2020)  
 Michigan State University, College of Education - East Lansing MI
 
-**Featured Research** (2020)  
+<i class="fa fa-trophy"></i> **Featured Research** (2020)  
 Association for Educational Communications and Technology (AECT) International Convention - Online
 
-**Outstanding Paper Award** (2020)  
+<i class="fa fa-trophy"></i> **Outstanding Paper Award** (2020)  
 Society for Information Technology & Teacher Education (SITE) International Conference - Online
 
-**Disciplinary Leadership Award** (2019)  
+<i class="fa fa-trophy"></i> **Disciplinary Leadership Award** (2019)  
 Michigan State University, Council of Graduate Students - East Lansing MI
 
-**Outstanding Paper Award** (2019)  
+<i class="fa fa-trophy"></i> **Outstanding Paper Award** (2019)  
 Society for Information Technology & Teacher Education (SITE) International Conference - Las Vegas NV
 
-**Outstanding Paper Award** (2017)  
+<i class="fa fa-trophy"></i> **Outstanding Paper Award** (2017)  
 Society for Information Technology & Teacher Education (SITE) International Conference - Austin TX
 
 ---
@@ -221,37 +221,54 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ## Funding
 
-### TOTAL: $26,675
+### Grants and Fellowships (Funded): $26,675
 
-**Clifford E. Erickson Memorial Fund Scholarship: $5,500** (2020)  
-Michigan State University, College of Education - East Lansing MI
+**Clifford E. Erickson Memorial Fund Scholarship: $5,500 - Funded** (2020)  
+Michigan State University, College of Education
 
-**Student Research Conference Travel Fellowship: $600** (2020)  
-Michigan State University, Dept. of Counseling, Educational Psychology, & Special Ed. - East Lansing MI
+**Student Research Conference Travel Fellowship: $600 - Funded** (2020)  
+Michigan State University, Dept. of Counseling, Educational Psychology, & Special Education
 
-**Research Practicum/Dissertation Development Fellowship: $1,300** (2020)  
-Michigan State University, College of Education - East Lansing MI
+**Research Practicum/Dissertation Development Fellowship: $1,300 - Funded** (2020)  
+Michigan State University, College of Education
 
-**Disciplinary Leadership Award: $2,000** (2019)  
-Michigan State University, Council of Graduate Students - East Lansing MI
+**Disciplinary Leadership Award: $2,000 - Funded** (2019)  
+Michigan State University, Council of Graduate Students
 
-**Research Practicum/Dissertation Development Fellowship: $2,000** (2019)  
-Michigan State University, College of Education - East Lansing MI
+**Research Practicum/Dissertation Development Fellowship: $2,000 - Funded** (2019)  
+Michigan State University, College of Education
 
-**Student Research Conference Travel Fellowship: $1,050** (2019)  
-Michigan State University, Dept. of Counseling, Educational Psychology, & Special Ed. - East Lansing MI
+**Student Research Conference Travel Fellowship: $1,050 - Funded** (2019)  
+Michigan State University, Dept. of Counseling, Educational Psychology, & Special Education
 
-**Summer Research Renewable Fellowship: $12,000** (2018-2019)  
-Michigan State University, College of Education - East Lansing MI
+**Summer Research Renewable Fellowship: $12,000 - Funded** (2018-2019)  
+Michigan State University, College of Education
 
-**Professional Development Award: $500** (2018)  
-Michigan State University, Council of Graduate Students - East Lansing MI
+**Professional Development Award: $500 - Funded** (2018)  
+Michigan State University, Council of Graduate Students
 
-**Student Research Conference Travel Fellowship: $795** (2018)  
-Michigan State University, Dept. of Counseling, Educational Psychology, & Special Ed. - East Lansing MI
+**Student Research Conference Travel Fellowship: $795 - Funded** (2018)  
+Michigan State University, Dept. of Counseling, Educational Psychology, & Special Education
 
-**Student Research Conference Travel Fellowship: $930** (2017)  
-Michigan State University, Dept. of Counseling, Educational Psychology, & Special Ed. - East Lansing MI
+**Student Research Conference Travel Fellowship: $930 - Funded** (2017)  
+Michigan State University, Dept. of Counseling, Educational Psychology, & Special Education
+
+### Grants and Fellowships (Not Funded)
+
+**NAEd/Spencer Dissertation Fellowship: Not Funded** (2020)  
+National Academy of Education + Spencer Foundation
+
+**Dickson Award for Research on Innovative Technologies in Learning: Not Funded** (2019)  
+Michigan State University, College of Education
+
+**Endowed Scholarships: Not Funded** (2019)  
+Michigan State University, College of Education
+
+**Endowed Scholarships: Not Funded** (2018)  
+Michigan State University, College of Education
+
+**Disciplinary Leadership Award: Not Funded** (2017)  
+Michigan State University, Council of Graduate Students
 
 ---
 
