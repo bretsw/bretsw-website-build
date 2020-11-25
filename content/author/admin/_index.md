@@ -56,9 +56,6 @@ interests = [
   year = 2003
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
   icon = "envelope"
@@ -101,17 +98,14 @@ interests = [
   link = "https://orcid.org/0000-0002-6984-416X"
 
 [[social]]
+  icon = "box-open"
+  icon_pack = "fas"
+  link = "https://github.com/bretsw/tidytags"
+
+[[social]]
   icon = "cv"
   icon_pack = "ai"
   link = "cv/"
-
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
 
 +++
 
@@ -128,7 +122,7 @@ I have written more extensively about my [research agenda](post/research-stateme
 
 ## Research
 
-I research *networked learning* in online communities. Specifically, I explore issues of agency in navigating the learning spaces afforded by social media. I use educational data mining and learning analytics approaches to understand the ways people participate in these novel, often informal, online learning environments. My work has been disseminated through 12 peer-reviewed academic journal articles, 6 edited book  chapters, and 39 conference presentations.
+I research *networked learning* in online communities. Specifically, I explore issues of agency in navigating the learning spaces afforded by social media. I use educational data mining and learning analytics approaches to understand the ways people participate in these novel, often informal, online learning environments. My work has been disseminated through 12 peer-reviewed academic journal articles, 6 edited book  chapters, and 39 conference presentations. I developed the [{tidytags}](https://github.com/bretsw/tidytags) R package to assist other researchers in collecting and analyzing Twitter data.
 
 ## Teaching
 
