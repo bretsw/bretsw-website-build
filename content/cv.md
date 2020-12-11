@@ -223,7 +223,10 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ## Funding
 
-### Grants and Fellowships (Funded): $26,675
+### Grants and Fellowships (Funded): $33,675
+
+**Dissertation Completion Fellowship: $7,000 - Funded** (2021)  
+Michigan State University, College of Education
 
 **Clifford E. Erickson Memorial Fund Scholarship: $5,500 - Funded** (2020)  
 Michigan State University, College of Education
