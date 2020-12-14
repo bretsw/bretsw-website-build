@@ -125,11 +125,11 @@ Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Edu
 
 ### Book Chapters (6)
 
-**Staudt Willet**, K. B. (in press). The hashtag-thread mashup: Differences in Twitter #Edchat replies. In D. C. Gibson & M. N. Ochoa (Eds.), *Research highlights in technology and teacher education 2020*. Association for the Advancement of Computing in Education (AACE). [Invited revision of conference presentation in an edited book]
-
 Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (2021). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology* (pp. 64-77). Routledge.
 
 Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2021). Research methods unique to digital contexts: An introduction to virtual ethnography. In N. K. Duke & M. H. Mallette (Eds.), *Literacy research methodologies* (3rd ed., pp. 102-120). Guilford. 
+
+**Staudt Willet**, K. B. (2020). The hashtag-thread mashup: Differences in Twitter #Edchat replies. In D. C. Gibson & M. N. Ochoa (Eds.), *Research highlights in technology and teacher education 2020* (pp. 37-47). Association for the Advancement of Computing in Education (AACE). http://www.learntechlib.com/p/218487/ [Invited revision of conference presentation in an edited book]
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (2019). Educators on the front page of the Internet: Teacher learning in four subreddits. In D. C. Gibson & M. N. Ochoa (Eds.), *Research highlights in technology and teacher education 2019* (pp. 169-178). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/210591/ [Invited revision of conference presentation in an edited book]
 
