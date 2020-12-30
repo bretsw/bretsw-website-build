@@ -71,6 +71,10 @@ In sum, I have substantial teaching and course design experience at the universi
 
 ---
 
+> I believe our instructor, Bret, was one of the most supportive instructors I have ever had. He helped me really grasp formative assessments, a concept I wasn't really familiar with, and provided me with extensive feedback. With Bret's guidance, I felt like I was constantly improving.
+
+---
+
 > Even though this was an online course, Bret was the best professor that I have had at MSU thus far. His class was extremely organized and easy to follow, he was very quick to respond to emails or any questions that I have. He returned grades quickly and always took time to give meaningful feedback for weekly assignments. He even commented on our discussion posts! I was so impressed with this course and this professor.
 
 ---
@@ -92,5 +96,9 @@ In sum, I have substantial teaching and course design experience at the universi
 ---
 
 > I did my MBA online with a few face-to-face classes. Looking through it all, this is the first online course that I really enjoyed. It was online, but hands on and engaging. The students were free to wander and experiment with topics. The tone was interesting and respectful. This is a practice I intend to emulate going forward with teaching online.
+
+---
+
+> This was such a super useful course! I'm not sure how it could be done, but I think it should be either required, or somehow strongly recommended or marketed to other students. Or at least recommended to students with no previous formal teacher training. I can't believe I almost didn't take this course! That would have been a disaster...
 
 ---
