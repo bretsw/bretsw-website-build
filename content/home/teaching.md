@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Online"
   date_start = "2017-09-01"
-  date_end = ""
+  date_end = "2020-12-15"
   description = """
   *Undergraduate course*
   
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company_url = "https://education.msu.edu/cepse/maet/courses/#817"
   location = "Online"
   date_start = "2018-01-01"
-  date_end = ""
+  date_end = "2020-05-15"
   description = """
   *Master's course*
   
@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   company_url = "https://education.msu.edu/cepse/maet/courses/#813"
   location = "Online"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2020-12-15"
   description = """
   *Master's course*
   

@@ -114,7 +114,9 @@ interests = [
 [*Read my CV*](cv/), 
 {{% staticref "files/cv.pdf" %}}download a PDF copy{{% /staticref %}}, or {{% staticref "files/resume.pdf" %}}download a two-page resume version{{% /staticref %}}.
 
-I am a Ph.D. candidate in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) at Michigan State University. I hold a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/) and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
+I am a Ph.D. candidate in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) at Michigan State University. I will start as a tenure-track Assistant Professor of [Instructional Systems & Learning Technologies](https://education.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University in August 2021.
+
+I hold a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/) and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
 
 ---
 
