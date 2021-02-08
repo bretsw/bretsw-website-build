@@ -97,17 +97,17 @@ Society for Information Technology & Teacher Education (SITE) International Conf
 
 ### Peer-Reviewed Journal Articles (13)
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (in press). A tale of two subreddits: Change and continuity in teaching-related online spaces. *British Journal of Educational Technology*. https://doi.org/10.1111/bjet.13051
-
-Rosenberg, J. M., & **Staudt Willet**, K. B. (in press). Balancing privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research and Development*. https://doi.org/10.1007/s11423-020-09860-8
-
-Greenhow, C., Lewin, C., & **Staudt Willet**, K. B. (in press). The educational response to COVID-19 across two countries: A critical examination of initial digital pedagogy adoption. *Technology, Pedagogy and Education.* https://doi.org/10.1080/1475939X.2020.1866654
+Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2020). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends, 64*, 460-469. https://doi.org/10.1007/s11528-019-00466-3
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers and Education, 148*, 103809. https://doi.org/10.1016/j.compedu.2020.103809
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (2020). Teachers on Reddit? Exploring contributions and interactions in four teaching-related subreddits. *Journal of Research on Technology in Education, 52*, 216-233. https://doi.org/10.1080/15391523.2020.1722978
+Greenhow, C., Lewin, C., & **Staudt Willet**, K. B. (2020). The educational response to COVID-19 across two countries: A critical examination of initial digital pedagogy adoption. *Technology, Pedagogy and Education.* https://doi.org/10.1080/1475939X.2020.1866654
 
-Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2020). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends, 64*, 460-469. https://doi.org/10.1007/s11528-019-00466-3
+Rosenberg, J. M., & **Staudt Willet**, K. B. (2020). Balancing privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research and Development*. https://doi.org/10.1007/s11423-020-09860-8
+
+**Staudt Willet**, K. B., & Carpenter, J. P. (2020a). Teachers on Reddit? Exploring contributions and interactions in four teaching-related subreddits. *Journal of Research on Technology in Education, 52*, 216-233. https://doi.org/10.1080/15391523.2020.1722978
+
+**Staudt Willet**, K. B., & Carpenter, J. P. (2020b). A tale of two subreddits: Change and continuity in teaching-related online spaces. *British Journal of Educational Technology*. https://doi.org/10.1111/bjet.13051
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (2019). Approaches to Mormon identity and practice in the #ldsconf Twitter hashtag. *Journal of Media and Religion, 18*(4), 122-133. https://doi.org/10.1080/15348423.2019.1696121
 
