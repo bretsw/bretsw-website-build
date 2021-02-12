@@ -95,7 +95,9 @@ Society for Information Technology & Teacher Education (SITE) International Conf
 
 ## Research
 
-### Peer-Reviewed Journal Articles (13)
+### Peer-Reviewed Journal Articles (14)
+
+Greenhow, C. M., **Staudt Willet**, K. B., & Galvin, S. (accepted). Inquiring tweets want to know: #Edchat supports for #RemoteTeaching during COVID-19. *British Journal of Educational Technology*.
 
 Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2020). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends, 64*, 460-469. https://doi.org/10.1007/s11528-019-00466-3
 

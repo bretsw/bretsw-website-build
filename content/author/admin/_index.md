@@ -124,7 +124,7 @@ I have written more extensively about my [research agenda](post/research-stateme
 
 ## Research
 
-I research *networked learning* in online communities. Specifically, I explore issues of agency in navigating the learning spaces afforded by social media. I use educational data mining and learning analytics approaches to understand the ways people participate in these novel, often informal, online learning environments. My work has been disseminated through 13 peer-reviewed academic journal articles, 6 edited book  chapters, and 39 conference presentations. I developed the [{tidytags}](https://github.com/bretsw/tidytags) R package to assist other researchers in collecting and analyzing Twitter data.
+I research *networked learning* in online communities. Specifically, I explore issues of agency in navigating the learning spaces afforded by social media. I use educational data mining and learning analytics approaches to understand the ways people participate in these novel, often informal, online learning environments. My work has been disseminated through 14 peer-reviewed academic journal articles, 6 edited book  chapters, and 39 conference presentations. I developed the [{tidytags}](https://github.com/bretsw/tidytags) R package to assist other researchers in collecting and analyzing Twitter data.
 
 ## Teaching
 
