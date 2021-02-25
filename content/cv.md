@@ -139,7 +139,9 @@ Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2021). Research methods
 
 **Staudt Willet**, K. B., Koehler, M.J., & Greenhalgh, S. P. (2017). A tweet by any other frame: Comparing three theoretical frameworks for studying educator interactions on Twitter. In L. Liu & D. Gibson (Eds.), *Research highlights in technology and teacher education 2017* (pp. 63-70). Association for the Advancement of Computing in Education (AACE). http://www.learntechlib.org/p/180960/ [Invited revision of conference presentation in edited book]
 
-### Peer-Reviewed Conference Proceedings (14)
+### Peer-Reviewed Conference Proceedings (15)
+
+**Staudt Willet**, K. B., Greenhow, C., & Lewin, C. (2021, March). Tweeting across the pond: COVID-19 emergency learning networks in the United Kingdom and the United States through Twitter #Edchat. In *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2021*. Association for the Advancement of Computing in Education (AACE).
 
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (2020, April). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action*. Paper presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020, New Orleans, LA.
 
@@ -169,9 +171,11 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017, March). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 1823-1830). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/177469/
 
-### Peer-Reviewed Conference Presentations (25)
+### Peer-Reviewed Conference Presentations (26)
 
 Carpenter, J. P., & **Staudt Willet**, K. B. (2021, April). *Self-directed educator learning on Reddit: Comparing and contrasting two teaching-related subreddits* [Paper session]. American Educational Research Association (AERA) Annual Meeting 2021, Online.
+
+Rosenberg, J. M., & **Staudt Willet**, K. B. (2021, April). Advancing social influence models in learning analytics. In O. Poquet, B. Chen, M. Saqr, & T. Hecking (Chairs), *Using network science in learning analytics: Building bridges towards a common agenda* [Symposium]. The 11th International Learning Analytics and Knowledge Conference (LAK21). Society for Learning Analytics Research. https://learningfutures.github.io/lak-network/
 
 **Staudt Willet**, K. B., Galvin, S., & Greenhow, C. M. (2021, April). Flexible professional learning networks: Teachers turn to #Edchat during pandemic-disrupted education. In M. Rehm, K. Frank, & K. Torphy (Chairs), *Social opportunity spaces: How social media can inform / shape educational policy processes* [Symposium]. American Educational Research Association (AERA) Annual Meeting 2021, Online.
 
