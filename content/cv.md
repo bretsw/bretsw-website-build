@@ -35,15 +35,15 @@ caption = ""
 
 **Networked Learning in Online Communities:**
 
-* *Social media:* online learning environments, affinity spaces, learning ecologies
+* *Social media:* online learning environments, affinity spaces, learning ecology
 * *Educational data mining:* digital traces, big data
 * *Learning analytics:* social network analysis, discourse analysis, natural language processing
 
 **Related Projects:**
 
+* Transition Support Systems with Social Media
 * Educational Twitter Hashtags
 * Teaching-Related Subreddits
-* New Teachers' Social Media Use During Induction
 * Social Scholarship
 * Data Science in Education
 
@@ -55,12 +55,15 @@ caption = ""
 
 **Ph.D.**, Educational Psychology & Educational Technology (Expected Spring 2021)
 
-* Dissertation: *Into the edu-verse: New teachers seeking induction support on social media*
-  * [Read abbreviated findings](https://bretsw.github.io/eduverse-themes/)
-* Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond
-* Defended proposal: November 26, 2019
-  * [View slides](https://bretsw.github.io/dissertation-proposal/)
+* Dissertation: *"I filled a lot of gaps": How and why new teachers expand induction support systems with social media*
+  * To be defended on March 19, 2021)
+  * [Read full text](https://bretsw.github.io/dissertation-text)
+  * [View slides](https://bretsw.github.io/dissertation-slides)
+* Proposal 
+  * Defended on November 26, 2019
   * [Read proposal](https://bretsw.github.io/dissertation-proposal-text/)
+  * [View slides](https://bretsw.github.io/dissertation-proposal/)
+* Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond
 
 **M.A.**, Educational Technology (2015)  
 **Graduate Certificate**, Serious Game Design and Research (2014)
@@ -171,7 +174,9 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017, March). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 1823-1830). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/177469/
 
-### Peer-Reviewed Conference Presentations (26)
+### Peer-Reviewed Conference Presentations (27)
+
+Rosenberg, J. M., Galas, E., & **Staudt Willet**, K. B. (2021, June). *Who are the data scientists in education? An investigation of the identities and work of individuals in diverse roles* [Poster session]. Annual Meeting of the International Society of the Learning Sciences (ISLS). 
 
 Carpenter, J. P., & **Staudt Willet**, K. B. (2021, April). *Self-directed educator learning on Reddit: Comparing and contrasting two teaching-related subreddits* [Paper session]. American Educational Research Association (AERA) Annual Meeting 2021, Online.
 
