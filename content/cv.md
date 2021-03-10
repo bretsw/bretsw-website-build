@@ -359,12 +359,12 @@ Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefan
 
 ## Service
 
-### Journal Article Reviews (7)
+### Journal Article Reviews (8)
 
+* *Internet and Higher Education* (3) - 2019-2021
 * *American Journal of Education* (2) - 2019-2020
 * *Computers and Education* (1) - 2021
 * *Journal of Information Technology and Politics* (1) - 2020
-* *Internet and Higher Education* (2) - 2019
 * *Learning, Media and Technology* (1), with Dr. Christine Greenhow, faculty reviewer - 2016
 
 ### Service in Professional Organizations
