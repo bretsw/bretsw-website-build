@@ -14,9 +14,9 @@ caption = ""
 
 +++
 
-# K. Bret Staudt Willet  
+# K. Bret Staudt Willet, Ph.D. 
 
-**Ph.D. Candidate, Michigan State University**
+**Incoming Assistant Professor, Florida State University (Aug. 2021)**
 
 [Email](mailto:bret@bretsw.com) - 
 [Twitter](https://twitter.com/bretsw) - 
@@ -53,12 +53,12 @@ caption = ""
 
 ### Michigan State University
 
-**Ph.D.**, Educational Psychology & Educational Technology (Expected Spring 2021)
+**Ph.D.**, Educational Psychology & Educational Technology (2021)
 
 * Dissertation: *"I filled a lot of gaps": How and why new teachers expand induction support systems with social media*
-  * To be defended on March 19, 2021)
-  * [Read full text](https://bretsw.github.io/dissertation-text)
-  * [View slides](https://bretsw.github.io/dissertation-slides)
+  * Defended on March 19, 2021
+  * [Read full text](http://bretsw.com/dissertation-text)
+  * [View slides](http://bretsw.com/dissertation-slides)
 * Proposal 
   * Defended on November 26, 2019
   * [Read proposal](https://bretsw.github.io/dissertation-proposal-text/)

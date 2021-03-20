@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "K. Bret Staudt Willet"
+name = "K. Bret Staudt Willet, Ph.D."
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Ph.D. Candidate"
+role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Michigan State University", url = "http://education.msu.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a Ph.D. candidate in Educational Psychology & Educational Technology at Michigan State University. I research networked learning in online communities, exploring issues of agency in navigating the learning spaces afforded by social media."
+bio = "I start as a tenure-track Assistant Professor of Instructional Systems & Learning Technologies at Florida State University in August 2021. I research networked learning in online communities, exploring issues of agency in navigating the learning spaces afforded by social media."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -36,9 +36,9 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Ph.D. candidate in Educational Psychology & Educational Technology"
+  course = "Ph.D. in Educational Psychology & Educational Technology"
   institution = "Michigan State University"
-  year = "2021 (expected)"
+  year = 2021
 
 [[education.courses]]
   course = "M.A. in Educational Technology"
@@ -114,9 +114,9 @@ interests = [
 [*Read my CV*](cv/), 
 {{% staticref "files/cv.pdf" %}}download a PDF copy{{% /staticref %}}, or {{% staticref "files/resume.pdf" %}}download a two-page resume version{{% /staticref %}}.
 
-I am a Ph.D. candidate in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) at Michigan State University. I will start as a tenure-track Assistant Professor of [Instructional Systems & Learning Technologies](https://education.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University in August 2021.
+I start as a tenure-track Assistant Professor of [Instructional Systems & Learning Technologies](https://education.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University in August 2021.
 
-I hold a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/) and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
+I hold a [Ph.D. in Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/), a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/), and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
 
 ---
 
