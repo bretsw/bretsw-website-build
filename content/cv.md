@@ -100,7 +100,7 @@ Society for Information Technology & Teacher Education (SITE) International Conf
 
 ### Peer-Reviewed Journal Articles (14)
 
-Greenhow, C. M., **Staudt Willet**, K. B., & Galvin, S. (accepted). Inquiring tweets want to know: #Edchat supports for #RemoteTeaching during COVID-19. *British Journal of Educational Technology*.
+Greenhow, C. M., **Staudt Willet**, K. B., & Galvin, S. (in press). Inquiring tweets want to know: #Edchat supports for #RemoteTeaching during COVID-19. *British Journal of Educational Technology*.  https://doi.org/10.1111/bjet.13097
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (2021). A tale of two subreddits: Change and continuity in teaching-related online spaces. *British Journal of Educational Technology, 52*(2), 714-733. https://doi.org/10.1111/bjet.13051
 
