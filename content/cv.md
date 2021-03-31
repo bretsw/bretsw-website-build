@@ -55,7 +55,7 @@ caption = ""
 
 **Ph.D.**, Educational Psychology & Educational Technology (2021)
 
-* Dissertation: *"I filled a lot of gaps": How and why new teachers expand induction support systems with social media*
+* Dissertation: *"I filled a lot of gaps": How and why early career teachers expand induction support systems with social media*
   * Defended on March 19, 2021
   * [Read full text](http://bretsw.com/dissertation-text)
   * [View slides](http://bretsw.com/dissertation-slides)
@@ -384,8 +384,8 @@ Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefan
 **Society for Information Technology and Teacher Education (SITE)**
 
 * *Co-Chair*, Social Media SIG - 2019-2021
+* *Conference Proposal Reviewer* - 2020-2021
 * *Planning Committee Member*, SITE Interactive Conference - 2020
-* *Conference Proposal Reviewer* - 2020
 * *Graduate Student Intern*, Social Media SIG - 2018-2019
 
 **Passion Talks Conference (Google HQ, Mountain View CA)**

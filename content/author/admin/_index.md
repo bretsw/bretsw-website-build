@@ -132,7 +132,7 @@ I teach each of the Master’s courses in MSU’s [Graduate Certificate in Onlin
 
 ## Service
 
-I currently serve as Communications Officer of AECT's Research & Theory Division (2020-21) and Co-chair of SITE's Social Media SIG (2019-21). Since June 2020, I have been serving as the Executive Coach for [Black in Gaming](http://www.blackingaming.org). In 2019 I received a [Disciplinary Leadership Award](https://grad.msu.edu/2019-20-cogs-disciplinary-leadership-award-recipients) from Michigan State University.
+I currently serve as Communications Officer of AECT's Research & Theory Division (2020-21), and I was formerly the Secretary (2019-2020) and Graduate Student Representative (2018-2019) for RTD. I also served as Co-chair for SITE's Social Media SIG from 2019 to 2021. Since June 2020, I have been serving as the Executive Coach for [Black in Gaming](http://www.blackingaming.org). In 2019 I received a [Disciplinary Leadership Award](https://grad.msu.edu/2019-20-cogs-disciplinary-leadership-award-recipients) from Michigan State University.
 
 ![Bret's teaching](/img/bretsw-pic3.jpg)
 
