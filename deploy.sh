@@ -22,7 +22,7 @@ fi
 git commit -m "$msg"
 
 # 5. Push source and build repos.
-git push origin master
+git push origin main
 
 # 6. Come Back up to the Project Root
 cd ..
