@@ -318,15 +318,19 @@ Michigan State University, Council of Graduate Students
 
 ### Instructional Activities & Workshops (15)
 
-**Staudt Willet**, K. B. (2020, October). *You are stronger than you think: Insights for academic publishing* [Guest lecture for doctoral course]. CEP 956: Mind, Media and Learning, Michigan State University: East Lansing, MI. https://bretsw.github.io/publishing-lecture
-
-**Staudt Willet**, K. B. (2020, October). *Welcome to the good place?: Teachers' networked learning on social media* [Guest lecture for Master's course]. Teaching with Technology, Manhattanville College, Purchase, NY. https://bretsw.github.io/manhattanville-lecture
+Budhrani, K., Ross, K., Muljana, P., Dyer, R., Jones, M., & **Staudt Willet**, K. B. (2020, November). *Factors influencing doctoral students’ perseverance in online instructional technology programs* [Panel]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
 Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefaniak, J., Tiwari, S., Koehler, M., Rosenberg, J., **Staudt Willet**, K. B., Lockee, B., Zimmerman, H., Pérez-Edgar, K., Grant, M. M., & Ari, F. (2020, November). *Let’s talk about research methods: Where are we today?* [Panel]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
 **Staudt Willet**, K. B., Greenhalgh, S. P., & Rosenberg, J. M. (2020, November). *Simple collection and powerful analysis of Twitter data using R* [Conference workshop]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
+**Staudt Willet**, K. B. (2020, October). *You are stronger than you think: Insights for academic publishing* [Guest lecture for doctoral course]. CEP 956: Mind, Media and Learning, Michigan State University: East Lansing, MI. https://bretsw.github.io/publishing-lecture
+
+**Staudt Willet**, K. B. (2020, October). *Welcome to the good place?: Teachers' networked learning on social media* [Guest lecture for Master's course]. Teaching with Technology, Manhattanville College, Purchase, NY. https://bretsw.github.io/manhattanville-lecture
+
 **Staudt Willet**, K. B., Rosenberg, J. M., & Greenhalgh, S. P. (2020, March). *R u ready 4 R? Introduction to analyzing educational Internet data using R* [Workshop facilitated for the Students, Social Media & Schools research group at Florida State University]. Available from https://bretsw.github.io/fsu-workshop/
+
+**Staudt Willet**, K. B., & Bork, W. (2019, December). *Electronic assessment* [Presentation for Master of Arts in Educational Technology (MAET) instructor huddle]. Michigan State University, East Lansing, MI.
 
 **Staudt Willet**, K. B. (2019, November). *Content, conversation, & context: How educators talk to each other in Twitter #Edchat* [Presentation for Educational Psychology & Educational Technology PhD program brownbag seminar]. Michigan State University, East Lansing, MI.
 
