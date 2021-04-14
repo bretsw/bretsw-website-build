@@ -144,7 +144,7 @@ Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2021). Research methods
 
 ### Peer-Reviewed Conference Proceedings (15)
 
-**Staudt Willet**, K. B., Greenhow, C., & Lewin, C. (2021, March). Tweeting across the pond: COVID-19 emergency learning networks in the United Kingdom and the United States through Twitter #Edchat. In *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2021*. Association for the Advancement of Computing in Education (AACE).
+**Staudt Willet**, K. B., Greenhow, C., & Lewin, C. (2021, March). Tweeting across the pond: COVID-19 emergency learning networks in the United Kingdom and the United States through Twitter #Edchat. In E. Langran & L. Archambault (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2021* (pp. 1769-1778). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/219343/ 
 
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (2020, April). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action*. Paper presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020, New Orleans, LA.
 
