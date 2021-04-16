@@ -18,34 +18,21 @@ caption = ""
 
 **Incoming Assistant Professor, Florida State University (Aug. 2021)**
 
-[Email](mailto:bret@bretsw.com) - 
-[Twitter](https://twitter.com/bretsw) - 
-[Github](https://github.com/bretsw) - 
-[LinkedIn](https://www.linkedin.com/in/bretsw/) - 
-[Google Scholar](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en)
+---
 
-**Keywords:** *networked learning, online communities, social media*
-
-[Download a PDF copy of my CV](https://bretsw.github.io/files/cv.pdf)  
-[Download a PDF copy of the 2-page resume version](https://bretsw.github.io/files/resume.pdf)
+[Email](mailto:bret@bretsw.com) | 
+[Twitter](https://twitter.com/bretsw) | 
+[Github](https://github.com/bretsw) | 
+[LinkedIn](https://www.linkedin.com/in/bretsw/) | 
+[Google Scholar](https://scholar.google.com/citations?user=P-65wkIAAAAJ&hl=en) | 
+[CV (PDF)](https://bretsw.github.io/files/cv.pdf) | 
+[2-page resume (PDF)](https://bretsw.github.io/files/resume.pdf)
 
 ---
 
 ## Interests
 
-**Networked Learning in Online Communities:**
-
-* *Social media:* online learning environments, affinity spaces, learning ecology
-* *Educational data mining:* digital traces, big data
-* *Learning analytics:* social network analysis, discourse analysis, natural language processing
-
-**Related Projects:**
-
-* Transition Support Systems with Social Media
-* Educational Twitter Hashtags
-* Teaching-Related Subreddits
-* Social Scholarship
-* Data Science in Education
+**networked learning | online communities | social media | data science**
 
 ---
 

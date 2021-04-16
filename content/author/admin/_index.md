@@ -26,8 +26,9 @@ interests = [
    "Networked Learning",
    "Online Communities",
    "Social Media",
-   "Educational Data Mining",
-   "Learning Analytics"
+   "Data Science",
+   "Educational Technology",
+   "Human-Performance Technology"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -111,51 +112,41 @@ interests = [
 
 # Hi, I'm Bret.
 
-[*Read my CV*](cv/), 
-{{% staticref "files/cv.pdf" %}}download a PDF copy{{% /staticref %}}, or {{% staticref "files/resume.pdf" %}}download a two-page resume version{{% /staticref %}}.
-
 I start as a tenure-track Assistant Professor of [Instructional Systems & Learning Technologies](https://education.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University in August 2021.
 
-I hold a [Ph.D. in Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/), a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/), and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. I consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
+My research investigates *networked learning in online communities*. I explore this area in four ways. First, I study informal learning environments such as those supported by social media platforms like Twitter and Reddit. Second, I examine the identity-agency needed to navigate these environments, especially during disruptions and transitions. Third, I write about and seek greater understanding of technoethical issues raised by seeking professional learning in social networks. Fourth, and finally, I am interested in data science applications for educational research, such as the principles of open science, data mining of digital traces, social network analysis, and learning analytics. 
 
----
+- I have authored 14 peer-reviewed academic journal articles, 6 edited book chapters, and 42 conference presentations. 
+- I developed the [{tidytags}](https://github.com/bretsw/tidytags) package for the statistical programming language R to assist other researchers in collecting and analyzing Twitter data. 
+- I deliver professional development workshops on using R for data science in educational research. 
+- I currently serve as the Communications Officer for the [Research & Theory Division](https://sites.google.com/view/aectrtd/home) of the Association for Educational Communications & Technology (AECT) and the Executive Coach for [Black in Gaming](https://www.thebigfoundation.org/).
 
-I have written more extensively about my [research agenda](post/research-statement), [teaching philosophy](post/teaching-statement), and [diversity beliefs](post/diversity-statement) in dedicated posts, but I offer brief introductions to my research, teaching, and service here.
+I hold a [Ph.D. in Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/), a [Master's Degree in Educational Technology](https://education.msu.edu/cepse/maet/), and a [Graduate Certificate in Serious Game Design and Research](https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/serious-game-design-ma-certificate) from Michigan State University, and a bachelor’s degree in mathematics and sociology from Bucknell University. 
 
-## Research
-
-I research *networked learning* in online communities. Specifically, I explore issues of agency in navigating the learning spaces afforded by social media. I use educational data mining and learning analytics approaches to understand the ways people participate in these novel, often informal, online learning environments. My work has been disseminated through 14 peer-reviewed academic journal articles, 6 edited book chapters, and 42 conference presentations. I developed the [{tidytags}](https://github.com/bretsw/tidytags) R package to assist other researchers in collecting and analyzing Twitter data.
-
-## Teaching
-
-I teach each of the Master’s courses in MSU’s [Graduate Certificate in Online Teaching and Learning](http://education.msu.edu/academics/graduate-specializations-certificates/#online-teaching-learning), as well as a course to help undergraduate preservice teachers think critically about using technology for teaching and learning.
-
-## Service
-
-I currently serve as Communications Officer of AECT's Research & Theory Division (2020-21), and I was formerly the Secretary (2019-2020) and Graduate Student Representative (2018-2019) for RTD. I also served as Co-chair for SITE's Social Media SIG from 2019 to 2021. Since June 2020, I have been serving as the Executive Coach for [Black in Gaming](http://www.blackingaming.org). In 2019 I received a [Disciplinary Leadership Award](https://grad.msu.edu/2019-20-cogs-disciplinary-leadership-award-recipients) from Michigan State University.
+I consider my strongest credential to be my ongoing friendship with my very first online friend, who I met in an AOL chatroom in the early 1990s.
 
 ![Bret's teaching](/img/bretsw-pic3.jpg)
+
+## Read More
+
+[CV (web)](cv/) | 
+[CV (PDF)](https://bretsw.github.io/files/cv.pdf) | 
+[research agenda](post/research-statement) | 
+[teaching philosophy](post/teaching-statement) | 
+[diversity beliefs](post/diversity-statement)
 
 ---
 
 ## Professional Affiliations
 
-**Association for Educational Communications & Technology** [AECT](https://aect.org/)  
-<i class="fa fa-trophy"></i> Featured Research, 2020  
-<i class="fa fa-graduation-cap"></i> Early Career Symposium, 2020  
-*Research & Theory Division* (Secretary 2019-2020; Communications Officer 2020-2021)
+**Association for Educational Communications & Technology** | [AECT](https://aect.org/)  
+*Research & Theory Division*
 
-**American Educational Research Association** [AERA](https://www.aera.net/)  
-*Division C* – Learning & Instruction  
+**American Educational Research Association** | [AERA](https://www.aera.net/)  
 *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG  
+*Division C* – Learning & Instruction
 
-**Association of Internet Researchers** [AoIR](http://aoir.org/)  
-<i class="fa fa-graduation-cap"></i> Doctoral Colloquium, 2018
-
-**Society for Information Technology and Teacher Education** [SITE](http://site.aace.org/)  
-<i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/215919/), 2020  
-<i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/208040/), 2019  
-<i class="fa fa-trophy"></i> [Outstanding Paper Award](https://www.learntechlib.org/p/177469/), 2017  
-*Social Media SIG* (Co-chair 2019-2021)
+**Society for Information Technology and Teacher Education** | [SITE](http://site.aace.org/)  
+*Social Media SIG*
 
 ---
