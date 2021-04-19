@@ -303,7 +303,9 @@ Michigan State University, Council of Graduate Students
 * Students playfully explore Google Apps, course management systems, screencasting tools, and file management systems.
 * The semester-long project is to design a curriculum for an *online course module* consisting of 3-5 interconnected lessons, which may include training sessions or non-traditional courses.
 
-### Instructional Activities & Workshops (15)
+### Instructional Activities & Workshops (16)
+
+Rosenberg, J. M., & **Staudt Willet**, K. B. (2021, April). *Programmatically accessing social media (especially Twitter) data* [Guest lecture for doctoral course]. CEP 991B: Social Networks II: Application of Analyses and Methods, Michigan State University: East Lansing, MI. https://bit.ly/twitter-sna
 
 Budhrani, K., Ross, K., Muljana, P., Dyer, R., Jones, M., & **Staudt Willet**, K. B. (2020, November). *Factors influencing doctoral students’ perseverance in online instructional technology programs* [Panel]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
@@ -350,11 +352,12 @@ Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefan
 
 ## Service
 
-### Journal Article Reviews (8)
+### Journal Article Reviews (9)
 
-* *Internet and Higher Education* (3) - 2019-2021
+* *AERA Open* (1) - 2021
 * *American Journal of Education* (2) - 2019-2020
 * *Computers and Education* (1) - 2021
+* *Internet and Higher Education* (3) - 2019-2021
 * *Journal of Information Technology and Politics* (1) - 2020
 * *Learning, Media and Technology* (1), with Dr. Christine Greenhow, faculty reviewer - 2016
 
@@ -368,7 +371,7 @@ Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefan
 
 * *Communications Officer*, Research & Theory Division - 2020-2021
 * *Secretary*, Research & Theory Division - 2019-2020
-* *Conference Proposal Reviewer* - 2019-2020
+* *Conference Proposal Reviewer* - 2019-2021
 * *Graduate Student Representative*, Research & Theory Division - 2018-2019
 * *Webinar Team Leader*, Graduate Student Association - 2018-2019
 
