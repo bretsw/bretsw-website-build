@@ -352,14 +352,15 @@ Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefan
 
 ## Service
 
-### Journal Article Reviews (9)
+### Journal Article Reviews (11)
 
 * *AERA Open* (1) - 2021
 * *American Journal of Education* (2) - 2019-2020
-* *Computers and Education* (1) - 2021
+* *Computers and Education* (2) - 2021
 * *Internet and Higher Education* (3) - 2019-2021
 * *Journal of Information Technology and Politics* (1) - 2020
 * *Learning, Media and Technology* (1), with Dr. Christine Greenhow, faculty reviewer - 2016
+* *TechTrends* (1) - 2021
 
 ### Service in Professional Organizations
 
