@@ -85,7 +85,9 @@ Society for Information Technology & Teacher Education (SITE) International Conf
 
 ## Research
 
-### Peer-Reviewed Journal Articles (14)
+### Peer-Reviewed Journal Articles (15)
+
+Carpenter, J. P., & **Staudt Willet**, K. B. (accepted). The teachers’ lounge and the debate hall: Anonymous self-directed learning in two teaching-related subreddits. *Teaching and Teacher Education*.
 
 Greenhow, C. M., **Staudt Willet**, K. B., & Galvin, S. (in press). Inquiring tweets want to know: #Edchat supports for #RemoteTeaching during COVID-19. *British Journal of Educational Technology*.  https://doi.org/10.1111/bjet.13097
 

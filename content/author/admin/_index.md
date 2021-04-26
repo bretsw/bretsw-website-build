@@ -116,7 +116,7 @@ I start as a tenure-track Assistant Professor of [Instructional Systems & Learni
 
 My research investigates *networked learning in online communities*. I explore this area in four ways. First, I study informal learning environments such as those supported by social media platforms like Twitter and Reddit. Second, I examine the identity-agency needed to navigate these environments, especially during disruptions and transitions. Third, I write about and seek greater understanding of technoethical issues raised by seeking professional learning in social networks. Fourth, and finally, I am interested in data science applications for educational research, such as the principles of open science, data mining of digital traces, social network analysis, and learning analytics. 
 
-- I have authored 14 peer-reviewed academic journal articles, 6 edited book chapters, and 42 conference presentations. 
+- I have authored 15 peer-reviewed academic journal articles, 6 edited book chapters, and 42 conference presentations. 
 - I developed the [{tidytags}](https://github.com/bretsw/tidytags) package for the statistical programming language R to assist other researchers in collecting and analyzing Twitter data. 
 - I deliver professional development workshops on using R for data science in educational research. 
 - I currently serve as the Communications Officer for the [Research & Theory Division](https://sites.google.com/view/aectrtd/home) of the Association for Educational Communications & Technology (AECT) and the Executive Coach for [Black in Gaming](https://www.thebigfoundation.org/).
