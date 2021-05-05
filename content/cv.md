@@ -16,7 +16,7 @@ caption = ""
 
 # K. Bret Staudt Willet, Ph.D. 
 
-**Incoming Assistant Professor, Florida State University (Aug. 2021)**
+**Assistant Professor, Florida State University**
 
 ---
 
@@ -58,28 +58,6 @@ caption = ""
 ### Bucknell University
 
 **B.A.**, Mathematics & Sociology (2003)
-
----
-
-## Awards
-
-<i class="fa fa-trophy"></i> **Clifford E. Erickson Memorial Fund Scholarship** (2020)  
-Michigan State University, College of Education - East Lansing MI
-
-<i class="fa fa-trophy"></i> **Featured Research** (2020)  
-Association for Educational Communications and Technology (AECT) International Convention - Online
-
-<i class="fa fa-trophy"></i> **Outstanding Paper Award** (2020)  
-Society for Information Technology & Teacher Education (SITE) International Conference - Online
-
-<i class="fa fa-trophy"></i> **Disciplinary Leadership Award** (2019)  
-Michigan State University, Council of Graduate Students - East Lansing MI
-
-<i class="fa fa-trophy"></i> **Outstanding Paper Award** (2019)  
-Society for Information Technology & Teacher Education (SITE) International Conference - Las Vegas NV
-
-<i class="fa fa-trophy"></i> **Outstanding Paper Award** (2017)  
-Society for Information Technology & Teacher Education (SITE) International Conference - Austin TX
 
 ---
 
@@ -221,7 +199,7 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 ---
 
-## Funding
+## Awards and Funding
 
 ### Grants and Fellowships (Funded): $33,675
 
@@ -275,11 +253,41 @@ Michigan State University, College of Education
 **Disciplinary Leadership Award: Not Funded** (2017)  
 Michigan State University, Council of Graduate Students
 
+### Special Recognition
+
+<i class="fa fa-trophy"></i> **Featured Research** (2020)  
+Association for Educational Communications and Technology (AECT) International Convention - Online
+
+<i class="fa fa-trophy"></i> **Outstanding Paper Award** (2020)  
+Society for Information Technology & Teacher Education (SITE) International Conference - Online
+
+<i class="fa fa-trophy"></i> **Outstanding Paper Award** (2019)  
+Society for Information Technology & Teacher Education (SITE) International Conference - Las Vegas NV
+
+<i class="fa fa-trophy"></i> **Outstanding Paper Award** (2017)  
+Society for Information Technology & Teacher Education (SITE) International Conference - Austin TX
+
+
 ---
 
 ## Teaching
 
-### Courses Taught
+### Teaching Awards
+
+**Best Fully Online Course:** *CEP 817 - Learning Technology by Design* (2021)  
+[MSU AT&T Faculty-Staff Annual Competition in Instructional Technology](https://attawards.msu.edu/)
+
+### Courses Taught, Florida State University
+
+**Learning and Web Analytics** (Doctoral, online, 1x, 2021)
+
+This course addresses the collection and use of data for decision making and assessment in learning and human performance contexts. Students will get hands-on experience with small data sets and will learn how big data sets are collected and used. The course will explore the role that analytics plays in education and related fields, identify the types of questions that might be answered via both quantitative and qualitative analytics, and engage in analytic- related problem solving. This course will examine case studies and provide students with practice using a variety of tools and services that can help them collect and analyze learning and web data. There are no pre-requisites, and although data will be used, prior experience with statistics or research design is not necessary.
+
+**Evaluation of Instruction and Training in Human-Performance Technology** (Master's, online, 1x, 2021)
+
+This course focuses on the evaluation of training and instruction through a systemic analysis of the organization sponsoring the training program. The course also provides the knowledge and skills for conducting an HPT-based evaluation of training systems. 
+
+### Courses Taught, Michigan State University
 
 **Teaching & Learning with Technology** (Undergraduate, online, 7x, 2017-2020)
 
@@ -403,6 +411,9 @@ Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefan
 ---
 
 ## Professional Experience
+
+**Assistant Professor** \hfill 2021-present  
+Florida State University \hfill Tallahassee FL
 
 **Executive Coach** (2020-present)  
 Black in Gaming - United States

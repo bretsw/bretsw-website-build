@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = ""
+role = "Assistant Professor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Michigan State University", url = "http://education.msu.edu/" } ]
+organizations = [ { name = "Florida State University", url = "https://education.fsu.edu/islt" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "I start as a tenure-track Assistant Professor of Instructional Systems & Learning Technologies at Florida State University in August 2021. I research networked learning in online communities, exploring issues of agency in navigating the learning spaces afforded by social media."
