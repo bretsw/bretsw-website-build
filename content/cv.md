@@ -42,7 +42,8 @@ caption = ""
 
 **Ph.D.**, Educational Psychology & Educational Technology (2021)
 
-* Dissertation: *"I filled a lot of gaps": How and why early career teachers expand induction support systems with social media*
+* Dissertation:
+  * Staudt Willet, K. B. (2021). *"I filled a lot of gaps": How and why early career teachers expand induction support systems with social media* (Publication No. 28414983) [Doctoral dissertation, Michigan State University]. ProQuest Dissertations & Theses Global.
   * Defended on March 19, 2021
   * [Read full text](http://bretsw.com/dissertation-text)
   * [View slides](http://bretsw.com/dissertation-slides)
