@@ -16,7 +16,7 @@ role = "Assistant Professor"
 organizations = [ { name = "Florida State University", url = "https://education.fsu.edu/islt" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I start as a tenure-track Assistant Professor of Instructional Systems & Learning Technologies at Florida State University in August 2021. I research networked learning in online communities, exploring issues of agency in navigating the learning spaces afforded by social media."
+bio = "I am a tenure-track Assistant Professor of Instructional Systems & Learning Technologies at Florida State University. I research networked learning in online communities, exploring issues of agency in navigating the learning spaces afforded by social media."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -112,7 +112,7 @@ interests = [
 
 # Hi, I'm Bret.
 
-I start as a tenure-track Assistant Professor of [Instructional Systems & Learning Technologies](https://education.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University in August 2021.
+I am a tenure-track Assistant Professor of [Instructional Systems & Learning Technologies](https://education.fsu.edu/instructional-systems-and-learning-technologies) at Florida State University.
 
 My research investigates *networked learning in online communities*. I explore this area in four ways. First, I study informal learning environments such as those supported by social media platforms like Twitter and Reddit. Second, I examine the identity-agency needed to navigate these environments, especially during disruptions and transitions. Third, I write about and seek greater understanding of technoethical issues raised by seeking professional learning in social networks. Fourth, and finally, I am interested in data science applications for educational research, such as the principles of open science, data mining of digital traces, social network analysis, and learning analytics. 
 
