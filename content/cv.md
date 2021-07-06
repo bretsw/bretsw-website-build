@@ -30,12 +30,6 @@ caption = ""
 
 ---
 
-## Interests
-
-**networked learning | online communities | social media | data science**
-
----
-
 ## Education
 
 ### Michigan State University
@@ -68,7 +62,7 @@ caption = ""
 
 15\. Carpenter, J. P., & **Staudt Willet**, K. B. (2021). The teachers’ lounge and the debate hall: Anonymous self-directed learning in two teaching-related subreddits. *Teaching and Teacher Education, 104*, 103371. https://doi.org/10.1016/j.tate.2021.103371
 
-14\. Greenhow, C. M., **Staudt Willet**, K. B., & Galvin, S. (2021). Inquiring tweets want to know: #Edchat supports for #RemoteTeaching during COVID-19. *British Journal of Educational Technology*. https://doi.org/10.1111/bjet.13097
+14\. Greenhow, C. M., **Staudt Willet**, K. B., & Galvin, S. (2021). Inquiring tweets want to know: #Edchat supports for #RemoteTeaching during COVID-19. *British Journal of Educational Technology, 52*(4), 1434-1454. https://doi.org/10.1111/bjet.13097
 
 13\. **Staudt Willet**, K. B., & Carpenter, J. P. (2021). A tale of two subreddits: Change and continuity in teaching-related online spaces. *British Journal of Educational Technology, 52*(2), 714-733. https://doi.org/10.1111/bjet.13051
 
